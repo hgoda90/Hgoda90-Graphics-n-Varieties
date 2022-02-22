@@ -1,0 +1,5 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/Nintendo_GBA_SP/GBA_SP-[STD]-[LCD-GRID]-[Night].slangp"
+HSM_DEVICE_COLORIZE_ON = "1.000000"
+HSM_DEVICE_HUE = "360.000000"
+HSM_DEVICE_SATURATION = "134.000000"
+HSM_DEVICE_BRIGHTNESS = "146.000000"

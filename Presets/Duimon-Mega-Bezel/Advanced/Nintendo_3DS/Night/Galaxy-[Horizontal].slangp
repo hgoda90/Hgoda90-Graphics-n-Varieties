@@ -1,0 +1,4 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/Nintendo_3DS/3DS-[ADV]-[Guest]-[Night].slangp
+HSM_DEVICE_HUE = "242.000000"
+HSM_DEVICE_SATURATION = "88.000000"
+HSM_DEVICE_BRIGHTNESS = "88.000000"

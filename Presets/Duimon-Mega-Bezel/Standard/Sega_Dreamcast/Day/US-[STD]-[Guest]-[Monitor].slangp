@@ -1,0 +1,5 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/SEGA_Dreamcast/Dreamcast-[STD]-[Guest]-[Monitor].slangp"
+HSM_BZL_COLOR_HUE = "0.000000"
+HSM_BZL_COLOR_SATURATION = "200.000000"
+HSM_BZL_COLOR_BRIGHTNESS = "184.000000"
+BackgroundImage = "../../../../../Graphics/Duimon-Mega-Bezel/Sega_Dreamcast/US.png"

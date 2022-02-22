@@ -1,0 +1,5 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/Nintendo_3DS/3DS_Vertical_Alt-[STD]-[Guest-Mini].slangp"
+HSM_DEVICE_HUE = "180.000000"
+HSM_DEVICE_SATURATION = "2.000000"
+HSM_DEVICE_BRIGHTNESS = "200.000000"
+HSM_DEVICE_GAMMA = "4.000000"
