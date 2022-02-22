@@ -13,7 +13,7 @@ To use the Varieties the following are required
 All files need to be placed inside the Mega_Bezel_Community folder inside retroarch/shaders
 
 ## Download
-To download the files just clone the files with git clone https://github.com/hgoda90/Hgoda90-Graphic-Varieties.git or they can be downloaded as zip.
+To download the files just clone the files with ```git clone https://github.com/hgoda90/Hgoda90-Graphic-Varieties.git``` or they can be downloaded as zip.
 The recommended way to download is clone using Github Desktop.
 
 ## Screenshots
