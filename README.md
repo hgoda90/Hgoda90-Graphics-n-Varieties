@@ -10,7 +10,7 @@ To use the Varieties the following are required
 **Soqueroeu Mega Bezel TV Backgrounds**: https://github.com/soqueroeu/Soqueroeu-TV-Backgrounds
 
 
-All files need to be placed inside the Mega_Bezel_Community folder inside retroarch/shaders
+All files need to be placed inside the Mega_Bezel_Community folder inside retroarch/shaders, except for Mega Bezel. Place Mega Bezel inside retroarch/shader/shader_slang/. If you download the zip file extract the folder to Mega_Bezel_Community and remove -master from folder name.
 
 ## Download
 To download the files just clone the files with ```git clone https://github.com/hgoda90/Hgoda90-Graphic-Varieties.git``` or they can be downloaded as zip.
