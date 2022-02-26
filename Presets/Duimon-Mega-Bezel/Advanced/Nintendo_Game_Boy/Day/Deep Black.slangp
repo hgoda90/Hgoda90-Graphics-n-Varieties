@@ -1,6 +1,6 @@
 #reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/Nintendo_Game_Boy/Gameboy_DMG01-[ADV]-[LCD-GRID].slangp"
 HSM_DEVICE_HUE = "0.000000"
-HSM_DEVICE_SATURATION = "1000000"
+HSM_DEVICE_SATURATION = "1.000000"
 HSM_DEVICE_BRIGHTNESS = "2.000000"
 HSM_DEVICE_GAMMA = "0.700000"
 HSM_DECAL_HUE = "341.000000"
