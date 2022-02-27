@@ -1,0 +1,8 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/NEC_TurboGrafx_16/TurboGrafx16-[STD]-[Guest]-[PVM20].slangp"
+HSM_BZL_COLOR_HUE = "0.000000"
+HSM_BZL_COLOR_SATURATION = "0.000000"
+HSM_BZL_COLOR_VALUE = "10.000000"
+HSM_DEVICE_HUE = "17.000000"
+HSM_DEVICE_SATURATION = "90.000000"
+HSM_DEVICE_BRIGHTNESS = "75.000000"
+DeviceImage = "../../../../../../Duimon-Mega-Bezel/Graphics/PVM/PVM20_Bezel2.png"

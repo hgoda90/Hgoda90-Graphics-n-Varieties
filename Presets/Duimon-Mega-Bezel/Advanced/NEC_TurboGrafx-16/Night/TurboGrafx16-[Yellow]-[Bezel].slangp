@@ -1,0 +1,6 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/NEC_TurboGrafx_16/TurboGrafx16-[ADV]-[Guest]-[Bezel]-[Night].slangp"
+HSM_BZL_COLOR_HUE = "65.000000"
+HSM_BZL_COLOR_SATURATION = "66.000000"
+HSM_BZL_COLOR_VALUE = "90.200000"
+HSM_DECAL_SATURATION = "0.000000"
+HSM_DECAL_BRIGHTNESS = "10.000000"
