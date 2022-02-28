@@ -1,5 +1,5 @@
 #reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/Panasonic_3DO/3DO-[STD]-[Guest-Mini]-[PVM20]-[Night].slangp"
 HSM_DEVICE_HUE = "82.000000"
 HSM_DEVICE_SATURATION = "100.000000"
-HSM_DEVICE_BRIGHTNESS = "43.000000"
+HSM_DEVICE_BRIGHTNESS = "46.000000"
 DeviceImage = "../../../../../../Duimon-Mega-Bezel/Graphics/PVM/PVM20_Bezel2.png"
