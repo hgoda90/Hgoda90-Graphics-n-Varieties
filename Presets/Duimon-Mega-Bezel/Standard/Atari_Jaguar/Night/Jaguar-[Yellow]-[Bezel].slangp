@@ -1,0 +1,6 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/Atari_Jaguar/Jaguar-[STD]-[Guest]-[Bezel]-[Night].slangp"
+HSM_BZL_COLOR_HUE = "43.000000"
+HSM_BZL_COLOR_SATURATION = "92.000000"
+HSM_BZL_COLOR_VALUE = "75.400000"
+HSM_DECAL_HUE = "45.000000"
+HSM_DECAL_BRIGHTNESS = "3.000000"

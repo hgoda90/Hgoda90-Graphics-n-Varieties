@@ -1,0 +1,7 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/Mattel_Intellivision/Intellivision-[STD]-[Guest]-[Bezel].slangp"
+HSM_BZL_COLOR_HUE = "49.000000"
+HSM_BZL_COLOR_SATURATION = "24.000000"
+HSM_BZL_COLOR_VALUE = "69.000000"
+HSM_DECAL_COLORIZE_ON = "1.000000"
+HSM_DECAL_HUE = "24.000000"
+HSM_DECAL_BRIGHTNESS = "14.000000"

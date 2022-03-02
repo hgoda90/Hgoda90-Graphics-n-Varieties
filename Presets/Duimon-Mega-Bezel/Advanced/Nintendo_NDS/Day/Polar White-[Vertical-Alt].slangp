@@ -1,4 +1,4 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/Nintendo_NDS/NDS_Vertical_Alt-[STD]-[Guest-Mini].slangp"
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/Nintendo_NDS/NDS_Vertical_Alt-[ADV]-[Guest].slangp"
 HSM_GLOBAL_GRAPHICS_BRIGHTNESS = "150.000000"
 HSM_DEVICE_SATURATION = "0.000000"
 HSM_DEVICE_BRIGHTNESS = "200.000000"
