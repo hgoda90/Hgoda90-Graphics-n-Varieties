@@ -1,0 +1,6 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/Nintendo_NES/NES_Alt-[STD]-[Guest]-[Bezel].slangp"
+HSM_BZL_COLOR_SATURATION = "0.000000"
+HSM_BZL_COLOR_VALUE = "75.800000"
+HSM_DECAL_COLORIZE_ON = "1.000000"
+HSM_DECAL_SATURATION = "200.000000"
+HSM_DECAL_BRIGHTNESS = "90.000000"
