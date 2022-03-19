@@ -1,4 +1,5 @@
 #reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/PVM_TM20/TM20_02-[ADV]-[Guest].slangp"
+HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
 HSM_BZL_COLOR_HUE = "0.000000"
 HSM_BZL_COLOR_SATURATION = "0.000000"
 HSM_BZL_COLOR_VALUE = "9.400000"

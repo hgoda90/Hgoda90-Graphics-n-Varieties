@@ -1,4 +1,5 @@
 #reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/PVM_PVM20/PVM20_03-[STD]-[Guest].slangp"
+HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
 HSM_DEVICE_HUE = "0.000000"
 HSM_DEVICE_SATURATION = "0.000000"
 HSM_DEVICE_BRIGHTNESS = "30.000000"
