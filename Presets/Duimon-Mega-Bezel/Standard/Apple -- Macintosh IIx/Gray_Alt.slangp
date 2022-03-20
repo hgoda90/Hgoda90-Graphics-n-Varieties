@@ -1,0 +1,7 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Apple_Macintosh_IIx/mac_IIx_Alt-[STD]-[Guest].slangp"
+HSM_BZL_COLOR_HUE = "0.000000"
+HSM_BZL_COLOR_SATURATION = "0.000000"
+HSM_BZL_COLOR_VALUE = "100.000000"
+HSM_DEVICE_SATURATION = "0.000000"
+HSM_DECAL_SATURATION = "0.000000"
+HSM_CAB_GLASS_SATURATION = "0.000000"
