@@ -43,7 +43,7 @@ The recommended way to download is clone using Github Desktop.
 ![Legend of Zelda, The - A Link to the Past (USA)-220515-181512|690x388](https://forums.libretro.com/uploads/default/original/3X/6/e/6e33fcedbfbda92edc897da780869051a94f99bb.jpeg)
 
 
-##Credit
+## Credit
 
 **Mega Bezel**: [HyperspaceMadness](https://forums.libretro.com/u/HyperspaceMadness)
 
