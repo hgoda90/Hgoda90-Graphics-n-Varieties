@@ -45,7 +45,7 @@ The recommended way to download is clone using Github Desktop.
 
 ##Credit
 
-**Mega Bezel**: [HyperspaceMadness](https://www.youtube.com/c/OrionsAngel)
+**Mega Bezel**: [HyperspaceMadness](https://forums.libretro.com/u/HyperspaceMadness)
 
 **Duimon HSM Mega Bezel Graphics**: [Duimon](https://forums.libretro.com/u/Duimon)
 
