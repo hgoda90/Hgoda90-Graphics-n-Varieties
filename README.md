@@ -11,10 +11,13 @@ To use the Varieties the following are required
 
 **OrionsAngel Console Overlays**: https://www.youtube.com/playlist?list=PL3KJBrqmANQ6YCthB-FTkQhWFknxTeh-s
 
+**OrionsAngel Candy Cab**: https://www.youtube.com/watch?v=4YTftV_UQ2k
+
 
 All files need to be placed inside the Mega_Bezel_Community folder inside retroarch/shaders, except for Mega Bezel. Place Mega Bezel inside retroarch/shader/shader_slang/. If you download the zip file extract the folder to Mega_Bezel_Community and remove -master from folder name.
 
 OrionsAngel Console Overlay images have to be placed inside Mega_Bezel_Community\Hgoda90-Graphic-Varieties\Graphics\OrionsAngel\console.
+OrionsAngel Candy Cab Overlay images have to be placed inside Mega_Bezel_Community\Hgoda90-Graphic-Varieties\Graphics\OrionsAngel\Candy Cab.
 
 ## Download
 To download the files just clone the files with ```git clone https://github.com/hgoda90/Hgoda90-Graphic-Varieties.git``` or they can be downloaded as zip.
@@ -43,6 +46,10 @@ The recommended way to download is clone using Github Desktop.
 ![Legend of Zelda, The - A Link to the Past (USA)-220515-181512|690x388](https://forums.libretro.com/uploads/default/original/3X/6/e/6e33fcedbfbda92edc897da780869051a94f99bb.jpeg)
 
 
+**OrionsAngel Candy Cab Overlay**
+![topgunr-220603-221254|690x388, 50%]((https://forums.libretro.com/uploads/default/original/3X/6/e/ssFlfGGGXdegYMpWMN8nA8mOgmu.jpeg)
+
+
 ## Credit
 
 **Mega Bezel**: [HyperspaceMadness](https://forums.libretro.com/u/HyperspaceMadness)
@@ -51,4 +58,4 @@ The recommended way to download is clone using Github Desktop.
 
 **Soqueroeu Mega Bezel TV Backgrounds**: [Soqueroeu](https://forums.libretro.com/u/soqueroeu)
 
-**OrionsAngel Console Overlays**: [OrionsAngel](https://www.youtube.com/c/OrionsAngel)
+**OrionsAngel Console Overlays** && **OrionsAngel Candy Cab Overlays**: [OrionsAngel](https://www.youtube.com/c/OrionsAngel)
