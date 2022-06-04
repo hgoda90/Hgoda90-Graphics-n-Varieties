@@ -47,7 +47,7 @@ The recommended way to download is clone using Github Desktop.
 
 
 **OrionsAngel Candy Cab Overlay**
-![topgunr-220603-221254|690x388, 50%](https://forums.libretro.com/uploads/default/original/3X/6/e/ssFlfGGGXdegYMpWMN8nA8mOgmu.jpeg)
+![topgunr-220603-221254|690x388, 50%](https://forums.libretro.com/uploads/default/original/3X/c/7/c77a709a189b2bc1cff371f6159b76f7e3366e02.jpeg)
 
 
 ## Credit
