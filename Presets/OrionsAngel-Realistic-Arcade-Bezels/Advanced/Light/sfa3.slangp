@@ -1,0 +1,8 @@
+#reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/MBZ__1__ADV.slangp"
+HSM_ASPECT_RATIO_EXPLICIT = "1.229300"
+HSM_USE_IMAGE_FOR_PLACEMENT = "1.000000"
+HSM_NON_INTEGER_SCALE_OFFSET = "66.400000"
+HSM_SCREEN_POSITION_X = "-6.000000"
+HSM_SCREEN_POSITION_Y = "-67.000000"
+HSM_FRM_OPACITY = "0.000000"
+BackgroundImage = "../../../../Graphics/OrionsAngel/My Realistic Arcade Bezels/sfa3.png"
