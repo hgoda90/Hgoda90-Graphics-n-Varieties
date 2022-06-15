@@ -1,0 +1,4 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/uzebox/uzebox-[STD]-[Guest-Mini]-[PVM20].slangp"
+HSM_BG_HUE = "120.000000"
+HSM_BG_BRIGHTNESS = "100.000000"
+HSM_BG_GAMMA = "1.000000"
