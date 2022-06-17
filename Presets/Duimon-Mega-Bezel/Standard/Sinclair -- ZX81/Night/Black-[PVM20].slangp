@@ -1,0 +1,6 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/Sinclair_ZX81/ZX81-[STD]-[Guest]-[PVM20]-[Night].slangp"
+HSM_DEVICE_HUE = "0.000000"
+HSM_DEVICE_SATURATION = "0.000000"
+HSM_DEVICE_BRIGHTNESS = "2.000000"
+HSM_DEVICE_GAMMA = "0.800000"
+DeviceImage = "../../../../../../Duimon-Mega-Bezel/Graphics/PVM/PVM20_Bezel2.png"

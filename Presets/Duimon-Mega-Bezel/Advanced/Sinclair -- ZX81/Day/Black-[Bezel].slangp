@@ -1,0 +1,7 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/Sinclair_ZX81/ZX81-[ADV]-[Guest]-[Bezel].slangp"
+HSM_BZL_COLOR_VALUE = "11.000000"
+HSM_DECAL_COLORIZE_ON = "1.000000"
+HSM_DECAL_HUE = "1.000000"
+HSM_DECAL_SATURATION = "199.000000"
+HSM_DECAL_BRIGHTNESS = "190.000000"
+HSM_DECAL_GAMMA = "1.500000"
