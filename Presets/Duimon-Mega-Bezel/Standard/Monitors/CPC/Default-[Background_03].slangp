@@ -1,0 +1,5 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/Amstrad_CPC/CPC464-[STD]-[Guest]-[Monitor].slangp"
+HSM_NON_INTEGER_SCALE = "66.170000"
+HSM_SCREEN_POSITION_Y = "70.000000"
+BackgroundImage = "../../../../../../Duimon-Mega-Bezel/Graphics/PVM_PVM20/PVM_background_03.jpg"
+DeviceImage = "../../../../../../Duimon-Mega-Bezel/Graphics/Amstrad_CPC/CPC464_Monitor.png"
