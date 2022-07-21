@@ -1,0 +1,8 @@
+#reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__0__SMOOTH-ADV__GDV.slangp"
+HSM_ASPECT_RATIO_EXPLICIT = "1.221300"
+HSM_USE_IMAGE_FOR_PLACEMENT = "1.000000"
+HSM_NON_INTEGER_SCALE_OFFSET = "54.100000"
+HSM_SCREEN_POSITION_X = "-3.000000"
+HSM_SCREEN_POSITION_Y = "9.000000"
+HSM_FRM_OPACITY = "0.000000"
+BackgroundImage = "../../../../Graphics/OrionsAngel/My Realistic Arcade Bezels/goldenaxealt.png"
