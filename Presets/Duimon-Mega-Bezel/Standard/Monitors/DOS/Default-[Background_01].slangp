@@ -1,0 +1,4 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/DOSBox/DOSBox-[STD]-[Guest]-[Monitor].slangp"
+HSM_NON_INTEGER_SCALE = "61.000000"
+HSM_SCREEN_POSITION_Y = "20.000000"
+BackgroundImage = "../../../../../../Duimon-Mega-Bezel/Graphics/PVM_PVM20/PVM_background_01.jpg"
