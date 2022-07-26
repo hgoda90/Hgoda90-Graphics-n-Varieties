@@ -1,4 +1,4 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/Nintendo_3DS/3DS_Vertical-[STD]-[LCD-GRID]-[Integer]-[Night].slangp
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/Nintendo_3DS/3DS_Vertical-[STD]-[LCD-GRID]-[Integer]-[Night].slangp"
 HSM_DEVICE_COLORIZE_ON = "1.000000"
 HSM_DEVICE_HUE = "360.000000"
 HSM_DEVICE_SATURATION = "147.000000"

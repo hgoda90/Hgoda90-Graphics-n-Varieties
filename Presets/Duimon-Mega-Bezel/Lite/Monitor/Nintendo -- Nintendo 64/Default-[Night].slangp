@@ -1,4 +1,4 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/Nintendo_N64/N64-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/Nintendo_N64/N64-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
 HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
 HSM_NON_INTEGER_SCALE = "79.000000"
 HSM_SCREEN_POSITION_Y = "13.000000"

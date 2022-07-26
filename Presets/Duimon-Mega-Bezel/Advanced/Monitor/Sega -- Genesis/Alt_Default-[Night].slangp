@@ -1,4 +1,4 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/SEGA_Genesis/Genesis_Alt-[ADV]-[Guest]-[Bezel]-[Night].slangp
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/SEGA_Genesis/Genesis_Alt-[ADV]-[Guest]-[Bezel]-[Night].slangp"
 HSM_NON_INTEGER_SCALE = "79.000000"
 HSM_SCREEN_POSITION_Y = "13.000000"
 HSM_CURVATURE_MODE = "0.000000"

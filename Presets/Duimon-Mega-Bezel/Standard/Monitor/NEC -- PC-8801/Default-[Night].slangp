@@ -1,4 +1,4 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/NEC_PC-8801/PC-8801-[STD]-[Guest]-[Bezel]-[Night].slangp
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/NEC_PC-8801/PC-8801-[STD]-[Guest]-[Bezel]-[Night].slangp"
 HSM_NON_INTEGER_SCALE = "79.000000"
 HSM_SCREEN_POSITION_Y = "13.000000"
 HSM_CURVATURE_MODE = "0.000000"

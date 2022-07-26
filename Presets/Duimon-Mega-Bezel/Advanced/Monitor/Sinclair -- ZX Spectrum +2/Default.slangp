@@ -1,4 +1,4 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/Sinclair_ZX_Spectrum+2/Spectrum2-[ADV]-[Guest]-[Bezel].slangp
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/Sinclair_ZX_Spectrum+2/Spectrum2-[ADV]-[Guest]-[Bezel].slangp"
 HSM_NON_INTEGER_SCALE = "79.000000"
 HSM_SCREEN_POSITION_Y = "13.000000"
 HSM_CURVATURE_MODE = "0.000000"
