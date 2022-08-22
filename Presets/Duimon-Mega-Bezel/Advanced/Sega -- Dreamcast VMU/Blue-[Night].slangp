@@ -1,0 +1,6 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/SEGA_Dreamcast_VMU/VMU-[ADV]-[LCD-GRID]-[Night].slangp"
+HSM_DECAL_COLORIZE_ON = "1.000000"
+HSM_DECAL_HUE = "223.000000"
+HSM_DECAL_SATURATION = "93.000000"
+HSM_DECAL_BRIGHTNESS = "116.000000"
+HSM_DECAL_GAMMA = "0.750000"
