@@ -1,0 +1,4 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/Coleco_Adam/Adam-[ADV]-[Guest]-[Bezel].slangp"
+HSM_BZL_COLOR_HUE = "43.000000"
+HSM_BZL_COLOR_SATURATION = "5.000000"
+HSM_BZL_COLOR_VALUE = "52.000000"
