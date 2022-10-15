@@ -1,4 +1,4 @@
-#reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/MBZ__1__ADV__GDV.slangp"
+#reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV.slangp"
 HSM_ASPECT_RATIO_EXPLICIT = "1.285300"
 HSM_ASPECT_RATIO_MODE = "1.000000"
 HSM_USE_IMAGE_FOR_PLACEMENT = "1.000000"
