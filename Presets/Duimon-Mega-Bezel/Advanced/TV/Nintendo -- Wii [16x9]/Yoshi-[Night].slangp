@@ -1,8 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/Nintendo_Wii/Wii_4x3-[ADV]-[Guest]-[Night].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Wii-TV_16x9.params"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Night.params"
-
-HSM_BZL_COLOR_HUE = "84.000000"
-HSM_BZL_COLOR_SATURATION = "100.000000"
-HSM_BZL_COLOR_VALUE = "72.000000"
-HSM_FRM_NOISE = "10.000000"

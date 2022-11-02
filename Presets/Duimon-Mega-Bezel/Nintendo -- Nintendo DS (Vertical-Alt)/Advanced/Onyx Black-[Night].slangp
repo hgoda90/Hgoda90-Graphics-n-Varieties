@@ -1,0 +1,8 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Nintendo_NDS/NDS_Vertical_Alt-[ADV]-[Guest]-[Night].slangp"
+HSM_DEVICE_HUE = "0.000000"
+HSM_DEVICE_SATURATION = "0.000000"
+HSM_DEVICE_BRIGHTNESS = "4.000000"
+HSM_DECAL_OPACITY = "100.000000"
+HSM_DECAL_HUE = "0.000000"
+HSM_DECAL_SATURATION = "0.000000"
+HSM_DECAL_BRIGHTNESS = "4.000000"
