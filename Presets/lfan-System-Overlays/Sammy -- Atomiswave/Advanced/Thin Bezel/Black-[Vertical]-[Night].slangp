@@ -1,7 +1,0 @@
-#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV.slangp"
-#reference "../../../../../Params/lfan-System-Overlays/Night.params"
-#reference "../../../../../Params/lfan-System-Overlays/Bezel.params"
-
-HSM_ASPECT_RATIO_EXPLICIT = "1.129300"
-HSM_BZL_COLOR_VALUE = "8.000000"
-BackgroundVertImage = "../../../../../Graphics/lfan/CRT-Atomiswave-V-lfan.png"

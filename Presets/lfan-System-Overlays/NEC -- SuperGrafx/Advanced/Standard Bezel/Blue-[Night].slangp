@@ -1,0 +1,9 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV.slangp"
+#reference "../../../../../Params/lfan-System-Overlays/Standard_Bezel.params"
+#reference "../../../../../Params/lfan-System-Overlays/Alt_Night.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.448000"
+HSM_BZL_COLOR_HUE = "208.000000"
+HSM_BZL_COLOR_SATURATION = "60.000000"
+HSM_BZL_COLOR_VALUE = "100.000000"
+BackgroundImage = "../../../../../Graphics/lfan/CRT-SGFX-lfan.png"
