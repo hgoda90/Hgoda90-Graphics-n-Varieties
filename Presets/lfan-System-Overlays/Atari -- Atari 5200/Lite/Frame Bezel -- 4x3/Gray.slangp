@@ -1,0 +1,8 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__GDV-MINI.slangp"
+#reference "../../../../../Params/lfan-System-Overlays/Frame_Bezel_4x3.params"
+
+HSM_TUBE_EMPTY_THICKNESS_X_SCALE = "865.000000"
+HSM_BZL_COLOR_HUE = "0.000000"
+HSM_BZL_COLOR_SATURATION = "0.000000"
+HSM_BZL_COLOR_VALUE = "82.000000"
+BackgroundImage = "../../../../../Graphics/lfan/CRT-Atari-5200-lfan.png"

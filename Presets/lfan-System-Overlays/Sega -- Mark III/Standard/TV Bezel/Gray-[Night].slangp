@@ -1,0 +1,9 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__GDV.slangp"
+#reference "../../../../../Params/lfan-System-Overlays/Alt_Night.params"
+#reference "../../../../../Params/lfan-System-Overlays/TV_Bezel.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.472000"
+HSM_BZL_COLOR_HUE = "216.000000"
+HSM_BZL_COLOR_SATURATION = "4.000000"
+HSM_BZL_COLOR_VALUE = "88.000000"
+BackgroundImage = "../../../../../Graphics/lfan/CRT-MarkIII-lfan.png"
