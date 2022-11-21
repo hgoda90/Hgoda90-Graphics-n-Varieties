@@ -1,4 +1,4 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/Pocket_Dream_Console/PDC-[STD]-[LCD-GRID].slangp"
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Pocket_Dream_Console/PDC-[STD]-[LCD-GRID].slangp"
 HSM_DEVICE_HUE = "330.000000"
 HSM_DEVICE_SATURATION = "99.000000"
 HSM_DEVICE_GAMMA = "0.600000"
