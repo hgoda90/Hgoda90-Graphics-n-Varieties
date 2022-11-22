@@ -2,4 +2,5 @@
 #reference "../../../../Params/lfan-System-Overlays/Night.params"
 #reference "../../../../Params/lfan-System-Overlays/Windows.params"
 
+HSM_INTERLACE_TRIGGER_RES = "100.000000"
 BackgroundImage = "../../../../Graphics/lfan/CRT-DOSBox-Win3.x-lfan.png"
