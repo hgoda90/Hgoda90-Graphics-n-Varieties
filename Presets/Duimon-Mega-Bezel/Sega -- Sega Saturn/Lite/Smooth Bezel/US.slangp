@@ -1,0 +1,5 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/SEGA_Saturn/Saturn_Alt-[STD]-[Guest-Mini]-[Bezel].slangp"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Smooth_Bezel.params"
+
+HSM_DEVICE_BRIGHTNESS = "32.000000"
+HSM_DEVICE_GAMMA = "0.440000"
