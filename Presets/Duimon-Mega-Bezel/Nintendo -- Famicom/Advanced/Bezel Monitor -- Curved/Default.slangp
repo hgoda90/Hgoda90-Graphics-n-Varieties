@@ -1,0 +1,5 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/Nintendo_Famicom/Famicom-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Monitor_Curved.params"
+
+HSM_FRM_NOISE = "25.000000"
+HSM_FRM_TEXTURE_OPACITY = "4.000000"

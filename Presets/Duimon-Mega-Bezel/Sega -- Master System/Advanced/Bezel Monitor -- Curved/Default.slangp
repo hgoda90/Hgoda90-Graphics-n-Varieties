@@ -1,0 +1,4 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/SEGA_Master_System/SMS-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Monitor_Curved.params"
+
+HSM_FRM_NOISE = "25.000000"

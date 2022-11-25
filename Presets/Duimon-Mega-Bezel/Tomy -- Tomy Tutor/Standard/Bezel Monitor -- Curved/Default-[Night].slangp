@@ -1,0 +1,5 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/Tomy_Tutor/Tutor-[STD]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Monitor_Curved.params"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Night.params"
+
+HSM_FRM_NOISE = "15.000000"

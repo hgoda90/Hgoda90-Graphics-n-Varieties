@@ -1,0 +1,4 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/NEC_TurboGrafx_CD/TurboGrafx_CD-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Monitor_Curved.params"
+
+HSM_FRM_NOISE = "20.000000"

@@ -1,0 +1,4 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/FM-Towns/FM-Towns-[STD]-[Guest-Mini]-[Bezel].slangp"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Monitor_Curved.params"
+
+HSM_FRM_NOISE = "15.000000"

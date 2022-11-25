@@ -1,0 +1,5 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/Elektronika_BK-0010/Elektronika-[STD]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Monitor_Curved.params"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Night.params"
+
+HSM_BG_SCALE_X = "102.000000"

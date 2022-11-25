@@ -1,0 +1,9 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/SEGA_CD/SEGACD-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Monitor_Curved.params"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Night.params"
+
+HSM_BZL_COLOR_HUE = "0.000000"
+HSM_BZL_COLOR_SATURATION = "0.000000"
+HSM_BZL_COLOR_VALUE = "12.600000"
+HSM_DECAL_SATURATION = "0.000000"
+HSM_DECAL_BRIGHTNESS = "75.000000"

@@ -1,0 +1,11 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/Nintendo_Wii/Wii_4x3-[ADV]-[Guest].slangp"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Wii-Monitor_Curved.params"
+
+HSM_BZL_COLOR_HUE = "150.000000"
+HSM_BZL_COLOR_SATURATION = "97.000000"
+HSM_BZL_COLOR_VALUE = "53.000000"
+HSM_FRM_NOISE = "10.000000"
+HSM_CAB_GLASS_HUE = "0.000000"
+HSM_CAB_GLASS_SATURATION = "0.000000"
+HSM_CAB_GLASS_BRIGHTNESS = "200.000000"
+HSM_CAB_GLASS_GAMMA = "5.000000"
