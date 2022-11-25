@@ -1,5 +1,8 @@
 #reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/Nintendo_N64/N64-[STD]-[Guest]-[Bezel].slangp"
 #reference "../../../../../Params/Duimon-Mega-Bezel/Monitor_4x3.params"
 
+HSM_CROP_PERCENT_ZOOM = "2.200000"
+HSM_CROP_PERCENT_TOP = "1.000000"
+HSM_CROP_PERCENT_BOTTOM = "1.000000"
 HSM_FRM_NOISE = "20.000000"
 HSM_DECAL_POS_Y = "-2.100000"
