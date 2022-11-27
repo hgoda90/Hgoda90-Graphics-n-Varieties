@@ -1,0 +1,10 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__0__SMOOTH-ADV__GDV.slangp"
+#reference "../../../../../Params/OrionsAngel/Wide Frame.params"
+#reference "../../../../../Params/OrionsAngel/Night.params"
+
+HSM_BZL_COLOR_HUE = "216.000000"
+HSM_BZL_COLOR_SATURATION = "20.000000"
+HSM_BZL_COLOR_VALUE = "19.000000"
+HSM_BG_SCALE_KEEP_ASPECT = "0.000000"
+HSM_BG_FILL_MODE = "1.000000"
+BackgroundImage = "../../../../../Graphics/OrionsAngel/console/Megadrivejapanplain.png"

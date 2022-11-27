@@ -1,5 +1,5 @@
 #reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__0__SMOOTH-ADV__GDV.slangp"
-#reference "../../../../../Params/OrionsAngel/TV.params"
+#reference "../../../../../Params/OrionsAngel/Bezel TV.params"
 #reference "../../../../../Params/OrionsAngel/Night.params"
 
 HSM_NON_INTEGER_SCALE = "82.770000"

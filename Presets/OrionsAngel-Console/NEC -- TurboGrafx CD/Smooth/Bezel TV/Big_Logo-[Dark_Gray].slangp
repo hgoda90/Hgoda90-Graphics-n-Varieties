@@ -1,5 +1,5 @@
 #reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__0__SMOOTH-ADV__GDV.slangp"
-#reference "../../../../../Params/OrionsAngel/TV.params"
+#reference "../../../../../Params/OrionsAngel/Bezel TV.params"
 
 HSM_BZL_COLOR_HUE = "210.000000"
 HSM_BZL_COLOR_SATURATION = "22.000000"
