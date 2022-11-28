@@ -2,9 +2,6 @@
 #reference "../../../../../Params/OrionsAngel/Thin Frame.params"
 #reference "../../../../../Params/OrionsAngel/Night.params"
 
-HSM_NON_INTEGER_SCALE = "82.570000"
-HSM_SCREEN_POSITION_X = "-3.000000"
-HSM_SCREEN_POSITION_Y = "6.000000"
 HSM_BZL_COLOR_HUE = "33.000000"
 HSM_BZL_COLOR_SATURATION = "11.000000"
 HSM_BZL_COLOR_VALUE = "31.000000"
