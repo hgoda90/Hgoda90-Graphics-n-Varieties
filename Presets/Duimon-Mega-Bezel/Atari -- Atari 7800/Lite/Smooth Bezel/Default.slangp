@@ -1,4 +1,4 @@
 #reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/Atari_7800/7800-[STD]-[Guest-Mini]-[Bezel].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Smooth_Bezel.params"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Smooth Bezel.params"
 
 HSM_DECAL_POS_Y = "-2.100000"

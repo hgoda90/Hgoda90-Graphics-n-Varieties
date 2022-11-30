@@ -1,5 +1,5 @@
 #reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/Apple_IIe/Apple_IIe-[STD]-[Guest]-[Bezel]-[Night].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Monitor_Curved.params"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Bezel Monitor -- Curved.params"
 #reference "../../../../../Params/Duimon-Mega-Bezel/Night.params"
 
 HSM_FRM_NOISE = "15.000000"

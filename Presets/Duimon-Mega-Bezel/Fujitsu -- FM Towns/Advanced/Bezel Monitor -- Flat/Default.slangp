@@ -1,4 +1,4 @@
 #reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/FM-Towns/FM-Towns-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Monitor_4x3.params"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Bezel Monitor -- Flat.params"
 
 HSM_FRM_NOISE = "15.000000"

@@ -1,5 +1,5 @@
 #reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV.slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Monitor_16x9.params"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Bezel Monitor -- Flat 16x9.params"
 
 HSM_BZL_NOISE = "10.000000"
 HSM_FRM_NOISE = "40.000000"

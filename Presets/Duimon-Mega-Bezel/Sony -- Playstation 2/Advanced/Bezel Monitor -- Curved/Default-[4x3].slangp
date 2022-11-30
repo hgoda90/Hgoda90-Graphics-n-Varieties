@@ -1,5 +1,5 @@
 #reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/SONY_Playstation_2/Playstation2-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Monitor_Curved.params"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Bezel Monitor -- Curved.params"
 
 HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
 HSM_FRM_NOISE = "20.000000"

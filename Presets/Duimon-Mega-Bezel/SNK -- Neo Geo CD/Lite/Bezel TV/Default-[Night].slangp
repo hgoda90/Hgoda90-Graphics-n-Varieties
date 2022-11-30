@@ -1,5 +1,5 @@
 #reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/Neo_Geo_CD/NeoGeo_CD-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/TV.params"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Bezel TV.params"
 #reference "../../../../../Params/Duimon-Mega-Bezel/Night.params"
 
 HSM_FRM_NOISE = "20.000000"

@@ -1,5 +1,5 @@
 #reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/Nintendo_Wii/Wii_4x3-[STD]-[Guest]-[Night].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Wii-TV_16x9.params"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Bezel TV -- 16x9 Wii.params"
 #reference "../../../../../Params/Duimon-Mega-Bezel/Night.params"
 
 HSM_BZL_COLOR_HUE = "84.000000"

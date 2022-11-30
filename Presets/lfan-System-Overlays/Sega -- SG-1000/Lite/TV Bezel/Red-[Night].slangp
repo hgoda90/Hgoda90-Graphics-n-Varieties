@@ -1,6 +1,6 @@
 #reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__GDV-MINI.slangp"
-#reference "../../../../../Params/lfan-System-Overlays/Alt_Night.params"
-#reference "../../../../../Params/lfan-System-Overlays/TV_Bezel.params"
+#reference "../../../../../Params/lfan-System-Overlays/Night 02.params"
+#reference "../../../../../Params/lfan-System-Overlays/TV Bezel.params"
 
 HSM_ASPECT_RATIO_EXPLICIT = "1.471000"
 HSM_BZL_COLOR_HUE = "0.000000"

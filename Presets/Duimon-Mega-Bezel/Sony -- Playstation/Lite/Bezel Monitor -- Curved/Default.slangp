@@ -1,4 +1,4 @@
 #reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/SONY_Playstation/Playstation-[STD]-[Guest-Mini]-[Bezel].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Monitor_Curved.params"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Bezel Monitor -- Curved.params"
 
 HSM_FRM_NOISE = "20.000000"

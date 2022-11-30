@@ -1,4 +1,4 @@
 #reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/Amstrad_CPC/CPC464-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Monitor_Curved.params"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Bezel Monitor -- Curved.params"
 
 HSM_FRM_NOISE = "20.000000"

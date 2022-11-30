@@ -1,5 +1,5 @@
 #reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/SEGA_Genesis/Genesis-[ADV]-[Guest]-[Bezel]-[Night].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Monitor_4x3.params"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Bezel Monitor -- Flat.params"
 #reference "../../../../../Params/Duimon-Mega-Bezel/Night.params"
 
 HSM_DECAL_POS_Y = "-2.100000"

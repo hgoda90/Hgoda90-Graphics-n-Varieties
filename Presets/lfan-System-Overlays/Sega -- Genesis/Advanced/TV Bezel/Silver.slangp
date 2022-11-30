@@ -1,5 +1,5 @@
 #reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV.slangp"
-#reference "../../../../../Params/lfan-System-Overlays/TV_Bezel.params"
+#reference "../../../../../Params/lfan-System-Overlays/TV Bezel.params"
 
 HSM_ASPECT_RATIO_EXPLICIT = "1.522000"
 HSM_BZL_COLOR_HUE = "215.000000"

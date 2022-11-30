@@ -1,4 +1,4 @@
 #reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/SEGA_32X/SEGA32X_Alt-[STD]-[Guest]-[Bezel].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Monitor_4x3.params"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Bezel Monitor -- Flat.params"
 
 HSM_DECAL_POS_Y = "-2.100000"

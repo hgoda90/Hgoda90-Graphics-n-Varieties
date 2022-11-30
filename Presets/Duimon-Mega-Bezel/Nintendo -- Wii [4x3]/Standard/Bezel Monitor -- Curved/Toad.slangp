@@ -1,5 +1,5 @@
 #reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/Nintendo_Wii/Wii_4x3-[STD]-[Guest].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Wii-Monitor_Curved.params"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Bezel Monitor -- Curved Wii.params"
 
 HSM_BZL_COLOR_HUE = "240.000000"
 HSM_BZL_COLOR_SATURATION = "1.000000"

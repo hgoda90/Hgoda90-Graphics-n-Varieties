@@ -1,5 +1,5 @@
 #reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__GDV.slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/TV.params"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Bezel TV.params"
 #reference "../../../../../Params/Duimon-Mega-Bezel/Night.params"
 
 HSM_BZL_COLOR_HUE = "107.000000"
