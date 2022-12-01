@@ -1,7 +1,8 @@
 #reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__0__SMOOTH-ADV__GDV.slangp"
 #reference "../../../../../Params/OrionsAngel/Glass 01.params"
 
-HSM_NON_INTEGER_SCALE = "83.170000"
+HSM_ASPECT_RATIO_EXPLICIT = "1.341300"
+HSM_NON_INTEGER_SCALE = "82.770000"
 HSM_SCREEN_POSITION_X = "-6.000000"
 HSM_SCREEN_POSITION_Y = "2.000000"
 HSM_BZL_COLOR_HUE = "0.000000"

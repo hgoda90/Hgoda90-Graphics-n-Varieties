@@ -2,6 +2,9 @@
 #reference "../../../../../Params/OrionsAngel/Night.params"
 #reference "../../../../../Params/OrionsAngel/Glass 01.params"
 
+HSM_ASPECT_RATIO_EXPLICIT = "1.345300"
+HSM_NON_INTEGER_SCALE = "82.170000"
+HSM_SCREEN_POSITION_X = "-6.000000"
 HSM_BZL_COLOR_HUE = "0.000000"
 HSM_BZL_COLOR_SATURATION = "0.000000"
 HSM_BZL_COLOR_VALUE = "10.000000"
