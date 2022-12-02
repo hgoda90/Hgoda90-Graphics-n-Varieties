@@ -1,4 +1,4 @@
 HSM_CAB_GLASS_OPACITY = "50.000000"
 HSM_CAB_GLASS_MASK_MODE = "3.000000"
 HSM_CAB_GLASS_FOLLOW_MODE = "0.000000"
-CabinetGlassImage = "../../Graphics/OrionsAngel/console/screen.png"
+CabinetGlassImage = "../../Graphics/OrionsAngel/screen.png"
