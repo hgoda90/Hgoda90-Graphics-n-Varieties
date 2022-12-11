@@ -1,0 +1,7 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__GDV-MINI.slangp"
+#reference "../../../../../Params/Custom/Projector/Full Screen.params"
+
+scanline = "3.000000"
+
+HSM_ASPECT_RATIO_ORIENTATION = "2.000000"
+HSM_DEVICELED_SCALE_X = "75.000000"
