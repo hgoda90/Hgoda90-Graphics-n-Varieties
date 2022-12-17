@@ -2,7 +2,7 @@
 #reference "../../../../../Params/lfan-System-Overlays/Standard Bezel.params"
 #reference "../../../../../Params/lfan-System-Overlays/Night 02.params"
 
-HSM_ASPECT_RATIO_EXPLICIT = "1.498000"
+HSM_ASPECT_RATIO_EXPLICIT = "1.570000"
 HSM_BZL_COLOR_HUE = "0.000000"
 HSM_BZL_COLOR_SATURATION = "0.000000"
 HSM_BZL_COLOR_VALUE = "70.000000"
