@@ -1,9 +1,0 @@
-#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV.slangp"
-#reference "../../../../../Params/Custom/Console Arcade/GBC.params"
-#reference "../../../../../Params/Custom/Console Arcade/Night.params"
-
-HSM_DEVICE_HUE = "132.000000"
-HSM_DEVICE_SATURATION = "93.000000"
-HSM_DEVICE_BRIGHTNESS = "60.000000"
-HSM_DEVICE_GAMMA = "0.450000"
-IntroImage = "../../../../../Graphics/Custom/Console Arcade/Intro/GBC_4.png"

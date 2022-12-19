@@ -1,20 +1,3 @@
-**********
-* IMAGES *
-********************
-
-TubeStaticReflectionImage = "../../../Graphics/Custom/Console Arcade/Screen Light.png"
-BackgroundImage = "../../../Graphics/Custom/Console Arcade/Backgrounds/Bricks.png"
-DeviceImage = "../../../Graphics/Custom/Console Arcade/Cabinet.png"
-DeviceLEDImage = "../../../Graphics/Custom/Console Arcade/Speakers/1.png"
-TopLayerImage = "../../../Graphics/Custom/Console Arcade/Shadow.png"
-CabinetGlassImage = "../../../Graphics/Custom/Console Arcade/Trim.png"
-
-
-
-**************
-* MEGA BEZEL *
-************************
-
 HSM_ASPECT_RATIO_ORIENTATION = "1.000000"
 HSM_ASPECT_RATIO_MODE = "2.000000"
 HSM_NON_INTEGER_SCALE = "68.000000"
@@ -59,15 +42,14 @@ HSM_TOP_POS_Y = "1.000000"
 HSM_TOP_MIRROR_WRAP = "0.000000"
 HSM_INTRO_LOGO_HEIGHT = "100.000000"
 HSM_INTRO_LOGO_POS_Y = "0.000000"
-
-
-
-**********
-* EXTRAS *
-********************
-
 g_lum = "0.250000"
 g_cntrst = "-0.250000"
 glow = "0.200000"
 shadowMask = "9.000000"
 maskstr = "0.800000"
+TubeStaticReflectionImage = "../../../Graphics/Custom/Console Arcade/Screen Light.png"
+BackgroundImage = "../../../Graphics/Custom/Console Arcade/Backgrounds/Bricks.png"
+DeviceImage = "../../../Graphics/Custom/Console Arcade/Cabinet.png"
+DeviceLEDImage = "../../../Graphics/Custom/Console Arcade/Speakers/1.png"
+TopLayerImage = "../../../Graphics/Custom/Console Arcade/Shadow.png"
+CabinetGlassImage = "../../../Graphics/Custom/Console Arcade/Trim.png"

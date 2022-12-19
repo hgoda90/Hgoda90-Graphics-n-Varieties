@@ -1,0 +1,13 @@
+#reference "../../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__LCD-GRID.slangp"
+#reference "../../../../../../Params/Custom/Console Arcade/Game Boy Advance.params"
+#reference "../../../../../../Params/Custom/Console Arcade/Game Boy Advance -- Alt.params"
+
+HSM_DEVICE_HUE = "198.000000"
+HSM_DEVICE_SATURATION = "43.000000"
+HSM_DEVICE_BRIGHTNESS = "55.000000"
+HSM_DEVICE_GAMMA = "0.450000"
+HSM_DEVICELED_HUE = "8.000000"
+HSM_DEVICELED_SATURATION = "1.000000"
+HSM_DEVICELED_BRIGHTNESS = "80.000000"
+HSM_DEVICELED_GAMMA = "0.450000"
+IntroImage = "../../../../../../Graphics/Custom/Console Arcade/Intro/GBA.png"
