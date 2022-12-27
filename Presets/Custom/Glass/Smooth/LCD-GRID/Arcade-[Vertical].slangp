@@ -1,0 +1,6 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__0__SMOOTH-ADV-GLASS__LCD-GRID.slangp"
+#reference "../../../../../Params/Custom/Glass/Full Screen.params"
+
+HSM_SCREEN_REFLECTION_SCALE = "100.000000"
+HSM_BZL_WIDTH = "1210.000000"
+HSM_BZL_INNER_EDGE_THICKNESS = "6800.000000"
