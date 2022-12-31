@@ -1,0 +1,11 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV-SUPER-XBR__GDV.slangp"
+#reference "../../../../../Params/lfan-System-Overlays/Frame Bezel -- 4x3.params"
+
+HSM_TUBE_EMPTY_THICKNESS_X_SCALE = "810.000000"
+HSM_CROP_PERCENT_ZOOM = "3.200000"
+HSM_CROP_PERCENT_BOTTOM = "1.000000"
+HSM_SCANLINE_DIRECTION = "2.000000"
+HSM_BZL_COLOR_HUE = "36.000000"
+HSM_BZL_COLOR_SATURATION = "86.000000"
+HSM_BZL_COLOR_VALUE = "100.000000"
+BackgroundImage = "../../../../../Graphics/lfan/CRT-N64-lfan.png"

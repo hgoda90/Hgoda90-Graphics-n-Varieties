@@ -1,0 +1,5 @@
+#reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__LCD-GRID.slangp"
+#reference "../../../../Params/lfan-System-Overlays/Night 01.params"
+#reference "../../../../Params/lfan-System-Overlays/Windows.params"
+
+BackgroundImage = "../../../../Graphics/lfan/CRT-DOSBox-Win98-lfan.png"

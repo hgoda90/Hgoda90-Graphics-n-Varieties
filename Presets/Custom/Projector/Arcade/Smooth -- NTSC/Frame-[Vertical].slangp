@@ -1,0 +1,5 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__0__SMOOTH-ADV__GDV-NTSC.slangp"
+#reference "../../../../../Params/Custom/Projector/Full Frame.params"
+
+HSM_ASPECT_RATIO_ORIENTATION = "2.000000"
+HSM_DEVICELED_SCALE_X = "75.000000"

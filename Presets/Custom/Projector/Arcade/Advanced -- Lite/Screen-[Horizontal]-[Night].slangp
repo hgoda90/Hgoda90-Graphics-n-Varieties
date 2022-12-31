@@ -1,0 +1,3 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV-MINI.slangp"
+#reference "../../../../../Params/Custom/Projector/Night.params"
+#reference "../../../../../Params/Custom/Projector/Full Screen.params"

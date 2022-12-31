@@ -1,0 +1,8 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV-NTSC.slangp"
+#reference "../../../../../Params/lfan-System-Overlays/Frameless Bezel.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.528000"
+HSM_BZL_COLOR_HUE = "0.000000"
+HSM_BZL_COLOR_SATURATION = "0.000000"
+HSM_BZL_COLOR_VALUE = "82.000000"
+BackgroundImage = "../../../../../Graphics/lfan/CRT-Atari-2600-lfan.png"

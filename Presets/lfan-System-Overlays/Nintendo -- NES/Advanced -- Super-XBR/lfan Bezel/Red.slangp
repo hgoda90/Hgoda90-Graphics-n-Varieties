@@ -1,0 +1,8 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV-SUPER-XBR__GDV.slangp"
+#reference "../../../../../Params/lfan-System-Overlays/lfan Bezel.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.405300"
+HSM_BZL_COLOR_HUE = "358.000000"
+HSM_BZL_COLOR_SATURATION = "86.000000"
+HSM_BZL_COLOR_VALUE = "88.000000"
+BackgroundImage = "../../../../../Graphics/lfan/CRT-NES-lfan.png"

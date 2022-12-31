@@ -1,0 +1,11 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__0__SMOOTH-ADV__LCD-GRID.slangp"
+#reference "../../../../../Params/lfan-System-Overlays/Mirror Bezel.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.348000"
+HSM_BZL_WIDTH = "670.000000"
+HSM_BZL_COLOR_HUE = "0.000000"
+HSM_BZL_COLOR_SATURATION = "0.000000"
+HSM_BZL_COLOR_VALUE = "90.000000"
+HSM_REFLECT_CORNER_ROTATION_OFFSET_TOP = "-2.000000"
+HSM_REFLECT_CORNER_ROTATION_OFFSET_BOTTOM = "-8.000000"
+BackgroundImage = "../../../../../Graphics/lfan/CRT-Wii-lfan.png"

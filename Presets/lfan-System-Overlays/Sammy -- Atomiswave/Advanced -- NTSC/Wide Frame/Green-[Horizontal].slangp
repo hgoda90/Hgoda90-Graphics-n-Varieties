@@ -1,0 +1,8 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV-NTSC.slangp"
+#reference "../../../../../Params/lfan-System-Overlays/Wide Frame.params"
+
+HSM_ASPECT_RATIO_MODE = "2.000000"
+HSM_BZL_COLOR_HUE = "136.000000"
+HSM_BZL_COLOR_SATURATION = "77.000000"
+HSM_BZL_COLOR_VALUE = "56.000000"
+BackgroundImage = "../../../../../Graphics/lfan/CRT-Atomiswave-H-lfan.png"

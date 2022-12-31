@@ -1,0 +1,11 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__0__SMOOTH-ADV__GDV.slangp"
+#reference "../../../../../Params/lfan-System-Overlays/Night 02.params"
+#reference "../../../../../Params/lfan-System-Overlays/Mirror Bezel.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.444000"
+HSM_BZL_WIDTH = "560.000000"
+HSM_BZL_COLOR_VALUE = "13.000000"
+HSM_FRM_USE_INDEPENDENT_COLOR = "1.000000"
+HSM_FRM_COLOR_VALUE = "8.000000"
+HSM_REFLECT_CORNER_ROTATION_OFFSET_BOTTOM = "-6.000000"
+BackgroundImage = "../../../../../Graphics/lfan/CRT-TG-CD-lfan.png"

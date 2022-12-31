@@ -1,0 +1,9 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__LCD-GRID.slangp"
+#reference "../../../../../Params/lfan-System-Overlays/Standard Bezel.params"
+
+HSM_ASPECT_RATIO_MODE = "1.000000"
+HSM_ASPECT_RATIO_EXPLICIT = "1.397300"
+HSM_BZL_COLOR_HUE = "20.000000"
+HSM_BZL_COLOR_SATURATION = "100.000000"
+HSM_BZL_COLOR_VALUE = "94.000000"
+BackgroundImage = "../../../../../Graphics/lfan/CRT-Naomi-H-lfan.png"

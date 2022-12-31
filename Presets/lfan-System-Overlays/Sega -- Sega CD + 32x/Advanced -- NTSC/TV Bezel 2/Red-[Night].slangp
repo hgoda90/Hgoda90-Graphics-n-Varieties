@@ -1,0 +1,9 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV-NTSC.slangp"
+#reference "../../../../../Params/lfan-System-Overlays/TV Bezel 2.params"
+#reference "../../../../../Params/lfan-System-Overlays/Night 02.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.400000"
+HSM_BZL_COLOR_HUE = "1.000000"
+HSM_BZL_COLOR_SATURATION = "86.000000"
+HSM_BZL_COLOR_VALUE = "85.000000"
+BackgroundImage = "../../../../../Graphics/lfan/CRT-SCD-32X-lfan.png"

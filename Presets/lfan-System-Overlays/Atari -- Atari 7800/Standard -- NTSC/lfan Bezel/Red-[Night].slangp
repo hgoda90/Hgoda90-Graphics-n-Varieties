@@ -1,0 +1,9 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__GDV-NTSC.slangp"
+#reference "../../../../../Params/lfan-System-Overlays/Night 01.params"
+#reference "../../../../../Params/lfan-System-Overlays/lfan Bezel.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.467300"
+HSM_BZL_COLOR_HUE = "0.000000"
+HSM_BZL_COLOR_SATURATION = "92.000000"
+HSM_BZL_COLOR_VALUE = "68.000000"
+BackgroundImage = "../../../../../Graphics/lfan/CRT-Atari-7800-lfan.png"

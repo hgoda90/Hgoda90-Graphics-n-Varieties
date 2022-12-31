@@ -1,0 +1,8 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__0__SMOOTH-ADV__GDV-NTSC.slangp"
+#reference "../../../../../Params/lfan-System-Overlays/Frame Bezel -- Full.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.051300"
+HSM_BZL_COLOR_HUE = "23.000000"
+HSM_BZL_COLOR_SATURATION = "57.000000"
+HSM_BZL_COLOR_VALUE = "97.000000"
+BackgroundVertImage = "../../../../../Graphics/lfan/CRT-FB-NEO-V-lfan.png"

@@ -1,0 +1,8 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__0__SMOOTH-ADV__GDV-NTSC.slangp"
+#reference "../../../../../Params/lfan-System-Overlays/TV Bezel 2.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.398000"
+HSM_BZL_COLOR_HUE = "223.000000"
+HSM_BZL_COLOR_SATURATION = "58.000000"
+HSM_BZL_COLOR_VALUE = "90.000000"
+BackgroundImage = "../../../../../Graphics/lfan/CRT-Atari-5200-lfan.png"

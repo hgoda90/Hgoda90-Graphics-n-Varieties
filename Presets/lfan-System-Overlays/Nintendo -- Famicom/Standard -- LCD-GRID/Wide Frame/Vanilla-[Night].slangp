@@ -1,0 +1,9 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__LCD-GRID.slangp"
+#reference "../../../../../Params/lfan-System-Overlays/Night 02.params"
+#reference "../../../../../Params/lfan-System-Overlays/Wide Frame.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.461000"
+HSM_BZL_COLOR_HUE = "40.000000"
+HSM_BZL_COLOR_SATURATION = "49.000000"
+HSM_BZL_COLOR_VALUE = "97.000000"
+BackgroundImage = "../../../../../Graphics/lfan/CRT-FC-lfan.png"

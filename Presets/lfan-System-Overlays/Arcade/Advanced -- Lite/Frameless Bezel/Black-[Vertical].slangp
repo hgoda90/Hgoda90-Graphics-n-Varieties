@@ -1,0 +1,7 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV-MINI.slangp"
+#reference "../../../../../Params/lfan-System-Overlays/Frameless Bezel.params"
+
+HSM_ASPECT_RATIO_MODE = "1.000000"
+HSM_ASPECT_RATIO_EXPLICIT = "1.113300"
+HSM_BZL_COLOR_VALUE = "8.000000"
+BackgroundVertImage = "../../../../../Graphics/lfan/CRT-MAME-V-lfan.png"

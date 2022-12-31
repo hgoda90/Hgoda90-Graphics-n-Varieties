@@ -1,0 +1,9 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__0__SMOOTH-ADV__GDV.slangp"
+#reference "../../../../../Params/lfan-System-Overlays/Night 02.params"
+#reference "../../../../../Params/lfan-System-Overlays/TV Bezel.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.386000"
+HSM_BZL_COLOR_HUE = "210.000000"
+HSM_BZL_COLOR_SATURATION = "1.000000"
+HSM_BZL_COLOR_VALUE = "77.000000"
+BackgroundImage = "../../../../../Graphics/lfan/CRT-GC-lfan.png"

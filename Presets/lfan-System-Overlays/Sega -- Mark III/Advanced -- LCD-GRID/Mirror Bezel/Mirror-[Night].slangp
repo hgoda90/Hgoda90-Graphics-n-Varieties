@@ -1,0 +1,11 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__LCD-GRID.slangp"
+#reference "../../../../../Params/lfan-System-Overlays/Night 02.params"
+#reference "../../../../../Params/lfan-System-Overlays/Mirror Bezel.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.438000"
+HSM_BZL_WIDTH = "565.000000"
+HSM_BZL_COLOR_HUE = "216.000000"
+HSM_BZL_COLOR_SATURATION = "4.000000"
+HSM_BZL_COLOR_VALUE = "88.000000"
+HSM_REFLECT_CORNER_ROTATION_OFFSET_BOTTOM = "-2.000000"
+BackgroundImage = "../../../../../Graphics/lfan/CRT-MarkIII-lfan.png"

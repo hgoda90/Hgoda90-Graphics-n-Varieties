@@ -1,0 +1,10 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV-MINI-NTSC.slangp"
+#reference "../../../../../Params/lfan-System-Overlays/Frameless Bezel.params"
+
+HSM_ASPECT_RATIO_ORIENTATION = "1.000000"
+HSM_ASPECT_RATIO_MODE = "1.000000"
+HSM_ASPECT_RATIO_EXPLICIT = "1.524000"
+HSM_BZL_COLOR_HUE = "156.000000"
+HSM_BZL_COLOR_SATURATION = "72.000000"
+HSM_BZL_COLOR_VALUE = "89.000000"
+BackgroundImage = "../../../../../Graphics/lfan/CRT-PS1-lfan.png"
