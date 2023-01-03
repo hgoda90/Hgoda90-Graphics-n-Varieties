@@ -1,0 +1,6 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/Nintendo_NDS/NDS-[STD]-[LCD-GRID].slangp"
+HSM_BZL_COLOR_VALUE = "6.000000"
+HSM_DEVICE_BRIGHTNESS = "20.000000"
+HSM_DEVICE_GAMMA = "0.900000"
+HSM_DECAL_OPACITY = "100.000000"
+HSM_DECAL_BRIGHTNESS = "40.000000"

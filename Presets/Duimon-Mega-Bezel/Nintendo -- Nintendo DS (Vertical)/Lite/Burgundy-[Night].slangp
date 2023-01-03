@@ -1,0 +1,6 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Nintendo_NDS/NDS_Vertical-[STD]-[LCD-GRID]-[Integer]-[Night].slangp"
+HSM_BZL_COLOR_SATURATION = "58.000000"
+HSM_BZL_COLOR_VALUE = "22.000000"
+HSM_DEVICE_COLORIZE_ON = "1.000000"
+HSM_DEVICE_SATURATION = "185.000000"
+HSM_DEVICE_BRIGHTNESS = "165.000000"

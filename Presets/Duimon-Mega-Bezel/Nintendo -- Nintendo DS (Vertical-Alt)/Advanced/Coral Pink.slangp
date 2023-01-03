@@ -1,5 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Nintendo_NDS/NDS_Vertical_Alt-[ADV]-[Guest].slangp"
-HSM_DEVICE_HUE = "10.000000"
-HSM_DEVICE_SATURATION = "78.000000"
-HSM_DEVICE_BRIGHTNESS = "200.000000"
-HSM_DEVICE_GAMMA = "4.000000"
