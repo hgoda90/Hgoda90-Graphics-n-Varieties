@@ -1,0 +1,4 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/SONY_Playstation_DREZ/Playstation-[DREZ]-[480p]-[STD]-[Guest]-[Bezel].slangp"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Bezel Monitor -- Curved.params"
+
+HSM_FRM_NOISE = "20.000000"

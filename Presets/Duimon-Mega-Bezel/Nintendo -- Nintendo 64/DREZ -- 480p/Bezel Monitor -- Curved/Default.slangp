@@ -1,0 +1,7 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/Nintendo_N64_DREZ/N64-[DREZ]-[480p]-[STD]-[Guest]-[Bezel].slangp"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Bezel Monitor -- Curved.params"
+
+HSM_CROP_PERCENT_ZOOM = "2.200000"
+HSM_CROP_PERCENT_TOP = "1.000000"
+HSM_CROP_PERCENT_BOTTOM = "1.000000"
+HSM_FRM_NOISE = "20.000000"

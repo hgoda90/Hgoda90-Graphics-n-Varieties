@@ -1,0 +1,5 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/SEGA_Saturn/Saturn_Alt-[DREZ]-[1080p]-[STD]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Bezel Monitor -- Curved.params"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Night.params"
+
+HSM_FRM_NOISE = "20.000000"

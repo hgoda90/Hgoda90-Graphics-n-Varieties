@@ -1,0 +1,3 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/SEGA_Saturn/Saturn_Alt-[DREZ]-[240p]-[STD]-[Guest]-[Custom-Bezel_002].slangp"
+HSM_LED_BRIGHTNESS = "32.000000"
+HSM_LED_GAMMA = "0.440000"
