@@ -1,0 +1,9 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV-MINI.slangp"
+#reference "../../../../../Params/OrionsAngel/Smooth Bezel.params"
+#reference "../../../../../Params/OrionsAngel/Night.params"
+
+HSM_BZL_COLOR_HUE = "192.000000"
+HSM_BZL_COLOR_SATURATION = "7.000000"
+HSM_BZL_COLOR_VALUE = "27.000000"
+HSM_BG_FOLLOW_MODE = "1.000000"
+BackgroundImage = "../../../../../Graphics/OrionsAngel/console/SuperFamicomJapanOutline.png"
