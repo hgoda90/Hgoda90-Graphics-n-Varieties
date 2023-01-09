@@ -1,0 +1,7 @@
+#reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__2__ADV-GLASS__GDV-MINI-NTSC.slangp"
+#reference "../../../../Params/Custom/Glass/Full Screen -- Alt.params"
+
+HSM_NON_INTEGER_SCALE = "100.000000"
+HSM_SCREEN_REFLECTION_SCALE = "100.000000"
+HSM_BZL_WIDTH = "1210.000000"
+HSM_BZL_INNER_EDGE_THICKNESS = "6800.000000"

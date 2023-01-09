@@ -1,10 +1,6 @@
 #reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD-GLASS__GDV.slangp"
 #reference "../../../../Params/Custom/Glass/Full Screen.params"
 
-HSM_SCREEN_REFLECTION_SCALE = "200.000000"
-HSM_SCREEN_REFLECTION_POS_Y = "44.000000"
-HSM_BZL_WIDTH = "765.000000"
-HSM_BZL_INNER_EDGE_THICKNESS = "5000.000000"
-HSM_BG_OPACITY = "100.000000"
-HSM_BG_BLEND_MODE = "1.000000"
-BackgroundImage = "../../../../Graphics/Custom/Glass/BG3.png"
+HSM_SCREEN_REFLECTION_SCALE = "100.000000"
+HSM_BZL_WIDTH = "1210.000000"
+HSM_BZL_INNER_EDGE_THICKNESS = "6800.000000"
