@@ -1,0 +1,4 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__2__ADV-GLASS__GDV-MINI-NTSC.slangp"
+#reference "../../../../../Params/Custom/Glass/Full Screen.params"
+
+HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"

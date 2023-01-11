@@ -1,0 +1,6 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__2__ADV-GLASS__GDV-MINI-NTSC.slangp"
+#reference "../../../../../Params/Custom/Glass/Full Screen -- Alt.params"
+
+HSM_CROP_PERCENT_ZOOM = "2.500000"
+HSM_CROP_PERCENT_TOP = "1.000000"
+HSM_CROP_PERCENT_BOTTOM = "1.000000"

@@ -1,0 +1,12 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__2__ADV-GLASS__GDV-MINI.slangp"
+#reference "../../../../../Params/Custom/Glass/Full Screen -- Alt.params"
+
+HSM_ASPECT_RATIO_MODE = "3.000000"
+HSM_NON_INTEGER_SCALE = "50.000000"
+HSM_SCREEN_REFLECTION_SCALE = "250.000000"
+HSM_INTERLACE_TRIGGER_RES = "100.000000"
+HSM_BZL_WIDTH = "2400.000000"
+HSM_BZL_HEIGHT = "1150.000000"
+HSM_BZL_INNER_EDGE_THICKNESS = "12400.000000"
+HSM_REFLECT_BLUR_NUM_SAMPLES = "0.000000"
+shadowMask = "-1.000000"

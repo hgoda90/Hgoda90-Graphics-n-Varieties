@@ -1,4 +1,0 @@
-#reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD-GLASS-SUPER-XBR__GDV.slangp"
-#reference "../../../../Params/Custom/Glass/Full Screen.params"
-
-HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
