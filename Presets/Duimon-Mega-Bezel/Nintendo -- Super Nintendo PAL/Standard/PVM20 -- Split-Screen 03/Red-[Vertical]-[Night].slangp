@@ -1,0 +1,8 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/PVM_PVM20/PVM20_03-[STD]-[Guest]-[Night].slangp"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Split-Screen (Vertical) -- PVM20.params"
+
+HSM_DEVICE_COLORIZE_ON = "0.000000"
+HSM_DEVICE_HUE = "287.000000"
+HSM_DEVICE_SATURATION = "200.000000"
+HSM_DEVICE_BRIGHTNESS = "100.000000"
+DeviceImage = "../../../../../../Duimon-Mega-Bezel/Graphics/PVM/PVM20_Bezel2.png"
