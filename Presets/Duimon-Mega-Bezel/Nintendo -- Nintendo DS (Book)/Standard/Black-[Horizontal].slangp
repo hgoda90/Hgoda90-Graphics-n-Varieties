@@ -1,8 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Nintendo_NDS/NDS_Vertical_Book-[STD]-[LCD-GRID].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Split-Screen (Horizontal) -- TM20.params"
-
-HSM_BZL_COLOR_VALUE = "6.000000"
-HSM_DEVICE_BRIGHTNESS = "20.000000"
-HSM_DEVICE_GAMMA = "0.900000"
-HSM_DECAL_OPACITY = "100.000000"
-HSM_DECAL_BRIGHTNESS = "40.000000"
