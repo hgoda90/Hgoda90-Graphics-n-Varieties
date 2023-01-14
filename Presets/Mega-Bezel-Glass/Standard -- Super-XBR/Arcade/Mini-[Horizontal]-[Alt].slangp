@@ -1,0 +1,5 @@
+#reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD-GLASS-SUPER-XBR__GDV.slangp"
+#reference "../../../../Params/Custom/Glass/Full Screen -- Alt.params"
+
+HSM_SCREEN_REFLECTION_SCALE = "52.000000"
+HSM_REFLECT_BLUR_NUM_SAMPLES = "0.000000"

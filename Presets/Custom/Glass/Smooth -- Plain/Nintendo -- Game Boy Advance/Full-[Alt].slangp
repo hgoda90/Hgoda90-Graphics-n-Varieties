@@ -1,8 +1,0 @@
-#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__0__SMOOTH-ADV-GLASS__GDV.slangp"
-#reference "../../../../../Params/Custom/Glass/Full Screen -- Alt.params"
-
-HSM_ASPECT_RATIO_MODE = "3.000000"
-HSM_NON_INTEGER_SCALE = "79.000000"
-HSM_BZL_WIDTH = "880.000000"
-HSM_BZL_HEIGHT = "310.000000"
-HSM_BZL_INNER_EDGE_THICKNESS = "7200.000000"

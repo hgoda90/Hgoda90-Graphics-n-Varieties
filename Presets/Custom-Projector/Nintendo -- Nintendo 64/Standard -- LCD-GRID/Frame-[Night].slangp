@@ -1,0 +1,7 @@
+#reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__LCD-GRID.slangp"
+#reference "../../../../Params/Custom/Projector/Night.params"
+#reference "../../../../Params/Custom/Projector/Full Frame.params"
+
+HSM_CROP_PERCENT_ZOOM = "2.500000"
+HSM_CROP_PERCENT_TOP = "1.000000"
+HSM_CROP_PERCENT_BOTTOM = "1.000000"

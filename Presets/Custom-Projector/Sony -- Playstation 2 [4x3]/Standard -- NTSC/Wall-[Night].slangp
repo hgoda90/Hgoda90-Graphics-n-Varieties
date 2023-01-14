@@ -1,0 +1,5 @@
+#reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__GDV-NTSC.slangp"
+#reference "../../../../Params/Custom/Projector/Night.params"
+#reference "../../../../Params/Custom/Projector/Full Wall.params"
+
+HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"

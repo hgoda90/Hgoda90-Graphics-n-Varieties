@@ -1,0 +1,4 @@
+#reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV.slangp"
+#reference "../../../../Params/Custom/Projector/Wide Screen.params"
+
+HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"

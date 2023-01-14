@@ -1,9 +1,0 @@
-#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__GDV-MINI.slangp"
-#reference "../../../../../Params/Custom/Console Arcade/Game Boy Color.params"
-#reference "../../../../../Params/Custom/Console Arcade/Game Boy Color -- Alt.params"
-
-HSM_DEVICE_HUE = "284.000000"
-HSM_DEVICE_SATURATION = "88.000000"
-HSM_DEVICE_BRIGHTNESS = "92.000000"
-HSM_DEVICE_GAMMA = "0.450000"
-IntroImage = "../../../../../Graphics/Custom/Console Arcade/Intro/GBC.png"
