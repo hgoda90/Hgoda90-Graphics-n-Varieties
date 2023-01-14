@@ -1,5 +1,5 @@
 #reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV.slangp"
-#reference "../../../../Params/Custom/Projector/Full Screen.params"
+#reference "../../../../Params/Custom-Projector/Full Screen.params"
 
 HSM_ASPECT_RATIO_MODE = "5.000000"
 HSM_NON_INTEGER_SCALE_OFFSET = "46.000000"

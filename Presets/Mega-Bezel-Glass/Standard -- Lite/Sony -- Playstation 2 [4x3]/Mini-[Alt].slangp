@@ -1,5 +1,5 @@
 #reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD-GLASS__GDV-MINI.slangp"
-#reference "../../../../Params/Custom/Glass/Full Screen -- Alt.params"
+#reference "../../../../Params/Mega-Bezel-Glass/Full Screen -- Alt.params"
 
 HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
 HSM_CORE_RES_SAMPLING_MULT_SCANLINE_DIR = "150.000000"

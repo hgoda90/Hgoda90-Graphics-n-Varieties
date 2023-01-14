@@ -1,5 +1,5 @@
 #reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV-MINI-NTSC.slangp"
-#reference "../../../../Params/Custom/Projector/Full Wall.params"
+#reference "../../../../Params/Custom-Projector/Full Wall.params"
 
 HSM_ASPECT_RATIO_ORIENTATION = "2.000000"
 HSM_BZL_WIDTH = "125.000000"

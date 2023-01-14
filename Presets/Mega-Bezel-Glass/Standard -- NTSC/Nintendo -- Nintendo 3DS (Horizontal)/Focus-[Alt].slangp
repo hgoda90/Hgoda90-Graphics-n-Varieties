@@ -1,5 +1,5 @@
 #reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD-GLASS__GDV-NTSC.slangp"
-#reference "../../../../Params/Custom/Glass/Widescreen -- Alt.params"
+#reference "../../../../Params/Mega-Bezel-Glass/Widescreen -- Alt.params"
 
 HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
 HSM_ASPECT_RATIO_MODE = "5.000000"
@@ -29,4 +29,4 @@ HSM_REFLECT_BLUR_NUM_SAMPLES = "0.000000"
 HSM_BG_OPACITY = "100.000000"
 HSM_BG_BLEND_MODE = "1.000000"
 shadowMask = "-1.000000"
-BackgroundImage = "../../../../Graphics/Custom/Glass/BG.png"
+BackgroundImage = "../../../../Graphics/Mega-Bezel-Glass/BG.png"

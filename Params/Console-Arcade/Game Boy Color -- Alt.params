@@ -1,0 +1,5 @@
+HSM_SCREEN_POSITION_Y = "96.000000"
+HSM_DEVICELED_SCALE = "65.000000"
+HSM_DEVICELED_SCALE_X = "96.000000"
+HSM_DEVICELED_POS_Y = "-16.000000"
+DeviceLEDImage = "../../../Graphics/Custom/Console Arcade/Speakers/3.png"

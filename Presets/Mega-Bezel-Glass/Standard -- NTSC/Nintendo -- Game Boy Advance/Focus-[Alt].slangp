@@ -1,5 +1,5 @@
 #reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD-GLASS__GDV-NTSC.slangp"
-#reference "../../../../Params/Custom/Glass/Full Screen -- Alt.params"
+#reference "../../../../Params/Mega-Bezel-Glass/Full Screen -- Alt.params"
 
 HSM_ASPECT_RATIO_MODE = "3.000000"
 HSM_NON_INTEGER_SCALE = "50.000000"

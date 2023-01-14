@@ -1,5 +1,5 @@
 #reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__2__ADV-GLASS-SUPER-XBR__GDV.slangp"
-#reference "../../../../Params/Custom/Glass/Widescreen.params"
+#reference "../../../../Params/Mega-Bezel-Glass/Widescreen.params"
 
 HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
 HSM_CORE_RES_SAMPLING_MULT_SCANLINE_DIR = "125.000000"

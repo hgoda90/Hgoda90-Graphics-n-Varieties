@@ -1,2 +1,2 @@
 #reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD-GLASS__GDV.slangp"
-#reference "../../../../Params/Custom/Glass/Widescreen.params"
+#reference "../../../../Params/Mega-Bezel-Glass/Widescreen.params"
