@@ -1,4 +1,5 @@
 #reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/Nintendo_NDS/NDS-[STD]-[Guest-Mini].slangp"
+
 HSM_BZL_COLOR_HUE = "56.000000"
 HSM_BZL_COLOR_SATURATION = "100.000000"
 HSM_BZL_COLOR_VALUE = "65.000000"
