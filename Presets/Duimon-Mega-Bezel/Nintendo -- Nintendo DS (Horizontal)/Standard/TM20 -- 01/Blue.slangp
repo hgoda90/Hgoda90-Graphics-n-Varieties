@@ -1,9 +1,9 @@
 #reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/PVM_TM20/TM20_01-[STD]-[Guest].slangp"
 #reference "../../../../../Params/Duimon-Mega-Bezel/Split-Screen (Horizontal) -- DS.params"
 
-HSM_SCREEN_POSITION_Y = "-50.000000"
+HSM_SCREEN_POSITION_Y = "-72.000000"
 HSM_DUALSCREEN_POSITION_OFFSET_BETWEEN_SCREENS = "15.000000"
-HSM_2ND_SCREEN_POS_Y = "50.000000"
+HSM_2ND_SCREEN_POS_Y = "72.000000"
 HSM_BZL_COLOR_HUE = "202.000000"
 HSM_BZL_COLOR_SATURATION = "100.000000"
 HSM_BZL_COLOR_VALUE = "26.000000"
