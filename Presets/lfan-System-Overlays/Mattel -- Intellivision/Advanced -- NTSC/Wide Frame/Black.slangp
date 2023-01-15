@@ -1,0 +1,5 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV-NTSC.slangp"
+#reference "../../../../../Params/lfan-System-Overlays/Wide Frame.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.494000"
+BackgroundImage = "../../../../../Graphics/lfan/CRT-Intellivision-lfan.png"
