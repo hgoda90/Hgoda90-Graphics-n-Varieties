@@ -1,4 +1,4 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Nintendo_3DS/3DS-[ADV]-[Guest]-[Night].slangp"
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/Nintendo_3DS/3DS-[ADV]-[Guest]-[Night].slangp"
 HSM_BZL_COLOR_HUE = "38.000000"
 HSM_BZL_COLOR_SATURATION = "100.000000"
 HSM_BZL_COLOR_VALUE = "36.000000"

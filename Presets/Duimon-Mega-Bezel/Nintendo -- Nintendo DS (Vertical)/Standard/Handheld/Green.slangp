@@ -1,4 +1,4 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Nintendo_NDS/NDS_Vertical-[STD]-[LCD-GRID]-[Integer].slangp"
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/Nintendo_NDS/NDS_Vertical-[STD]-[LCD-GRID]-[Integer].slangp"
 
 HSM_BZL_COLOR_HUE = "120.000000"
 HSM_BZL_COLOR_SATURATION = "100.000000"

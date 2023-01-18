@@ -1,4 +1,4 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Nintendo_3DS/3DS_Vertical-[ADV]-[LCD-GRID]-[Integer].slangp"
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/Nintendo_3DS/3DS_Vertical-[ADV]-[LCD-GRID]-[Integer].slangp"
 
 HSM_BZL_COLOR_VALUE = "8.000000"
 HSM_DEVICE_BRIGHTNESS = "20.000000"
