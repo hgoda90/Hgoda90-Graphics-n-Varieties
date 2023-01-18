@@ -1,0 +1,7 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/Nintendo_Super_Famicom/Super_Famicom-[STD]-[Guest]-[PVM20].slangp"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Zoom -- PVM20.params"
+
+HSM_DEVICE_HUE = "0.000000"
+HSM_DEVICE_SATURATION = "0.000000"
+HSM_DEVICE_BRIGHTNESS = "50.000000"
+DeviceImage = "../../../../../../Duimon-Mega-Bezel/Graphics/PVM/PVM20_Bezel2.png"

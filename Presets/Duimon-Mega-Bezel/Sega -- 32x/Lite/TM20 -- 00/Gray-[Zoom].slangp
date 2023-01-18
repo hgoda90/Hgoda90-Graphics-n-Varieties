@@ -1,0 +1,11 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/SEGA_32X/SEGA32X-[STD]-[Guest-Mini]-[TM20].slangp"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Zoom -- TM20.params"
+
+HSM_BZL_COLOR_HUE = "0.000000"
+HSM_BZL_COLOR_SATURATION = "0.000000"
+HSM_BZL_COLOR_VALUE = "12.600000"
+HSM_DEVICE_HUE = "0.000000"
+HSM_DEVICE_SATURATION = "0.000000"
+HSM_DEVICE_BRIGHTNESS = "1.000000"
+HSM_DEVICE_GAMMA = "1.070000"
+DeviceImage = "../../../../../../Duimon-Mega-Bezel/Graphics/PVM/TM20_Bezel2.png"

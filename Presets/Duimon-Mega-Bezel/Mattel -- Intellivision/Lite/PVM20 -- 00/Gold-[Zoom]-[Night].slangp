@@ -1,0 +1,9 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/Mattel_Intellivision/Intellivision-[STD]-[Guest-Mini]-[PVM20]-[Night].slangp"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Zoom -- PVM20.params"
+
+HSM_DEVICE_COLORIZE_ON = "0.000000"
+HSM_DEVICE_HUE = "356.000000"
+HSM_DEVICE_SATURATION = "50.000000"
+HSM_DEVICE_BRIGHTNESS = "50.000000"
+HSM_DEVICE_GAMMA = "1.000000"
+DeviceImage = "../../../../../../Duimon-Mega-Bezel/Graphics/PVM/PVM20_Bezel2.png"

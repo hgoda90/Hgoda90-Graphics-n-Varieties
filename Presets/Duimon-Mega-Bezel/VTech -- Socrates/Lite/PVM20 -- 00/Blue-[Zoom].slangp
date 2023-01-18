@@ -1,0 +1,9 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/VTech_Socrates/Socrates-[STD]-[Guest-Mini]-[PVM20].slangp"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Zoom -- PVM20.params"
+
+HSM_DEVICE_COLORIZE_ON = "1.000000"
+HSM_DEVICE_HUE = "221.000000"
+HSM_DEVICE_SATURATION = "84.000000"
+HSM_DEVICE_BRIGHTNESS = "37.000000"
+HSM_DEVICE_GAMMA = "1.000000"
+DeviceImage = "../../../../../../Duimon-Mega-Bezel/Graphics/PVM/PVM20_Bezel2.png"
