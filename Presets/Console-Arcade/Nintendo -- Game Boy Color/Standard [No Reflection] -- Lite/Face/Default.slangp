@@ -1,0 +1,8 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__4__STD-NO-REFLECT__GDV-MINI.slangp"
+#reference "../../../../../Params/Console-Arcade/face/Game Boy Color.params"
+
+HSM_DEVICE_HUE = "284.000000"
+HSM_DEVICE_SATURATION = "88.000000"
+HSM_DEVICE_BRIGHTNESS = "92.000000"
+HSM_DEVICE_GAMMA = "0.450000"
+IntroImage = "../../../../../Graphics/Console-Arcade/Intro/GBC.png"
