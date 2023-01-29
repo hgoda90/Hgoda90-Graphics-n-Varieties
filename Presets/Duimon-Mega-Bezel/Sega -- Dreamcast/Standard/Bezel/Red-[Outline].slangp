@@ -1,0 +1,9 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/SEGA_Dreamcast/Dreamcast-[STD]-[Guest]-[Bezel].slangp"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Outline -- Bezel.params"
+
+HSM_FRM_COLOR_HUE = "0.000000"
+HSM_FRM_COLOR_SATURATION = "100.000000"
+HSM_FRM_COLOR_VALUE = "59.600000"
+HSM_BG_HUE = "335.000000"
+HSM_BG_SATURATION = "200.000000"
+BackgroundImage = "../../../../../../Duimon-Mega-Bezel/Graphics/SEGA_Dreamcast/Dreamcast_Alt.png"

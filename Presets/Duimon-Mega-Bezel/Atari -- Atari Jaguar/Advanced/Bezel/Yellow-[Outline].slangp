@@ -1,0 +1,7 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/Atari_Jaguar/Jaguar-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Outline -- Bezel.params"
+
+HSM_FRM_COLOR_HUE = "43.000000"
+HSM_FRM_COLOR_SATURATION = "92.000000"
+HSM_FRM_COLOR_VALUE = "75.400000"
+HSM_DECAL_OPACITY = "0.000000"

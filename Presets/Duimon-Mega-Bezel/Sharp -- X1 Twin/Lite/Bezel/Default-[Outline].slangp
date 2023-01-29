@@ -1,0 +1,4 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/Sharp_X1/X1-[STD]-[Guest-Mini]-[Bezel].slangp"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Outline -- Bezel.params"
+
+HSM_FRM_COLOR_VALUE = "30.000000"

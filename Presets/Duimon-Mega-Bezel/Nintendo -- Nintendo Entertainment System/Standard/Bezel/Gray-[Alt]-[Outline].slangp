@@ -1,0 +1,7 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/Nintendo_NES/NES_Alt-[STD]-[Guest]-[Bezel].slangp"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Outline -- Bezel.params"
+
+HSM_FRM_COLOR_SATURATION = "0.000000"
+HSM_FRM_COLOR_VALUE = "75.800000"
+HSM_DECAL_COLORIZE_ON = "1.000000"
+HSM_DECAL_OPACITY = "0.000000"

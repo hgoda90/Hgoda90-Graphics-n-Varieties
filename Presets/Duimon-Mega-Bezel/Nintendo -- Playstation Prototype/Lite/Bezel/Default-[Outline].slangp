@@ -1,0 +1,6 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/Nintendo_Playstation_Prototype/Nintendo_PS-[STD]-[Guest-Mini]-[Bezel].slangp"
+#reference "../../../../../Params/Duimon-Mega-Bezel/Outline -- Bezel.params"
+
+HSM_FRM_COLOR_HUE = "34.000000"
+HSM_FRM_COLOR_SATURATION = "14.000000"
+HSM_FRM_COLOR_VALUE = "65.000000"
