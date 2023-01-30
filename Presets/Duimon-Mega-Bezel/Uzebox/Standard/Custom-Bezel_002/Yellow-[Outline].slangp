@@ -1,0 +1,6 @@
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/uzebox/uzebox-[STD]-[Guest]-[Custom-Bezel_002].slangp"
+HSM_BZL_COLOR_HUE = "0.000000"
+HSM_BZL_COLOR_SATURATION = "0.000000"
+HSM_BZL_COLOR_VALUE = "10.00000"
+HSM_BG_HUE = "50.000000"
+HSM_BG_BRIGHTNESS = "175.000000"
