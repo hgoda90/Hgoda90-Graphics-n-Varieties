@@ -1,0 +1,12 @@
+#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV-SUPER-XBR__GDV.slangp"
+#reference "../../../../../Params/Console-Arcade/candy/16x9.params"
+
+HSM_DEVICE_SATURATION = "0.000000"
+HSM_DEVICE_BRIGHTNESS = "100.000000"
+HSM_DEVICE_GAMMA = "0.450000"
+HSM_DEVICELED_HUE = "176.000000"
+HSM_DEVICELED_SATURATION = "3.000000"
+HSM_DEVICELED_BRIGHTNESS = "68.000000"
+HSM_DEVICELED_GAMMA = "0.450000"
+IntroImage = "../../../../../Graphics/Console-Arcade/Intro/XB360.png"
+DecalImage = "../../../../../Graphics/Console-Arcade/Decals/XB360.png"
