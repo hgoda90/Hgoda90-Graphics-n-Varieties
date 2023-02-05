@@ -1,4 +1,4 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/Nintendo_Wii/Wii_4x3-[STD]-[Guest-Mini].slangp"
+#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/Nintendo_Wii/Wii_16x9-[STD]-[Guest-Mini].slangp"
 #reference "../../../../../Params/Duimon-Mega-Bezel/Bezel TV -- 16x9 Wii.params"
 
 HSM_BZL_COLOR_HUE = "240.000000"
