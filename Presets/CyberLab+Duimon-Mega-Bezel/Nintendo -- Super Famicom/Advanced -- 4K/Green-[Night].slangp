@@ -1,0 +1,9 @@
+#reference "../../../../../CyberLab/MBZ__1__Advance_Full_Reflections/4K_Optimized_Presets/CyberLab__Ultimate_Virtual_Slot_Mask_CRT-1P2RTA__ADV.slangp"
+#reference "../../../../../Duimon-Mega-Bezel/Params/Advanced/Nintendo_Super_Famicom/Super_Famicom-[ADV]-[Guest]-[Bezel]-[Night].params"
+
+HSM_BZL_COLOR_HUE = "99.000000"
+HSM_BZL_COLOR_SATURATION = "67.000000"
+HSM_BZL_COLOR_VALUE = "81.200000"
+HSM_DECAL_SATURATION = "0.000000"
+HSM_DECAL_BRIGHTNESS = "200.000000"
+HSM_DECAL_GAMMA = "5.000000"
