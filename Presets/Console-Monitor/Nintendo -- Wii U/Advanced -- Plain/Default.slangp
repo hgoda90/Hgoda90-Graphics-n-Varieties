@@ -1,0 +1,10 @@
+#reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV.slangp"
+#reference "../../../../Params/Console-Monitor/16x9.params"
+
+HSM_BZL_COLOR_VALUE = "76.000000"
+HSM_DEVICE_SATURATION = "0.000000"
+HSM_DEVICE_BRIGHTNESS = "10.000000"
+HSM_DEVICE_GAMMA = "0.650000"
+HSM_DECAL_SOURCE_MATTE_TYPE = "2.000000"
+HSM_DECAL_POS_Y = "13.000000"
+DecalImage = "../../../../Graphics/Console-Arcade/Decals/WIIU.png"
