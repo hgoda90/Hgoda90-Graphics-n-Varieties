@@ -1,4 +1,4 @@
-#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__LCD-GRID.slangp"
+#reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__LCD-GRID.slangp"
 #reference "../../../../Params/Console-Monitor/Handheld -- 3DS.params"
 #reference "../../../../Params/Console-Monitor/Night.params"
 

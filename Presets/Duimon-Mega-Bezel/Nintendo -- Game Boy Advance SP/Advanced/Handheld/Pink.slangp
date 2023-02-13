@@ -1,5 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/Nintendo_GBA_SP/GBA_SP-[ADV]-[LCD-GRID].slangp"
-HSM_DEVICE_HUE = "0.000000"
-HSM_DEVICE_SATURATION = "180.000000"
-HSM_DEVICE_BRIGHTNESS = "160.000000"
-HSM_DEVICE_GAMMA = "1.400000"

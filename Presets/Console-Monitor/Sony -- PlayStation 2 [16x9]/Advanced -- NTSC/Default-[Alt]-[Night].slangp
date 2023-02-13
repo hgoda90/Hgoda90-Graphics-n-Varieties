@@ -1,6 +1,6 @@
 #reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV-NTSC.slangp"
-HSM_AMBIENT_LIGHTING_SWAP_IMAGE_MODE = "1.000000"
-HSM_AMBIENT_LIGHTING_OPACITY = "75.000000"
+#reference "../../../../Params/Console-Monitor/Night.params"
+
 HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
 HSM_ASPECT_RATIO_MODE = "4.000000"
 HSM_NON_INTEGER_SCALE = "85.000000"
