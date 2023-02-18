@@ -1,0 +1,6 @@
+#reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__GDV.slangp"
+#reference "../../../../Params/Console-Arcade/Night.params"
+
+HSM_SCREEN_POSITION_Y = "-32.000000"
+HSM_FRM_OPACITY = "0.000000"
+BackgroundImage = "../../../../Graphics/Mega-Bezel-Box/NES.png"
