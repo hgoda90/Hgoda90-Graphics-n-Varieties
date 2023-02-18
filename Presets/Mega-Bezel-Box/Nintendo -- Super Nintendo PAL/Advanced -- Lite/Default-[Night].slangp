@@ -1,0 +1,7 @@
+#reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV-MINI.slangp"
+#reference "../../../../Params/Mega-Bezel-Box/Night.params"
+
+HSM_SCREEN_POSITION_X = "58.000000"
+HSM_SCREEN_POSITION_Y = "10.000000"
+HSM_FRM_OPACITY = "0.000000"
+BackgroundImage = "../../../../Graphics/Mega-Bezel-Box/SNES_PAL.png"
