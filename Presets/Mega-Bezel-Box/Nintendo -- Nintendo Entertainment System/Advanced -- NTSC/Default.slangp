@@ -1,4 +1,4 @@
 #reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV-NTSC.slangp"
 HSM_SCREEN_POSITION_Y = "-32.000000"
 HSM_FRM_OPACITY = "0.000000"
-BackgroundImage = "../../../../Graphics/Mega-Bezel-Box/NES.png"
+BackgroundImage = "../../../../Graphics/Mega-Bezel-Box/Background/NES.png"
