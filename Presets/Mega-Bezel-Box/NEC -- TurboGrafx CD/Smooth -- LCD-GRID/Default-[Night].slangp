@@ -1,0 +1,13 @@
+#reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__0__SMOOTH-ADV__LCD-GRID.slangp"
+#reference "../../../../Params/Mega-Bezel-Box/Night.params"
+
+HSM_NON_INTEGER_SCALE = "74.170000"
+HSM_SCREEN_POSITION_Y = "-48.000000"
+HSM_FRM_USE_INDEPENDENT_COLOR = "1.000000"
+HSM_FRM_COLOR_HUE = "26.000000"
+HSM_FRM_COLOR_SATURATION = "100.000000"
+HSM_FRM_COLOR_VALUE = "100.000000"
+HSM_FRM_OPACITY = "0.000000"
+HSM_FRM_INNER_EDGE_THICKNESS = "700.000000"
+BackgroundImage = "../../../../Graphics/Mega-Bezel-Box/Background/TGCD.png"
+TopLayerImage = "../../../../Graphics/Mega-Bezel-Box/Tops/TG16.png"
