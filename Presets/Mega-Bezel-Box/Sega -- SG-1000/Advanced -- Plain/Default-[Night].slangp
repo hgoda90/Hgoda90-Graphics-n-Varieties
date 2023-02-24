@@ -1,0 +1,8 @@
+#reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV.slangp"
+#reference "../../../../Params/Mega-Bezel-Box/Night.params"
+
+HSM_NON_INTEGER_SCALE = "68.170000"
+HSM_SCREEN_POSITION_Y = "-100.000000"
+HSM_FRM_OPACITY = "0.000000"
+HSM_FRM_INNER_EDGE_THICKNESS = "0.000000"
+BackgroundImage = "../../../../Graphics/Mega-Bezel-Box/Background/SG1000.png"
