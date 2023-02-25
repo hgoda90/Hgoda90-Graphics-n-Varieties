@@ -1,0 +1,6 @@
+#reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD-SUPER-XBR__GDV.slangp"
+HSM_NON_INTEGER_SCALE = "73.170000"
+HSM_SCREEN_POSITION_Y = "-47.000000"
+HSM_FRM_THICKNESS = "45.000000"
+HSM_FRM_SHADOW_OPACITY = "0.000000"
+BackgroundImage = "../../../../Graphics/Mega-Bezel-Box/Background/FDS.png"
