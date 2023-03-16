@@ -1,0 +1,5 @@
+#reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV-MINI.slangp"
+HSM_NON_INTEGER_SCALE = "67.170000"
+HSM_SCREEN_POSITION_Y = "80.000000"
+HSM_BZL_COLOR_VALUE = "4.000000"
+BackgroundImage = "../../../../Graphics/Mega-Bezel-Box/Background/JCD.png"

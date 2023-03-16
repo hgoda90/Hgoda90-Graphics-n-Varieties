@@ -1,0 +1,6 @@
+#reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV-MINI-NTSC.slangp"
+HSM_NON_INTEGER_SCALE = "76.170000"
+HSM_FRM_OPACITY = "0.000000"
+HSM_FRM_INNER_EDGE_THICKNESS = "0.000000"
+BackgroundImage = "../../../../Graphics/Mega-Bezel-Box/Background/CHF.png"
+

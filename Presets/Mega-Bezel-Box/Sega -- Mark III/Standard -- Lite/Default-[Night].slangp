@@ -1,0 +1,12 @@
+#reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__GDV-MINI.slangp"
+#reference "../../../../Params/Mega-Bezel-Box/Night.params"
+
+HSM_NON_INTEGER_SCALE = "70.170000"
+HSM_SCREEN_POSITION_Y = "-100.000000"
+HSM_BZL_NOISE = "4.000000"
+HSM_BZL_COLOR_HUE = "48.000000"
+HSM_BZL_COLOR_SATURATION = "40.000000"
+HSM_BZL_COLOR_VALUE = "88.000000"
+HSM_FRM_OPACITY = "0.000000"
+HSM_FRM_INNER_EDGE_THICKNESS = "0.000000"
+BackgroundImage = "../../../../Graphics/Mega-Bezel-Box/Background/SM3.png"
