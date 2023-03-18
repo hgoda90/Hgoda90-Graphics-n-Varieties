@@ -2,6 +2,9 @@
 #reference "../../../../../Params/Console-Arcade/stripe/Game Boy Color.params"
 #reference "../../../../../Params/Console-Arcade/Night.params"
 
+HSM_BZL_COLOR_HUE = "184.000000"
+HSM_BZL_COLOR_SATURATION = "93.000000"
+HSM_BZL_COLOR_VALUE = "60.000000"
 HSM_BG_HUE = "132.000000"
 HSM_BG_SATURATION = "93.000000"
 HSM_BG_BRIGHTNESS = "60.000000"
