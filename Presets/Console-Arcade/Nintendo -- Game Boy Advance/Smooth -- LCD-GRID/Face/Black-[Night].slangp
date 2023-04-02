@@ -2,6 +2,7 @@
 #reference "../../../../../Params/Console-Arcade/face/Game Boy Advance.params"
 #reference "../../../../../Params/Console-Arcade/Night.params"
 
+HSM_BZL_COLOR_VALUE = "11.000000"
 HSM_DEVICE_SATURATION = "0.000000"
 HSM_DEVICE_BRIGHTNESS = "11.000000"
 HSM_DEVICE_GAMMA = "0.450000"

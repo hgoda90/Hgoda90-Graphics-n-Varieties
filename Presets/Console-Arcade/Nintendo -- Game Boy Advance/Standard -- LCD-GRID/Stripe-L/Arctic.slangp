@@ -2,6 +2,7 @@
 #reference "../../../../../Params/Console-Arcade/stripel/Game Boy Advance.params"
 
 HSM_BZL_COLOR_VALUE = "95.000000"
+HSM_REFLECT_GLOBAL_AMOUNT = "125.000000"
 HSM_BG_SATURATION = "0.000000"
 HSM_BG_BRIGHTNESS = "95.000000"
 HSM_BG_GAMMA = "0.450000"

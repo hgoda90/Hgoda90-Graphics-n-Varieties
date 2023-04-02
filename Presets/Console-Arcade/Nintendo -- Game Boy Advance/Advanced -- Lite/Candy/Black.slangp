@@ -1,6 +1,7 @@
 #reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV-MINI.slangp"
 #reference "../../../../../Params/Console-Arcade/candy/Game Boy Advance.params"
 
+"196.000000"HSM_REFLECT_GLOBAL_AMOUNT = "41.000000"
 HSM_DEVICE_SATURATION = "0.000000"
 HSM_DEVICE_BRIGHTNESS = "11.000000"
 HSM_DEVICE_GAMMA = "0.450000"

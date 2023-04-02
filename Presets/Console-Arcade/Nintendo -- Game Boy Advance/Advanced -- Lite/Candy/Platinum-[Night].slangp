@@ -2,7 +2,7 @@
 #reference "../../../../../Params/Console-Arcade/candy/Game Boy Advance.params"
 #reference "../../../../../Params/Console-Arcade/Night.params"
 
-HSM_DEVICE_HUE = "212.000000"
+"196.000000""196.000000""196.000000"HSM_DEVICE_HUE = "212.000000"
 HSM_DEVICE_SATURATION = "3.000000"
 HSM_DEVICE_BRIGHTNESS = "66.000000"
 HSM_DEVICE_GAMMA = "0.450000"

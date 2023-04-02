@@ -1,6 +1,10 @@
 #reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV-MINI.slangp"
 #reference "../../../../../Params/Console-Arcade/plain/Game Boy Color.params"
 
+HSM_BZL_COLOR_HUE = "60.000000"
+HSM_BZL_COLOR_SATURATION = "84.000000"
+HSM_BZL_COLOR_VALUE = "100.000000"
+HSM_REFLECT_GLOBAL_AMOUNT = "130.000000"
 HSM_DEVICE_HUE = "8.000000"
 HSM_DEVICE_SATURATION = "84.000000"
 HSM_DEVICE_BRIGHTNESS = "100.000000"

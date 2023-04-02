@@ -2,6 +2,9 @@
 #reference "../../../../../Params/Console-Arcade/plain/Game Boy Advance.params"
 #reference "../../../../../Params/Console-Arcade/Night.params"
 
+HSM_BZL_COLOR_HUE = "39.000000"
+HSM_BZL_COLOR_SATURATION = "33.000000"
+HSM_BZL_COLOR_VALUE = "80.000000"
 HSM_DEVICE_HUE = "347.000000"
 HSM_DEVICE_SATURATION = "33.000000"
 HSM_DEVICE_BRIGHTNESS = "80.000000"
