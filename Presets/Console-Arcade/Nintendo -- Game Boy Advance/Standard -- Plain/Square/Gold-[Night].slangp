@@ -1,6 +1,6 @@
 #reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__GDV.slangp"
 #reference "../../../../../Params/Console-Arcade/square/Game Boy Advance.params"
-#reference "../../../../../Params/Console-Arcade/Night.params"
+#reference "../../../../../Params/Console-Arcade/Night-Alt.params"
 
 HSM_BZL_COLOR_HUE = "39.000000"
 HSM_BZL_COLOR_SATURATION = "33.000000"
