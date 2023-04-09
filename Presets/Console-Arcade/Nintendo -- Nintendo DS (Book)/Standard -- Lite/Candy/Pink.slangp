@@ -1,6 +1,6 @@
 #reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__GDV-MINI.slangp"
 #reference "../../../../../Params/Console-Arcade/candy/DS Vertical.params"
-#reference "../../../../../Params/Console-Arcade/candy/DS Book.params"
+#reference "../../../../../Params/Console-Arcade/candy/DS_B.params"
 
 HSM_DEVICE_HUE = "268.000000"
 HSM_DEVICE_SATURATION = "100.000000"

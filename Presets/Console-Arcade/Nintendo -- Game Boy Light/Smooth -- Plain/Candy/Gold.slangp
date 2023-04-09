@@ -1,5 +1,5 @@
 #reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__0__SMOOTH-ADV__GDV.slangp"
-#reference "../../../../../Params/Console-Arcade/#reference "../../../../../Params/Console-Arcade/candy/Game Boy Light.params"
+#reference "../../../../../Params/Console-Arcade/#reference "../../../../../Params/Console-Arcade/candy/GBL.params"
 
 HSM_DEVICE_HUE = "344.000000"
 HSM_DEVICE_SATURATION = "36.000000"

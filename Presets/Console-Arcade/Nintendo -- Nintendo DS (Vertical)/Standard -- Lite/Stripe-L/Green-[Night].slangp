@@ -1,5 +1,5 @@
 #reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__GDV-MINI.slangp"
-#reference "../../../../../Params/Console-Arcade/stripel/DS Vertical.params"
+#reference "../../../../../Params/Console-Arcade/stripel/DS_V.params"
 #reference "../../../../../Params/Console-Arcade/Night-Alt.params"
 
 HSM_BZL_COLOR_HUE = "120.000000"

@@ -1,5 +1,5 @@
 #reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__LCD-GRID.slangp"
-#reference "../../../../../Params/Console-Arcade/candy/Game Boy Advance.params"
+#reference "../../../../../Params/Console-Arcade/candy/GBA.params"
 #reference "../../../../../Params/Console-Arcade/Night.params"
 
 "196.000000"HSM_DEVICE_SATURATION = "0.000000"

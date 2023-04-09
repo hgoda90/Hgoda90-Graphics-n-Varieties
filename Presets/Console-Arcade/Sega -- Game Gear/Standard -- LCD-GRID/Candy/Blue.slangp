@@ -1,5 +1,5 @@
 #reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__LCD-GRID.slangp"
-#reference "../../../../../Params/Console-Arcade/candy/Game Gear.params"
+#reference "../../../../../Params/Console-Arcade/candy/GG.params"
 
 HSM_DEVICE_HUE = "168.000000"
 HSM_DEVICE_SATURATION = "42.000000"

@@ -1,5 +1,5 @@
 #reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__2__ADV-NO-REFLECT__GDV.slangp"
-#reference "../../../../../Params/Console-Arcade/stripe/Game Gear.params"
+#reference "../../../../../Params/Console-Arcade/stripe/GG.params"
 
 HSM_BZL_COLOR_HUE = "220.000000"
 HSM_BZL_COLOR_SATURATION = "42.000000"

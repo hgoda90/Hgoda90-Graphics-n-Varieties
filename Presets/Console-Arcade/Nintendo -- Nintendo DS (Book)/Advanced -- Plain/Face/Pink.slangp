@@ -1,6 +1,6 @@
 #reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV.slangp"
 #reference "../../../../../Params/Console-Arcade/face/DS Vertical.params"
-#reference "../../../../../Params/Console-Arcade/face/DS Book.params"
+#reference "../../../../../Params/Console-Arcade/face/DS_B.params"
 
 HSM_BZL_COLOR_HUE = "320.000000"
 HSM_BZL_COLOR_SATURATION = "100.000000"

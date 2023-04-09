@@ -1,6 +1,6 @@
 #reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__4__STD-NO-REFLECT__GDV-MINI.slangp"
 #reference "../../../../../Params/Console-Arcade/stripe/DS Vertical.params"
-#reference "../../../../../Params/Console-Arcade/stripe/DS Book.params"
+#reference "../../../../../Params/Console-Arcade/stripe/DS_B.params"
 #reference "../../../../../Params/Console-Arcade/Night-Alt.params"
 
 HSM_BZL_COLOR_HUE = "0.000000"

@@ -1,6 +1,6 @@
 #reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__0__SMOOTH-ADV-NO-REFLECT__GDV.slangp"
 #reference "../../../../../Params/Console-Arcade/candy/DS Vertical.params"
-#reference "../../../../../Params/Console-Arcade/candy/DS Book.params"
+#reference "../../../../../Params/Console-Arcade/candy/DS_B.params"
 #reference "../../../../../Params/Console-Arcade/Night.params"
 
 HSM_DEVICE_HUE = "150.000000"

@@ -1,5 +1,5 @@
 #reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__0__SMOOTH-ADV__GDV.slangp"
-#reference "../../../../../Params/Console-Arcade/candy/3DS Vertical.params"
+#reference "../../../../../Params/Console-Arcade/candy/3DS_V.params"
 
 HSM_DEVICE_HUE = "300.000000"
 HSM_DEVICE_SATURATION = "88.000000"

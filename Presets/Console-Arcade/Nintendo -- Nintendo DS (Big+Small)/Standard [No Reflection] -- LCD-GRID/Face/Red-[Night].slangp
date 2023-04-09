@@ -1,6 +1,6 @@
 #reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__4__STD-NO-REFLECT__LCD-GRID.slangp"
 #reference "../../../../../Params/Console-Arcade/face/DS Horizontal.params"
-#reference "../../../../../Params/Console-Arcade/face/DS Big+Small.params"
+#reference "../../../../../Params/Console-Arcade/face/DS_BS.params"
 #reference "../../../../../Params/Console-Arcade/Night.params"
 
 HSM_BZL_COLOR_HUE = "1.000000"

@@ -1,5 +1,5 @@
 #reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__LCD-GRID.slangp"
-#reference "../../../../../Params/Console-Arcade/candy/3DS Vertical.params"
+#reference "../../../../../Params/Console-Arcade/candy/3DS_V.params"
 #reference "../../../../../Params/Console-Arcade/Night.params"
 
 HSM_DEVICE_HUE = "276.000000"

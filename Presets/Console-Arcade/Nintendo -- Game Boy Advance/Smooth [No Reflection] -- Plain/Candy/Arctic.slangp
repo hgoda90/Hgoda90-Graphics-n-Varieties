@@ -1,5 +1,5 @@
 #reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__0__SMOOTH-ADV-NO-REFLECT__GDV.slangp"
-#reference "../../../../../Params/Console-Arcade/candy/Game Boy Advance.params"
+#reference "../../../../../Params/Console-Arcade/candy/GBA.params"
 
 "196.000000"HSM_REFLECT_GLOBAL_AMOUNT = "125.000000"
 HSM_DEVICE_SATURATION = "0.000000"

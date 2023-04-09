@@ -1,5 +1,5 @@
 #reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV-MINI.slangp"
-#reference "../../../../../Params/Console-Arcade/candy/Game Boy.params"
+#reference "../../../../../Params/Console-Arcade/candy/GB.params"
 #reference "../../../../../Params/Console-Arcade/Night.params"
 
 HSM_DEVICE_HUE = "313.000000"

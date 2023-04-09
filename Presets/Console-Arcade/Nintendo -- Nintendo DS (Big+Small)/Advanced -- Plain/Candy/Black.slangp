@@ -1,6 +1,6 @@
 #reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV.slangp"
 #reference "../../../../../Params/Console-Arcade/candy/DS Horizontal.params"
-#reference "../../../../../Params/Console-Arcade/candy/DS Big+Small.params"
+#reference "../../../../../Params/Console-Arcade/candy/DS_BS.params"
 
 HSM_DEVICE_SATURATION = "0.000000"
 HSM_DEVICE_BRIGHTNESS = "6.000000"

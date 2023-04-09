@@ -1,5 +1,5 @@
 #reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__GDV-MINI.slangp"
-#reference "../../../../../Params/Console-Arcade/arcade/Game Boy Advance.params"
+#reference "../../../../../Params/Console-Arcade/arcade/GBA.params"
 
 HSM_BZL_COLOR_VALUE = "11.000000"
 HSM_REFLECT_GLOBAL_AMOUNT = "41.000000"
