@@ -2,6 +2,7 @@
 #reference "../../../../../Params/Console-Arcade/plain/4x3 -- Megatron.params"
 #reference "../../../../../Params/Console-Arcade/Night.params"
 
+HSM_INT_SCALE_MODE = "0.000000"
 HSM_BZL_COLOR_HUE = "221.000000"
 HSM_BZL_COLOR_SATURATION = "68.000000"
 HSM_BZL_COLOR_VALUE = "36.000000"

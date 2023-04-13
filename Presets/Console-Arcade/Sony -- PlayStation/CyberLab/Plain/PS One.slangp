@@ -1,6 +1,7 @@
 #reference "../../../../../Params/Console-Arcade/cyber.params"
 #reference "../../../../../Params/Console-Arcade/plain/4x3 -- CyberLab.params"
 
+HSM_INT_SCALE_MODE = "0.000000"
 HSM_BZL_COLOR_HUE = "222.000000"
 HSM_BZL_COLOR_SATURATION = "10.000000"
 HSM_BZL_COLOR_VALUE = "93.000000"

@@ -2,6 +2,7 @@
 #reference "../../../../../Params/Console-Arcade/arcade/4x3 -- Megatron.params"
 #reference "../../../../../Params/Console-Arcade/Night.params"
 
+HSM_INT_SCALE_MODE = "0.000000"
 HSM_DEVICE_SATURATION = "0.000000"
 HSM_DEVICE_BRIGHTNESS = "10.000000"
 HSM_DEVICE_GAMMA = "0.450000"

@@ -1,6 +1,7 @@
 #reference "../../../../../Params/Console-Arcade/cyber.params"
 #reference "../../../../../Params/Console-Arcade/stripel/4x3 -- CyberLab.params"
 
+HSM_INT_SCALE_MODE = "0.000000"
 HSM_BZL_COLOR_HUE = "345.000000"
 HSM_BZL_COLOR_SATURATION = "2.000000"
 HSM_BZL_COLOR_VALUE = "66.000000"
