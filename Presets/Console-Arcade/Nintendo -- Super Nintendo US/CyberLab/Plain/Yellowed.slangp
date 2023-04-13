@@ -1,10 +1,9 @@
-#reference "../../../../../../CyberLab/MBZ__3__Standard_Full_Reflections/1080p_Optimized_Presets/CyberLab__Ultimate_Virtual_Slot_Mask_CRT-1P2RTA__ADV.slangp"
+#reference "../../../../../Params/Console-Arcade/cyber.params"
 #reference "../../../../../Params/Console-Arcade/plain/4x3 -- CyberLab.params"
 
 HSM_BZL_COLOR_HUE = "43.000000"
 HSM_BZL_COLOR_SATURATION = "68.000000"
 HSM_BZL_COLOR_VALUE = "69.000000"
-HSM_REFLECT_GLOBAL_AMOUNT = "99.000000"
 HSM_DEVICE_HUE = "351.000000"
 HSM_DEVICE_SATURATION = "68.000000"
 HSM_DEVICE_BRIGHTNESS = "69.000000"

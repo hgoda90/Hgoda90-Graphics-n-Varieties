@@ -1,4 +1,4 @@
-#reference "../../../../../../CyberLab/MBZ__3__Standard_Full_Reflections/1080p_Optimized_Presets/CyberLab__Ultimate_Virtual_Slot_Mask_CRT-1P2RTA__ADV.slangp"
+#reference "../../../../../Params/Console-Arcade/cyber.params"
 #reference "../../../../../Params/Console-Arcade/stripel/4x3 -- CyberLab.params"
 #reference "../../../../../Params/Console-Arcade/Night-Alt.params"
 
@@ -18,6 +18,7 @@ HSM_DEVICELED_SATURATION = "81.000000"
 HSM_DEVICELED_BRIGHTNESS = "65.000000"
 HSM_DEVICELED_GAMMA = "0.450000"
 HSM_DECAL_SOURCE_MATTE_TYPE = "1.000000"
+HSM_DECAL_POS_X = "-1.000000"
 HSM_DECAL_POS_Y = "-4.000000"
 HSM_CAB_GLASS_HUE = "318.000000"
 HSM_CAB_GLASS_SATURATION = "82.000000"

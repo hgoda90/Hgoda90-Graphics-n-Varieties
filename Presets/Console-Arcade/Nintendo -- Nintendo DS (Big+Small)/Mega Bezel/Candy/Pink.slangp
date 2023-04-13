@@ -1,0 +1,13 @@
+#reference "../../../../../Params/Console-Arcade/mb.params"
+#reference "../../../../../Params/Console-Arcade/candy/DS Horizontal.params"
+#reference "../../../../../Params/Console-Arcade/candy/DS_BS.params"
+
+HSM_DEVICE_HUE = "268.000000"
+HSM_DEVICE_SATURATION = "100.000000"
+HSM_DEVICE_BRIGHTNESS = "48.000000"
+HSM_DEVICE_GAMMA = "0.450000"
+HSM_DEVICELED_SATURATION = "0.000000"
+HSM_DEVICELED_BRIGHTNESS = "100.000000"
+HSM_DEVICELED_GAMMA = "0.450000"
+IntroImage = "../../../../../Graphics/Console-Arcade/Intro/NDS.png"
+DecalImage = "../../../../../Graphics/Console-Arcade/Decals/NDS_Alt.png"

@@ -1,0 +1,12 @@
+#reference "../../../../../Params/Console-Arcade/mb.params"
+#reference "../../../../../Params/Console-Arcade/face/GBC.params"
+#reference "../../../../../Params/Console-Arcade/Night.params"
+
+HSM_BZL_COLOR_HUE = "261.000000"
+HSM_BZL_COLOR_SATURATION = "82.000000"
+HSM_BZL_COLOR_VALUE = "82.000000"
+HSM_DEVICE_HUE = "209.000000"
+HSM_DEVICE_SATURATION = "82.000000"
+HSM_DEVICE_BRIGHTNESS = "82.000000"
+HSM_DEVICE_GAMMA = "0.450000"
+IntroImage = "../../../../../Graphics/Console-Arcade/Intro/GBC_2.png"
