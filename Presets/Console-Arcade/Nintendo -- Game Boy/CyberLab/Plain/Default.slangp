@@ -1,10 +1,9 @@
-#reference "../../../../../Params/Console-Arcade/mb.params"
-#reference "../../../../../Params/Console-Arcade/plain/GB.params"
+#reference "../../../../../Params/Console-Arcade/cyber.params"
+#reference "../../../../../Params/Console-Arcade/plain/GB -- CyberLab.params"
 
 HSM_BZL_COLOR_HUE = "240.000000"
 HSM_BZL_COLOR_SATURATION = "4.000000"
 HSM_BZL_COLOR_VALUE = "88.000000"
-HSM_REFLECT_GLOBAL_AMOUNT = "118.000000"
 HSM_DEVICE_HUE = "188.000000"
 HSM_DEVICE_SATURATION = "4.000000"
 HSM_DEVICE_BRIGHTNESS = "88.000000"
