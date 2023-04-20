@@ -1,4 +1,4 @@
-#reference "../../../../../Params/Console-Arcade/mb.params"
+#reference "../../../../../Params/Console-Arcade/mbz.params"
 #reference "../../../../../Params/Console-Arcade/candy/16x9.params"
 
 HSM_DEVICE_SATURATION = "0.000000"

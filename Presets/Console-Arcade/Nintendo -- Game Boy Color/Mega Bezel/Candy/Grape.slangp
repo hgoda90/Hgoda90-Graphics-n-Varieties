@@ -1,4 +1,4 @@
-#reference "../../../../../Params/Console-Arcade/mb.params"
+#reference "../../../../../Params/Console-Arcade/mbz.params"
 #reference "../../../../../Params/Console-Arcade/candy/GBC.params"
 
 HSM_DEVICE_HUE = "209.000000"

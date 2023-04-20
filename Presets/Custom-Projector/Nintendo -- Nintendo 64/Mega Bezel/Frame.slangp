@@ -1,4 +1,4 @@
-#reference "../../../../Params/Custom-Projector/mb.params"
+#reference "../../../../Params/Custom-Projector/mbz.params"
 #reference "../../../../Params/Custom-Projector/Full Frame.params"
 
 HSM_CROP_PERCENT_ZOOM = "2.500000"

@@ -1,0 +1,9 @@
+#reference "../../../../../Params/Console-Arcade/cyber.params"
+#reference "../../../../../Params/Console-Arcade/candy/GBC -- CyberLab.params"
+#reference "../../../../../Params/Console-Arcade/Night.params"
+
+HSM_DEVICE_HUE = "209.000000"
+HSM_DEVICE_SATURATION = "82.000000"
+HSM_DEVICE_BRIGHTNESS = "82.000000"
+HSM_DEVICE_GAMMA = "0.450000"
+IntroImage = "../../../../../Graphics/Console-Arcade/Intro/GBC_2.png"

@@ -1,4 +1,4 @@
-#reference "../../../../../Params/Console-Arcade/mb.params"
+#reference "../../../../../Params/Console-Arcade/mbz.params"
 #reference "../../../../../Params/Console-Arcade/plain/GG.params"
 
 HSM_BZL_COLOR_HUE = "357.000000"

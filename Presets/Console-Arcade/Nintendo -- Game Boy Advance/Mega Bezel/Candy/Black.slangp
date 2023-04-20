@@ -1,4 +1,4 @@
-#reference "../../../../../Params/Console-Arcade/mb.params"
+#reference "../../../../../Params/Console-Arcade/mbz.params"
 #reference "../../../../../Params/Console-Arcade/candy/GBA.params"
 
 "196.000000"HSM_REFLECT_GLOBAL_AMOUNT = "41.000000"

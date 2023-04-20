@@ -1,0 +1,13 @@
+#reference "../../../../../Params/Console-Arcade/megatron.params"
+#reference "../../../../../Params/Console-Arcade/candy/GG -- Megatron.params"
+#reference "../../../../../Params/Console-Arcade/Night.params"
+
+HSM_DEVICE_HUE = "358.000000"
+HSM_DEVICE_SATURATION = "80.000000"
+HSM_DEVICE_BRIGHTNESS = "94.000000"
+HSM_DEVICE_GAMMA = "0.450000"
+HSM_DEVICELED_HUE = "96.000000"
+HSM_DEVICELED_SATURATION = "99.000000"
+HSM_DEVICELED_BRIGHTNESS = "68.000000"
+HSM_DEVICELED_GAMMA = "0.450000"
+IntroImage = "../../../../../Graphics/Console-Arcade/Intro/GG_3.png"
