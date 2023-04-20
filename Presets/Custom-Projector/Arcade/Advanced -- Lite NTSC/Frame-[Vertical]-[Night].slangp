@@ -1,6 +1,0 @@
-#reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV-MINI-NTSC.slangp"
-#reference "../../../../Params/Custom-Projector/Night.params"
-#reference "../../../../Params/Custom-Projector/Full Frame.params"
-
-HSM_ASPECT_RATIO_ORIENTATION = "2.000000"
-HSM_DEVICELED_SCALE_X = "75.000000"

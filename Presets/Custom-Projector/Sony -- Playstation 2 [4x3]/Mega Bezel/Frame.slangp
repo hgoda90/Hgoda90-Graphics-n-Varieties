@@ -1,0 +1,4 @@
+#reference "../../../../Params/Custom-Projector/mb.params"
+#reference "../../../../Params/Custom-Projector/Full Frame.params"
+
+HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
