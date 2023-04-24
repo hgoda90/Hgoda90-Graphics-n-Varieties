@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/SEGA_Master_System/SMS_Alt-[ADV]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../res/params/Bezel TV.params"
+#reference "../../../res/params/Night.params"
+
+HSM_FRM_NOISE = "25.000000"

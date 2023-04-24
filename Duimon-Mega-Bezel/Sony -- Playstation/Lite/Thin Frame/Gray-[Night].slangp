@@ -1,0 +1,8 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/SONY_Playstation/Playstation-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
+#reference "../../../res/params/Thin Frame.params"
+#reference "../../../res/params/Night.params"
+
+HSM_BZL_COLOR_VALUE = "69.000000"
+HSM_FRM_NOISE = "10.000000"
+HSM_BG_SCALE_X = "103.500000"
+HSM_DECAL_BRIGHTNESS = "13.000000"

@@ -1,0 +1,4 @@
+#reference "../res/params/mbz.params"
+#reference "../res/params/Full Screen -- Alt.params"
+
+HSM_SCREEN_REFLECTION_SCALE = "155.000000"

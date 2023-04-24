@@ -1,0 +1,7 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/PVM_TM20/TM20_02-[STD]-[Guest-Mini].slangp"
+HSM_BZL_COLOR_VALUE = "11.000000"
+HSM_DEVICE_HUE = "0.000000"
+HSM_DEVICE_SATURATION = "0.000000"
+HSM_DEVICE_BRIGHTNESS = "2.000000"
+HSM_DEVICE_GAMMA = "0.800000"
+DeviceImage = "../../../../../Duimon-Mega-Bezel/Graphics/PVM/TM20_Bezel.png"

@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Atari_7800/7800-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../res/params/Wide Frame.params"
+
+HSM_BG_SCALE_X = "103.300000"
+HSM_DECAL_POS_Y = "-0.200000"

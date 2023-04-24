@@ -1,0 +1,7 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/PVM_PVM20/PVM20_01-[ADV]-[Guest]-[Night].slangp"
+#reference "../../../res/params/Split-Screen (Tower) -- PVM20.params"
+
+HSM_DEVICE_HUE = "0.000000"
+HSM_DEVICE_SATURATION = "0.000000"
+HSM_DEVICE_BRIGHTNESS = "70.000000"
+DeviceImage = "../../../../../Duimon-Mega-Bezel/Graphics/PVM/PVM20_Bezel2.png"

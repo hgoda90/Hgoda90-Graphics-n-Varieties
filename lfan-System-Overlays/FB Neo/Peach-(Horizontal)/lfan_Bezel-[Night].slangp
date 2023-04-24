@@ -1,0 +1,9 @@
+#reference "../../res/params/mbz.params"
+#reference "../../res/params/Night 01.params"
+#reference "../../res/params/lfan Bezel.params"
+
+HSM_ASPECT_RATIO_MODE = "2.000000"
+HSM_BZL_COLOR_HUE = "23.000000"
+HSM_BZL_COLOR_SATURATION = "57.000000"
+HSM_BZL_COLOR_VALUE = "97.000000"
+BackgroundImage = "../../res/images/CRT-FB-NEO-H-lfan.png"

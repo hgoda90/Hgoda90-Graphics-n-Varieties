@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/BBC_Master/Master-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../res/params/Bezel Monitor -- Curved.params"
+
+HSM_FRM_NOISE = "15.000000"
+HSM_BG_SCALE_X = "105.000000"

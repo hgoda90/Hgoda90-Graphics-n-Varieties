@@ -1,0 +1,7 @@
+#reference "../../res/params/mbz.params"
+#reference "../../res/params/Frame Bezel -- Full.params"
+#reference "../../res/params/Night 02.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.575000"
+HSM_BZL_COLOR_VALUE = "8.000000"
+BackgroundImage = "../../res/images/CRT-NES-lfan.png"

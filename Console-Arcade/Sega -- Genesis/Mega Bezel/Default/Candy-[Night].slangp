@@ -1,0 +1,12 @@
+#reference "../../../res/params/mbz.params"
+#reference "../../../res/params/candy/4x3.params"
+#reference "../../../res/params/Night.params"
+
+HSM_DEVICE_SATURATION = "0.000000"
+HSM_DEVICE_BRIGHTNESS = "10.000000"
+HSM_DEVICE_GAMMA = "0.450000"
+HSM_DEVICELED_SATURATION = "1.000000"
+HSM_DEVICELED_BRIGHTNESS = "92.000000"
+HSM_DEVICELED_GAMMA = "0.450000"
+IntroImage = "../../../res/images/Intro/GEN.png"
+DecalImage = "../../../res/images/Decals/GEN.png"

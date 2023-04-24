@@ -1,0 +1,8 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/SONY_Playstation/Playstation_Alt-[ADV]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../res/params/Bezel Monitor -- Flat.params"
+#reference "../../../res/params/Night.params"
+
+HSM_BZL_COLOR_VALUE = "69.000000"
+HSM_FRM_NOISE = "20.000000"
+HSM_DECAL_BRIGHTNESS = "13.000000"
+HSM_DECAL_POS_Y = "-2.100000"

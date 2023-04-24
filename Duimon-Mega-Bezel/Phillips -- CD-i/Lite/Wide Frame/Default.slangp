@@ -1,0 +1,6 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Philips_CD-i/CD-i-[STD]-[Guest-Mini]-[Bezel].slangp"
+#reference "../../../res/params/Wide Frame.params"
+
+HSM_FRM_NOISE = "20.000000"
+HSM_BG_SCALE_X = "105.600000"
+HSM_DECAL_POS_Y = "-0.200000"

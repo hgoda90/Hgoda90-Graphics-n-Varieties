@@ -1,0 +1,7 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Nintendo_Wii/Wii_16x9_Alt-[STD]-[Guest-Mini]-[Night].slangp"
+#reference "../../../res/params/Bezel TV -- 16x9 Wii.params"
+#reference "../../../res/params/Night.params"
+
+HSM_BZL_COLOR_HUE = "240.000000"
+HSM_BZL_COLOR_SATURATION = "3.000000"
+HSM_BZL_COLOR_VALUE = "13.000000"

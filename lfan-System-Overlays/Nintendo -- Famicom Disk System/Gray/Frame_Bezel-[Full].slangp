@@ -1,0 +1,8 @@
+#reference "../../res/params/mbz.params"
+#reference "../../res/params/Frame Bezel -- Full.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.575000"
+HSM_BZL_COLOR_HUE = "0.000000"
+HSM_BZL_COLOR_SATURATION = "0.000000"
+HSM_BZL_COLOR_VALUE = "78.000000"
+BackgroundImage = "../../res/images/CRT-FDS-lfan.png"

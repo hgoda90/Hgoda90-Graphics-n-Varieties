@@ -1,0 +1,9 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Nintendo_SNES/SNES-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../res/params/Bezel Monitor -- Curved.params"
+
+HSM_BZL_COLOR_HUE = "0.000000"
+HSM_BZL_COLOR_SATURATION = "0.000000"
+HSM_BZL_COLOR_VALUE = "75.800000"
+HSM_FRM_NOISE = "15.000000"
+HSM_DECAL_SATURATION = "0.000000"
+HSM_DECAL_BRIGHTNESS = "38.000000"

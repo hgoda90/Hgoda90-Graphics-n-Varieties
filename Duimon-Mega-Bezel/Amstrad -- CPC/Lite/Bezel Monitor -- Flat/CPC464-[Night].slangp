@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Amstrad_CPC/CPC464-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
+#reference "../../../res/params/Bezel Monitor -- Flat.params"
+#reference "../../../res/params/Night.params"
+
+HSM_FRM_NOISE = "20.000000"

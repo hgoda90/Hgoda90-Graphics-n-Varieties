@@ -1,0 +1,9 @@
+#reference "../../res/params/mbz.params"
+#reference "../../res/params/Frame Bezel -- Full.params"
+
+HSM_ASPECT_RATIO_MODE = "1.000000"
+HSM_ASPECT_RATIO_EXPLICIT = "1.441300"
+HSM_BZL_COLOR_HUE = "136.000000"
+HSM_BZL_COLOR_SATURATION = "77.000000"
+HSM_BZL_COLOR_VALUE = "56.000000"
+BackgroundImage = "../../res/images/CRT-Atomiswave-H-lfan.png"

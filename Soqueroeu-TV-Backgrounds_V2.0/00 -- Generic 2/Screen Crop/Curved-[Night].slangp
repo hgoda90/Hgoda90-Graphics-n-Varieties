@@ -1,0 +1,10 @@
+#reference "../../../../Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console-Night/00_Generic_02.slangp"
+#reference "../../res/params/Panel.params"
+#reference "../../res/params/Intro_Channel.params"
+
+HSM_NON_INTEGER_SCALE = "77.370000"
+HSM_SCREEN_POSITION_Y = "-11.000000"
+HSM_BG_FOLLOW_LAYER = "1.000000"
+HSM_BG_SCALE = "139.000000"
+HSM_BG_POS_Y = "-13.150000"
+LEDImage = "../../../../Graphics/Soqueroeu-TV-Backgrounds/LED.png"

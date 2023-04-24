@@ -1,0 +1,12 @@
+#reference "../res/params/mbz.params"
+#reference "../res/params/Handheld -- 3DS.params"
+
+HSM_BZL_COLOR_HUE = "224.000000"
+HSM_BZL_COLOR_SATURATION = "70.000000"
+HSM_BZL_COLOR_VALUE = "50.000000"
+HSM_DEVICE_HUE = "172.000000"
+HSM_DEVICE_SATURATION = "70.000000"
+HSM_DEVICE_BRIGHTNESS = "50.000000"
+HSM_DEVICE_GAMMA = "0.650000"
+HSM_DECAL_SOURCE_MATTE_TYPE = "1.000000"
+DecalImage = "../res/images/Decals/3DS.png"

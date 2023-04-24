@@ -1,0 +1,5 @@
+#reference "../../../../Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console-Night/Sega_MarkIII.slangp"
+#reference "../../res/params/Panel.params"
+#reference "../../res/params/Intro_Channel.params"
+
+LEDImage = "../../../../Graphics/Soqueroeu-TV-Backgrounds/LED.png"

@@ -1,0 +1,7 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Atari_7800/7800-[ADV]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../res/params/No Bezel.params"
+
+HSM_NON_INTEGER_SCALE = "86.169952"
+HSM_SCREEN_POSITION_Y = "-18.000000"
+HSM_CURVATURE_MODE = "0.000000"
+HSM_REFLECT_GLOBAL_GAMMA_ADJUST = "1.300000"

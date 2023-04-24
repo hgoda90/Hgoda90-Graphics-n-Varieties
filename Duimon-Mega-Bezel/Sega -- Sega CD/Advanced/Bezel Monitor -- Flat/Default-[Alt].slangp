@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/SEGA_CD/SEGACD_Alt-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../res/params/Bezel Monitor -- Flat.params"
+
+HSM_DECAL_POS_Y = "-2.100000"

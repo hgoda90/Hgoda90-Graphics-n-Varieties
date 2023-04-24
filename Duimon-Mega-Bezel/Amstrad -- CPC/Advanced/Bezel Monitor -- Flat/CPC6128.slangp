@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Amstrad_CPC/CPC6128-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../res/params/Bezel Monitor -- Flat.params"
+
+HSM_FRM_NOISE = "20.000000"

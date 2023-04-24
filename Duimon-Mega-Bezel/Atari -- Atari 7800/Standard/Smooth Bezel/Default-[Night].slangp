@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Atari_7800/7800-[STD]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../res/params/Smooth Bezel.params"
+#reference "../../../res/params/Night.params"
+
+HSM_DECAL_POS_Y = "-2.100000"

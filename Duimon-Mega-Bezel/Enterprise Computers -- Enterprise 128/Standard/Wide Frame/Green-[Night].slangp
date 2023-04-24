@@ -1,0 +1,9 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Enterprise_128k/Enterprise-[STD]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../res/params/Wide Frame.params"
+#reference "../../../res/params/Night.params"
+
+HSM_BZL_COLOR_HUE = "160.000000"
+HSM_BZL_COLOR_SATURATION = "70.000000"
+HSM_BZL_COLOR_VALUE = "60.000000"
+HSM_FRM_NOISE = "25.000000"
+HSM_BG_SCALE_X = "101.500000"

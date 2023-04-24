@@ -1,0 +1,9 @@
+#reference "../../res/params/mbz.params"
+#reference "../../res/params/TV Bezel.params"
+
+HSM_ASPECT_RATIO_ORIENTATION = "1.000000"
+HSM_ASPECT_RATIO_EXPLICIT = "1.542000"
+HSM_BZL_COLOR_HUE = "303.000000"
+HSM_BZL_COLOR_SATURATION = "59.000000"
+HSM_BZL_COLOR_VALUE = "100.000000"
+BackgroundImage = "../../res/images/CRT-PS1-lfan.png"

@@ -1,0 +1,7 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/JAKKS_Plug-n-Play/Jakks-[STD]-[Guest-Mini]-[Bezel].slangp"
+#reference "../../../res/params/Bezel Monitor -- Flat.params"
+
+HSM_BZL_COLOR_HUE = "268.000000"
+HSM_BZL_COLOR_SATURATION = "86.000000"
+HSM_BZL_COLOR_VALUE = "38.000000"
+HSM_FRM_NOISE = "15.000000"

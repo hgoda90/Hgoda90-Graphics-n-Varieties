@@ -1,0 +1,12 @@
+#reference "../../res/params/mbz.params"
+#reference "../../res/params/Night 02.params"
+#reference "../../res/params/Mirror Bezel.params"
+
+HSM_ASPECT_RATIO_MODE = "1.000000"
+HSM_ASPECT_RATIO_EXPLICIT = "1.526000"
+HSM_BZL_WIDTH = "545.000000"
+HSM_BZL_COLOR_HUE = "120.000000"
+HSM_BZL_COLOR_SATURATION = "1.000000"
+HSM_BZL_COLOR_VALUE = "71.000000"
+HSM_REFLECT_CORNER_ROTATION_OFFSET_BOTTOM = "-2.000000"
+BackgroundImage = "../../res/images/CRT-Intellivision-lfan.png"

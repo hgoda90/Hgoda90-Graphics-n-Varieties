@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/SEGA_Mark_III/MarkIII-[STD]-[Guest-Mini]-[Bezel].slangp"
+#reference "../../../res/params/No Bezel.params"
+
+HSM_NON_INTEGER_SCALE = "91.369873"

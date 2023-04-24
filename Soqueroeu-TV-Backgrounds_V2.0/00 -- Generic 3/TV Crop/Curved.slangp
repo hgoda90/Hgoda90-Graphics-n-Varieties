@@ -1,0 +1,10 @@
+#reference "../../../../Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console/00_Generic_03.slangp"
+#reference "../../res/params/Panel.params"
+#reference "../../res/params/Intro.params"
+
+HSM_NON_INTEGER_SCALE = "68.770000"
+HSM_SCREEN_POSITION_Y = "52.000000"
+HSM_BG_FOLLOW_LAYER = "1.000000"
+HSM_BG_SCALE = "134.600000"
+HSM_BG_POS_Y = "-10.000000"
+

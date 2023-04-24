@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/JAKKS_Plug-n-Play/Jakks-[STD]-[Guest-Mini]-[Bezel].slangp"
+#reference "../../../res/params/No Bezel.params"
+
+HSM_NON_INTEGER_SCALE = "91.969864"
+HSM_SCREEN_POSITION_X = "-18.000000"

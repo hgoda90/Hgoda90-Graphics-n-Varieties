@@ -1,0 +1,7 @@
+#reference "../../res/params/mbz.params"
+#reference "../../res/params/Frameless Bezel.params"
+#reference "../../res/params/Night 02.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.462000"
+HSM_BZL_COLOR_VALUE = "36.000000"
+BackgroundImage = "../../res/images/CRT-SGFX-lfan.png"

@@ -1,0 +1,7 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Philips_CD-i/CD-i-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
+#reference "../../../res/params/Thin Frame.params"
+#reference "../../../res/params/Night.params"
+
+HSM_FRM_NOISE = "20.000000"
+HSM_BG_SCALE_X = "105.600000"
+HSM_LED_SCALE_X = "105.600000"

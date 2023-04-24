@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/SONY_Playstation_2/Playstation2-[STD]-[Guest-Mini]-[Bezel].slangp"
+#reference "../../../res/params/No Bezel.params"
+
+HSM_NON_INTEGER_SCALE = "88.769913"
+HSM_SCREEN_POSITION_X = "-12.000000"

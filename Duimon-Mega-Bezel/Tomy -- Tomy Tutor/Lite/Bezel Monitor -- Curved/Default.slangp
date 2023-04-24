@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Tomy_Tutor/Tutor-[STD]-[Guest-Mini]-[Bezel].slangp"
+#reference "../../../res/params/Bezel Monitor -- Curved.params"
+
+HSM_FRM_NOISE = "15.000000"

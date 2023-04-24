@@ -1,0 +1,7 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/JAKKS_Plug-n-Play/Jakks-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
+#reference "../../../res/params/Outline -- Bezel.params"
+#reference "../../../res/params/Night.params"
+
+HSM_FRM_COLOR_HUE = "268.000000"
+HSM_FRM_COLOR_SATURATION = "86.000000"
+HSM_FRM_COLOR_VALUE = "38.000000"

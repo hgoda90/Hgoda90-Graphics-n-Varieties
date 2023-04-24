@@ -1,0 +1,9 @@
+#reference "../../res/params/mbz.params"
+#reference "../../res/params/Night 01.params"
+#reference "../../res/params/lfan Bezel.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.465300"
+HSM_BZL_COLOR_HUE = "0.000000"
+HSM_BZL_COLOR_SATURATION = "0.000000"
+HSM_BZL_COLOR_VALUE = "90.000000"
+BackgroundImage = "../../res/images/CRT-Saturn-lfan.png"

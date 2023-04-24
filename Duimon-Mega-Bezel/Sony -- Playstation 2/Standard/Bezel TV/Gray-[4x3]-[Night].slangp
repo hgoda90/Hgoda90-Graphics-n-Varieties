@@ -1,0 +1,9 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/SONY_Playstation_2/Playstation2-[STD]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../res/params/Bezel TV.params"
+#reference "../../../res/params/Night.params"
+
+HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
+HSM_BZL_COLOR_HUE = "0.000000"
+HSM_BZL_COLOR_SATURATION = "0.000000"
+HSM_BZL_COLOR_VALUE = "15.600000"
+HSM_FRM_NOISE = "25.000000"

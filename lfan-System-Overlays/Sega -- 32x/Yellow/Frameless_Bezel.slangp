@@ -1,0 +1,8 @@
+#reference "../../res/params/mbz.params"
+#reference "../../res/params/Frameless Bezel.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.526000"
+HSM_BZL_COLOR_HUE = "50.000000"
+HSM_BZL_COLOR_SATURATION = "93.000000"
+HSM_BZL_COLOR_VALUE = "98.000000"
+BackgroundImage = "../../res/images/CRT-32X-lfan.png"

@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/SONY_Playstation/Playstation-[STD]-[Guest-Mini]-[Bezel].slangp"
+#reference "../../../res/params/Bezel TV.params"
+
+HSM_BZL_COLOR_VALUE = "69.000000"
+HSM_FRM_NOISE = "20.000000"

@@ -1,0 +1,8 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/FB-Neo/FB-Neo-[STD]-[Guest-Mini]-[Vertical].slangp"
+HSM_BZL_COLOR_HUE = "239.000000"
+HSM_BG_COLORIZE_ON = "1.000000"
+HSM_BG_HUE = "239.000000"
+HSM_BG_SATURATION = "200.000000"
+HSM_DECAL_COLORIZE_ON = "1.000000"
+HSM_DECAL_HUE = "239.000000"
+HSM_DECAL_SATURATION = "200.000000"

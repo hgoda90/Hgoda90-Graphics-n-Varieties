@@ -1,0 +1,7 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Nintendo_N64_DREZ/N64-[DREZ]-[240p]-[STD]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../res/params/Smooth Bezel.params"
+#reference "../../../res/params/Night.params"
+
+HSM_CROP_PERCENT_ZOOM = "2.200000"
+HSM_CROP_PERCENT_TOP = "1.000000"
+HSM_CROP_PERCENT_BOTTOM = "1.000000"

@@ -1,0 +1,8 @@
+#reference "../../res/params/mbz.params"
+#reference "../../res/params/Wide Frame.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.508000"
+HSM_BZL_COLOR_HUE = "44.000000"
+HSM_BZL_COLOR_SATURATION = "44.000000"
+HSM_BZL_COLOR_VALUE = "76.000000"
+BackgroundImage = "../../res/images/CRT-NEO-CD-lfan.png"

@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Mattel_Intellivision/Intellivision-[STD]-[Guest-Mini]-[Custom-Bezel_001].slangp"
+HSM_BZL_COLOR_HUE = "47.000000"
+HSM_BZL_COLOR_SATURATION = "27.000000"
+HSM_BZL_COLOR_VALUE = "73.000000"

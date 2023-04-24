@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Nintendo_Super_Famicom/Super_Famicom_Alt-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../res/params/Thin Frame.params"
+
+HSM_FRM_NOISE = "10.000000"
+HSM_BG_SCALE_X = "104.800000"

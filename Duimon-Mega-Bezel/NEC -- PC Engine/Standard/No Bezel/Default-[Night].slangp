@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/NEC_PC_Engine/PC_Engine-[STD]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../res/params/No Bezel.params"
+
+HSM_NON_INTEGER_SCALE = "85.169968"
+HSM_SCREEN_POSITION_Y = "-15.000000"

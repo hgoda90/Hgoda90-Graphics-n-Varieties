@@ -1,0 +1,13 @@
+#reference "../../../res/params/cyber.params"
+#reference "../../../res/params/candy/16x9 -- CyberLab.params"
+
+HSM_DEVICE_SATURATION = "0.000000"
+HSM_DEVICE_BRIGHTNESS = "82.000000"
+HSM_DEVICE_GAMMA = "0.450000"
+HSM_DEVICELED_HUE = "206.000000"
+HSM_DEVICELED_SATURATION = "60.000000"
+HSM_DEVICELED_BRIGHTNESS = "44.000000"
+HSM_DEVICELED_GAMMA = "0.450000"
+HSM_DECAL_SOURCE_MATTE_TYPE = "2.000000"
+IntroImage = "../../../res/images/Intro/SNES.png"
+DecalImage = "../../../res/images/Decals/SNES.png"

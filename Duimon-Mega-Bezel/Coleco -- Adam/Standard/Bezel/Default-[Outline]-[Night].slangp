@@ -1,0 +1,8 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Coleco_Adam/Adam-[STD]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../res/params/Outline -- Bezel.params"
+#reference "../../../res/params/Night.params"
+
+HSM_FRM_COLOR_HUE = "48.000000"
+HSM_FRM_COLOR_SATURATION = "6.000000"
+HSM_FRM_COLOR_VALUE = "80.000000"
+HSM_DECAL_OPACITY = "0.000000"

@@ -1,0 +1,7 @@
+#reference "../res/params/mbz.params"
+#reference "../../../../Params/Mega-Bezel-Box/Night.params"
+
+HSM_NON_INTEGER_SCALE = "75.170000"
+HSM_SCREEN_POSITION_Y = "56.000000"
+HSM_BZL_COLOR_VALUE = "4.000000"
+BackgroundImage = "../res/images/Background/SG.png"

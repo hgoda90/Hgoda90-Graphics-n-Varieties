@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/NEC_PC-FX/PC-FX-[STD]-[Guest-Mini]-[Bezel].slangp"
+#reference "../../../res/params/Outline -- Bezel.params"
+#reference "../../../res/params/Night.params"
+
+HSM_FRM_COLOR_VALUE = "70.000000"

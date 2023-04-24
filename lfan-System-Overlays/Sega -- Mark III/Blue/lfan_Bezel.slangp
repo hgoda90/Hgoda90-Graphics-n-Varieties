@@ -1,0 +1,8 @@
+#reference "../../res/params/mbz.params"
+#reference "../../res/params/lfan Bezel.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.407300"
+HSM_BZL_COLOR_HUE = "205.000000"
+HSM_BZL_COLOR_SATURATION = "97.000000"
+HSM_BZL_COLOR_VALUE = "100.000000"
+BackgroundImage = "../../res/images/CRT-MarkIII-lfan.png"

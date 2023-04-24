@@ -1,0 +1,12 @@
+#reference "../../../res/params/megatron.params"
+#reference "../../../res/params/candy/4x3 -- Megatron.params"
+
+HSM_DEVICE_SATURATION = "6.000000"
+HSM_DEVICE_BRIGHTNESS = "95.000000"
+HSM_DEVICE_GAMMA = "0.450000"
+HSM_DEVICELED_HUE = "140.000000"
+HSM_DEVICELED_SATURATION = "16.000000"
+HSM_DEVICELED_BRIGHTNESS = "13.000000"
+HSM_DEVICELED_GAMMA = "0.450000"
+IntroImage = "../../../res/images/Intro/SM3.png"
+DecalImage = "../../../res/images/Decals/SM3.png"

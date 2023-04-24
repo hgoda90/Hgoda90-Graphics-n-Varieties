@@ -1,0 +1,6 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Panasonic_3DO/3DO-[STD]-[Guest]-[Bezel].slangp"
+#reference "../../../res/params/Outline -- Bezel.params"
+
+HSM_FRM_COLOR_HUE = "196.000000"
+HSM_FRM_COLOR_SATURATION = "90.000000"
+HSM_FRM_COLOR_VALUE = "72.000000"

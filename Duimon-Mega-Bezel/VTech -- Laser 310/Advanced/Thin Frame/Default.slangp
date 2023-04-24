@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/VTech_Laser_310/Laser310-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../res/params/Thin Frame.params"
+
+HSM_FRM_NOISE = "10.000000"

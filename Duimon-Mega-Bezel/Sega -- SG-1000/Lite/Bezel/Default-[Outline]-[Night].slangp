@@ -1,0 +1,7 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/SEGA_SG-1000/SG-1000-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
+#reference "../../../res/params/Outline -- Bezel.params"
+#reference "../../../res/params/Night.params"
+
+HSM_FRM_COLOR_HUE = "222.000000"
+HSM_FRM_COLOR_SATURATION = "80.000000"
+HSM_FRM_COLOR_VALUE = "69.000000"

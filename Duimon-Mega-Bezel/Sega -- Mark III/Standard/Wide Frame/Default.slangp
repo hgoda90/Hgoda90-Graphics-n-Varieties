@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/SEGA_Mark_III/MarkIII-[STD]-[Guest]-[Bezel].slangp"
+#reference "../../../res/params/Wide Frame.params"
+
+HSM_BG_SCALE_X = "102.600000"
+HSM_DECAL_POS_Y = "-0.200000"

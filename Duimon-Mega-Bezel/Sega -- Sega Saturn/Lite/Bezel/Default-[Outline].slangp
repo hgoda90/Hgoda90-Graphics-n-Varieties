@@ -1,0 +1,6 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/SEGA_Saturn/Saturn-[STD]-[Guest-Mini]-[Bezel].slangp"
+#reference "../../../res/params/Outline -- Bezel.params"
+
+HSM_FRM_COLOR_HUE = "219.000000"
+HSM_FRM_COLOR_SATURATION = "59.000000"
+HSM_FRM_COLOR_VALUE = "52.000000"

@@ -1,0 +1,12 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/NEC_PC_Engine/PC_Engine-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
+#reference "../../../res/params/Wide Frame.params"
+#reference "../../../res/params/Night.params"
+
+HSM_BZL_COLOR_HUE = "0.000000"
+HSM_BZL_COLOR_SATURATION = "100.000000"
+HSM_BZL_COLOR_VALUE = "78.000000"
+HSM_FRM_NOISE = "15.000000"
+HSM_BG_SCALE_X = "107.700000"
+HSM_DECAL_SATURATION = "0.000000"
+HSM_DECAL_BRIGHTNESS = "90.000000"
+HSM_DECAL_POS_Y = "-0.200000"

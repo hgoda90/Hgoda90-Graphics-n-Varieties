@@ -1,0 +1,10 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/PVM_TM20/TM20_03-[ADV]-[Guest].slangp"
+#reference "../../../res/params/Split-Screen (Horizontal) -- TM20.params"
+
+HSM_BZL_COLOR_HUE = "0.000000"
+HSM_BZL_COLOR_SATURATION = "0.000000"
+HSM_BZL_COLOR_VALUE = "16.000000"
+HSM_DEVICE_HUE = "0.000000"
+HSM_DEVICE_SATURATION = "0.000000"
+HSM_DEVICE_BRIGHTNESS = "21.000000"
+DeviceImage = "../../../../../Duimon-Mega-Bezel/Graphics/PVM/TM20_Bezel.png"

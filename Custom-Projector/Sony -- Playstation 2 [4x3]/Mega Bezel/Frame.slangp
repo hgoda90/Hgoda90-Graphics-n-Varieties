@@ -1,0 +1,4 @@
+#reference "../../res/params/mbz.params"
+#reference "../../res/params/Full Frame.params"
+
+HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"

@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Atari_XE/Atari_XE-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../res/params/Outline -- Bezel.params"
+
+HSM_FRM_COLOR_VALUE = "40.000000"

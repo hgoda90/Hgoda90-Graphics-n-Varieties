@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/NEC_PC-FX/PC-FX-[STD]-[Guest]-[Bezel].slangp"
+#reference "../../../res/params/Bezel TV.params"
+#reference "../../../res/params/Night.params"
+
+HSM_FRM_NOISE = "10.000000"

@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/NEC_TurboGrafx_16/TurboGrafx16-[STD]-[Guest-Mini]-[Bezel].slangp"
+#reference "../../../res/params/Thin Frame.params"
+
+HSM_FRM_NOISE = "10.000000"
+HSM_BG_SCALE_X = "104.500000"

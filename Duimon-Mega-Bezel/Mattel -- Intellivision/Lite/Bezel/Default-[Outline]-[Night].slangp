@@ -1,0 +1,7 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Mattel_Intellivision/Intellivision-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
+#reference "../../../res/params/Outline -- Bezel.params"
+#reference "../../../res/params/Night.params"
+
+HSM_FRM_COLOR_HUE = "28.000000"
+HSM_FRM_COLOR_SATURATION = "31.000000"
+HSM_FRM_COLOR_VALUE = "19.000000"

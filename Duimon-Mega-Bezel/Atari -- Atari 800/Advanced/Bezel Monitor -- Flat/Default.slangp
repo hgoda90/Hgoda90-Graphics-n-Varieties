@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Atari_800/Atari_800-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../res/params/Bezel Monitor -- Flat.params"
+
+HSM_BG_SCALE_X = "102.500000"
+HSM_DECAL_POS_Y = "-2.100000"

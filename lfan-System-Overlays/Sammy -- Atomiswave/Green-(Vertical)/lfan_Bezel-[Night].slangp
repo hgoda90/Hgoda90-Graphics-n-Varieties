@@ -1,0 +1,9 @@
+#reference "../../res/params/mbz.params"
+#reference "../../res/params/Night 01.params"
+#reference "../../res/params/lfan Bezel.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.129300"
+HSM_BZL_COLOR_HUE = "136.000000"
+HSM_BZL_COLOR_SATURATION = "77.000000"
+HSM_BZL_COLOR_VALUE = "56.000000"
+BackgroundVertImage = "../../res/images/CRT-Atomiswave-V-lfan.png"

@@ -1,0 +1,8 @@
+#reference "../../../res/params/megatron.params"
+#reference "../../../res/params/candy/GBC -- Megatron.params"
+
+HSM_DEVICE_HUE = "8.000000"
+HSM_DEVICE_SATURATION = "84.000000"
+HSM_DEVICE_BRIGHTNESS = "100.000000"
+HSM_DEVICE_GAMMA = "0.450000"
+IntroImage = "../../../res/images/Intro/GBC_1.png"

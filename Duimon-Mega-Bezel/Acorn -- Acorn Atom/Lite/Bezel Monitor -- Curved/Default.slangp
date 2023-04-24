@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Acorn_Atom/Atom-[STD]-[Guest-Mini]-[Bezel].slangp"
+#reference "../../../res/params/Bezel Monitor -- Curved.params"
+
+HSM_FRM_NOISE = "15.000000"
+HSM_BG_SCALE_X = "106.00000"

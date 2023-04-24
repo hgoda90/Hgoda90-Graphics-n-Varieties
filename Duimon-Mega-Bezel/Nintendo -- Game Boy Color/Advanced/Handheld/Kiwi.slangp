@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Nintendo_Game_Boy_Color/GBC-[ADV]-[LCD-GRID].slangp"
+HSM_DEVICE_HUE = "104.000000"
+HSM_DEVICE_SATURATION = "200.000000"
+HSM_DEVICE_BRIGHTNESS = "200.000000"

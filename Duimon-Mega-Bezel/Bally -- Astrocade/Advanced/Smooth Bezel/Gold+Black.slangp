@@ -1,0 +1,10 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Bally_Astrocade/astrocade-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../res/params/Smooth Bezel.params"
+
+HSM_BZL_COLOR_HUE = "0.000000"
+HSM_BZL_COLOR_SATURATION = "0.000000"
+HSM_BZL_COLOR_VALUE = "14.000000"
+HSM_FRM_USE_INDEPENDENT_COLOR = "1.000000"
+HSM_FRM_COLOR_HUE = "46.000000"
+HSM_FRM_COLOR_SATURATION = "23.000000"
+HSM_FRM_COLOR_VALUE = "65.000000"

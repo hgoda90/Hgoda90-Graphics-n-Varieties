@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/NEC_PC_Engine_CD/PC_Engine_CD-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../res/params/Thin Frame.params"
+
+HSM_FRM_NOISE = "10.000000"
+HSM_BG_SCALE_X = "101.000000"

@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Neo_Geo_CD/NeoGeo_CD-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../res/params/Bezel TV.params"
+
+HSM_FRM_NOISE = "20.000000"

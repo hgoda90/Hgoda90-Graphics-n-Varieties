@@ -1,0 +1,5 @@
+#reference "../../../../CyberLab/MBZ__1__Advance_Full_Reflections/4K_Optimized_Presets/CyberLab__Ultimate_Virtual_Slot_Mask_CRT-1P2RTA__ADV.slangp"
+#reference "../../../../Duimon-Mega-Bezel/Params/Advanced/SEGA_Saturn/Saturn_Alt-[ADV]-[Guest]-[Bezel]-[Night].params"
+
+HSM_DEVICE_BRIGHTNESS = "32.000000"
+HSM_DEVICE_GAMMA = "0.440000"

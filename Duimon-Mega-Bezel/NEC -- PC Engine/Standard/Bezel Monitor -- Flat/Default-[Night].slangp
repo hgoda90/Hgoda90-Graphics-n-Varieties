@@ -1,0 +1,6 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/NEC_PC_Engine/PC_Engine-[STD]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../res/params/Bezel Monitor -- Flat.params"
+#reference "../../../res/params/Night.params"
+
+HSM_FRM_NOISE = "10.000000"
+HSM_DECAL_POS_Y = "-2.100000"

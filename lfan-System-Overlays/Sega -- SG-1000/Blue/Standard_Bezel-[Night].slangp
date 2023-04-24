@@ -1,0 +1,9 @@
+#reference "../../res/params/mbz.params"
+#reference "../../res/params/Standard Bezel.params"
+#reference "../../res/params/Night 02.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.497000"
+HSM_BZL_COLOR_HUE = "212.000000"
+HSM_BZL_COLOR_SATURATION = "98.000000"
+HSM_BZL_COLOR_VALUE = "58.000000"
+BackgroundImage = "../../res/images/CRT-SG-1000-lfan.png"

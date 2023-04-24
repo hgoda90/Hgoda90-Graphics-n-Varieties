@@ -1,0 +1,6 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Amiga_A500_Plus/A500-[STD]-[Guest-Mini]-[Bezel].slangp"
+#reference "../../../res/params/Outline -- Bezel.params"
+
+HSM_FRM_COLOR_HUE = "45.000000"
+HSM_FRM_COLOR_SATURATION = "5.000000"
+HSM_FRM_COLOR_VALUE = "62.000000"

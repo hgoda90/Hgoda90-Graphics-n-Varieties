@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Enterprise_128k/Enterprise-[STD]-[Guest-Mini]-[Bezel].slangp"
+#reference "../../../res/params/Bezel Monitor -- Flat.params"
+
+HSM_DECAL_POS_Y = "-2.100000"

@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/VTech_Socrates/Socrates-[STD]-[Guest-Mini]-[Bezel].slangp"
+#reference "../../../res/params/Bezel Monitor -- Curved.params"
+
+HSM_FRM_NOISE = "10.000000"

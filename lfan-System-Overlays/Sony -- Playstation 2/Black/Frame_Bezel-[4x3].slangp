@@ -1,0 +1,7 @@
+#reference "../../res/params/mbz.params"
+#reference "../../res/params/Frame Bezel -- 4x3.params"
+
+HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
+HSM_TUBE_EMPTY_THICKNESS_X_SCALE = "360.000000"
+HSM_BZL_COLOR_VALUE = "8.000000"
+BackgroundImage = "../../res/images/CRT-PS2-lfan.png"

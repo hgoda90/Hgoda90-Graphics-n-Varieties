@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Fujitsu-FM-7/FM7-[STD]-[Guest]-[Bezel].slangp"
+#reference "../../../res/params/Outline -- Bezel.params"
+
+HSM_FRM_COLOR_VALUE = "55.000000"

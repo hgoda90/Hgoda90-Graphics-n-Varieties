@@ -1,0 +1,8 @@
+#reference "../../res/params/mbz.params"
+#reference "../../res/params/Mirror Bezel.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.508000"
+HSM_BZL_WIDTH = "490.000000"
+HSM_BZL_COLOR_VALUE = "8.000000"
+HSM_REFLECT_CORNER_ROTATION_OFFSET_BOTTOM = "-2.000000"
+BackgroundImage = "../../res/images/CRT-3DO-lfan.png"

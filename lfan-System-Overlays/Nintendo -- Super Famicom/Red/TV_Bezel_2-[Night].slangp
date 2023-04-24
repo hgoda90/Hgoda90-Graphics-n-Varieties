@@ -1,0 +1,9 @@
+#reference "../../res/params/mbz.params"
+#reference "../../res/params/TV Bezel 2.params"
+#reference "../../res/params/Night 02.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.336000"
+HSM_BZL_COLOR_HUE = "358.000000"
+HSM_BZL_COLOR_SATURATION = "86.000000"
+HSM_BZL_COLOR_VALUE = "88.000000"
+BackgroundImage = "../../res/images/CRT-SFC-lfan.png"

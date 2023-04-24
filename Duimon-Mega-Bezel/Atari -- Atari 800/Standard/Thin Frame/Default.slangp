@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Atari_800/Atari_800-[STD]-[Guest]-[Bezel].slangp"
+#reference "../../../res/params/Thin Frame.params"
+
+HSM_BG_SCALE_X = "102.500000"

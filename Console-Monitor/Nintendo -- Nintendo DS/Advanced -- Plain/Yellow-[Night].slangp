@@ -1,0 +1,13 @@
+#reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV.slangp"
+#reference "../res/params/Handheld -- DS.params"
+#reference "../res/params/Night.params"
+
+HSM_BZL_COLOR_HUE = "56.000000"
+HSM_BZL_COLOR_SATURATION = "100.000000"
+HSM_BZL_COLOR_VALUE = "65.000000"
+HSM_DEVICE_HUE = "4.000000"
+HSM_DEVICE_SATURATION = "99.000000"
+HSM_DEVICE_BRIGHTNESS = "65.000000"
+HSM_DEVICE_GAMMA = "0.650000"
+HSM_DECAL_SOURCE_MATTE_TYPE = "2.000000"
+DecalImage = "../res/images/Decals/NDS.png"

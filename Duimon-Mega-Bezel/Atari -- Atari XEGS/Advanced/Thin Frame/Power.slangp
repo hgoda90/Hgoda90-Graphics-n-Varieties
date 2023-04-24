@@ -1,0 +1,8 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Atari_XEGS/Atari_XEGS-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../res/params/Thin Frame.params"
+
+HSM_BZL_COLOR_HUE = "139.000000"
+HSM_BZL_COLOR_SATURATION = "15.000000"
+HSM_BZL_COLOR_VALUE = "79.000000"
+HSM_FRM_NOISE = "10.000000"
+HSM_BG_SCALE_X = "103.000000"

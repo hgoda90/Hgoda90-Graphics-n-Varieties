@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Mattel_Intellivision/Intellivision-[ADV]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../res/params/Wide Frame.params"
+#reference "../../../res/params/Night.params"
+
+HSM_DECAL_POS_Y = "-0.200000"

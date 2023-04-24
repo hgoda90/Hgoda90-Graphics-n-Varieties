@@ -1,0 +1,9 @@
+#reference "../../res/params/mbz.params"
+#reference "../../res/params/Frame Bezel -- 4x3.params"
+
+HSM_ASPECT_RATIO_ORIENTATION = "1.000000"
+HSM_TUBE_EMPTY_THICKNESS_X_SCALE = "810.000000"
+HSM_BZL_COLOR_HUE = "156.000000"
+HSM_BZL_COLOR_SATURATION = "72.000000"
+HSM_BZL_COLOR_VALUE = "89.000000"
+BackgroundImage = "../../res/images/CRT-PS1-lfan.png"

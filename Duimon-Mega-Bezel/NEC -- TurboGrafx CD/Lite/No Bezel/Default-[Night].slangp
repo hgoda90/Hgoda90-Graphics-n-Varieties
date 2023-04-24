@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/NEC_TurboGrafx_CD/TurboGrafx_CD-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
+#reference "../../../res/params/No Bezel.params"
+
+HSM_NON_INTEGER_SCALE = "87.569931"

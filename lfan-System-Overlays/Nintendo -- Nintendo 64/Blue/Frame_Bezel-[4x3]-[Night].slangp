@@ -1,0 +1,12 @@
+#reference "../../res/params/mbz.params"
+#reference "../../res/params/Night 02.params"
+#reference "../../res/params/Frame Bezel -- 4x3.params"
+
+HSM_TUBE_EMPTY_THICKNESS_X_SCALE = "810.000000"
+HSM_CROP_PERCENT_ZOOM = "3.200000"
+HSM_CROP_PERCENT_BOTTOM = "1.000000"
+HSM_SCANLINE_DIRECTION = "2.000000"
+HSM_BZL_COLOR_HUE = "226.000000"
+HSM_BZL_COLOR_SATURATION = "67.000000"
+HSM_BZL_COLOR_VALUE = "64.000000"
+BackgroundImage = "../../res/images/CRT-N64-lfan.png"

@@ -1,0 +1,13 @@
+#reference "../../../res/params/mbz.params"
+#reference "../../../res/params/candy/3DS_V.params"
+
+HSM_DEVICE_HUE = "210.000000"
+HSM_DEVICE_SATURATION = "82.000000"
+HSM_DEVICE_BRIGHTNESS = "44.000000"
+HSM_DEVICE_GAMMA = "0.450000"
+HSM_DEVICELED_SATURATION = "0.000000"
+HSM_DEVICELED_BRIGHTNESS = "14.000000"
+HSM_DEVICELED_GAMMA = "0.450000"
+HSM_DECAL_SOURCE_MATTE_TYPE = "1.000000"
+IntroImage = "../../../res/images/Intro/3DS.png"
+DecalImage = "../../../res/images/Decals/3DS.png"

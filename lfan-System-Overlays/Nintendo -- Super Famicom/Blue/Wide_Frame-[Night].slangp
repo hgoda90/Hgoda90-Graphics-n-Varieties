@@ -1,0 +1,9 @@
+#reference "../../res/params/mbz.params"
+#reference "../../res/params/Night 02.params"
+#reference "../../res/params/Wide Frame.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.445000"
+HSM_BZL_COLOR_HUE = "199.000000"
+HSM_BZL_COLOR_SATURATION = "83.000000"
+HSM_BZL_COLOR_VALUE = "87.000000"
+BackgroundImage = "../../res/images/CRT-SFC-lfan.png"

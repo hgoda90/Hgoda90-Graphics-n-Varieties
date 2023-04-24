@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Sharp_X1/X1_Alt-[STD]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../res/params/Thin Frame.params"
+#reference "../../../res/params/Night.params"
+
+HSM_FRM_NOISE = "10.000000"

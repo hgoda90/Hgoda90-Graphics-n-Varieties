@@ -1,0 +1,6 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/SEGA_32X/SEGA32X-[STD]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../res/params/No Bezel.params"
+
+HSM_NON_INTEGER_SCALE = "91.369873"
+HSM_SCREEN_POSITION_X = "-27.000000"
+HSM_REFLECT_GLOBAL_GAMMA_ADJUST = "1.300000"

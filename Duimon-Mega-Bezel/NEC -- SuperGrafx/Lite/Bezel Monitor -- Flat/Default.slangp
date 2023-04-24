@@ -1,0 +1,6 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/NEC_SuperGrafx/SuperGrafx-[STD]-[Guest-Mini]-[Bezel].slangp"
+#reference "../../../res/params/Bezel Monitor -- Flat.params"
+
+HSM_FRM_NOISE = "20.000000"
+HSM_FRM_TEXTURE_OPACITY = "3.000000"
+HSM_DECAL_POS_Y = "-2.100000"

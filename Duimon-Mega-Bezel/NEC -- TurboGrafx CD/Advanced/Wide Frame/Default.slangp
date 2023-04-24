@@ -1,0 +1,6 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/NEC_TurboGrafx_CD/TurboGrafx_CD-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../res/params/Wide Frame.params"
+
+HSM_FRM_NOISE = "20.000000"
+HSM_BG_SCALE_X = "101.000000"
+HSM_DECAL_POS_Y = "-0.200000"

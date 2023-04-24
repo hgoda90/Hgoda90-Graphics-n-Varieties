@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/VTech_Socrates/Socrates-[ADV]-[Guest]-[Custom-Bezel_001].slangp"
+HSM_BZL_COLOR_HUE = "214.000000"
+HSM_BZL_COLOR_SATURATION = "57.000000"
+HSM_FRM_NOISE = "10.000000"

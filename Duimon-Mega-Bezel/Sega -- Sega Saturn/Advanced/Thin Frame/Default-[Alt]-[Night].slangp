@@ -1,0 +1,6 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/SEGA_Saturn/Saturn_Alt-[ADV]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../res/params/Thin Frame.params"
+#reference "../../../res/params/Night.params"
+
+HSM_FRM_NOISE = "20.000000"
+HSM_DEVICE_AMBIENT_LIGHTING_MULTIPLIER = "85.000000"

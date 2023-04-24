@@ -1,0 +1,8 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/SONY_Playstation_2/Playstation2-[STD]-[Guest]-[PVM20]-[Night].slangp"
+#reference "../../../res/params/Zoom -- PVM20.params"
+
+HSM_DEVICE_COLORIZE_ON = "1.000000"
+HSM_DEVICE_HUE = "227.000000"
+HSM_DEVICE_SATURATION = "196.000000"
+HSM_DEVICE_BRIGHTNESS = "200.000000"
+HSM_DEVICE_GAMMA = "1.240000"

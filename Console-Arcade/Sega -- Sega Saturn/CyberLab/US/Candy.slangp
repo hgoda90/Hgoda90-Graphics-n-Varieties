@@ -1,0 +1,13 @@
+#reference "../../../res/params/cyber.params"
+#reference "../../../res/params/candy/4x3 -- CyberLab.params"
+
+HSM_DEVICE_HUE = "140.000000"
+HSM_DEVICE_SATURATION = "12.000000"
+HSM_DEVICE_BRIGHTNESS = "16.000000"
+HSM_DEVICE_GAMMA = "0.450000"
+HSM_DEVICELED_HUE = "140.000000"
+HSM_DEVICELED_SATURATION = "12.000000"
+HSM_DEVICELED_BRIGHTNESS = "14.000000"
+HSM_DEVICELED_GAMMA = "0.450000"
+IntroImage = "../../../res/images/Intro/SAT.png"
+DecalImage = "../../../res/images/Decals/SAT.png"

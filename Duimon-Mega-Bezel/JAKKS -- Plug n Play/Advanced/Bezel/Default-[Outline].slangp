@@ -1,0 +1,6 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/JAKKS_Plug-n-Play/Jakks-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../res/params/Outline -- Bezel.params"
+
+HSM_FRM_COLOR_HUE = "55.000000"
+HSM_FRM_COLOR_SATURATION = "77.000000"
+HSM_FRM_COLOR_VALUE = "99.000000"

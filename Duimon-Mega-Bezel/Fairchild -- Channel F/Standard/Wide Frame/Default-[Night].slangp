@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Fairchild_Channel_F/ChannelF-[STD]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../res/params/Wide Frame.params"
+#reference "../../../res/params/Night.params"
+
+HSM_BG_SCALE_X = "103.000000"

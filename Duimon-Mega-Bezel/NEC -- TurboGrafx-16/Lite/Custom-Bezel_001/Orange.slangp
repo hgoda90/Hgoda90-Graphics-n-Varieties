@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/NEC_TurboGrafx_16/TurboGrafx16-[STD]-[Guest-Mini]-[Custom-Bezel_001].slangp"
+HSM_BZL_COLOR_HUE = "31.000000"
+HSM_BZL_COLOR_SATURATION = "100.000000"
+HSM_BZL_COLOR_VALUE = "97.000000"

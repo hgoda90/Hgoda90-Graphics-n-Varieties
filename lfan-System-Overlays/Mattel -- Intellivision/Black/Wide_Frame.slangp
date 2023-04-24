@@ -1,0 +1,5 @@
+#reference "../../res/params/mbz.params"
+#reference "../../res/params/Wide Frame.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.494000"
+BackgroundImage = "../../res/images/CRT-Intellivision-lfan.png"

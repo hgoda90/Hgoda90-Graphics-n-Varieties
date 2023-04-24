@@ -1,0 +1,7 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Nintendo_Super_Famicom/Super_Famicom-[STD]-[Guest-Mini]-[Bezel].slangp"
+HSM_BZL_COLOR_HUE = "62.000000"
+HSM_BZL_COLOR_SATURATION = "100.000000"
+HSM_BZL_COLOR_VALUE = "100.000000"
+HSM_DECAL_HUE = "0.000000"
+HSM_DECAL_SATURATION = "0.000000"
+HSM_DECAL_BRIGHTNESS = "1.000000"

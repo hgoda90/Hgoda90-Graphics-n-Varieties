@@ -1,0 +1,8 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Atari_XEGS/Atari_XEGS-[ADV]-[Guest]-[TM20].slangp"
+HSM_BZL_COLOR_HUE = "139.000000"
+HSM_BZL_COLOR_SATURATION = "15.000000"
+HSM_BZL_COLOR_VALUE = "79.000000"
+HSM_DEVICE_HUE = "90.000000"
+HSM_DEVICE_SATURATION = "29.000000"
+HSM_DEVICE_BRIGHTNESS = "56.000000"
+DeviceImage = "../../../../../Duimon-Mega-Bezel/Graphics/PVM/TM20_Bezel2.png"

@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/NEC_PC-9801/PC-9801-[STD]-[Guest-Mini]-[Bezel].slangp"
+#reference "../../../res/params/Thin Frame.params"
+
+HSM_FRM_NOISE = "10.000000"

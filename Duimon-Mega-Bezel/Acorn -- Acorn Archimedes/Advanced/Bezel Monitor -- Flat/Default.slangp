@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Acorn_Archimedes/Archimedes-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../res/params/Bezel Monitor -- Flat.params"
+
+HSM_FRM_NOISE = "15.000000"
+HSM_BG_SCALE_X = "102.000000"

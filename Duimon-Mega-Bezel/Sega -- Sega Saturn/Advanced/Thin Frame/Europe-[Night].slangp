@@ -1,0 +1,9 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/SEGA_Saturn/Saturn_Alt-[ADV]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../res/params/Thin Frame.params"
+#reference "../../../res/params/Night.params"
+
+HSM_BZL_COLOR_HUE = "208.000000"
+HSM_BZL_COLOR_SATURATION = "6.000000"
+HSM_BZL_COLOR_VALUE = "50.000000"
+HSM_FRM_NOISE = "10.000000"
+HSM_DEVICE_AMBIENT_LIGHTING_MULTIPLIER = "85.000000"

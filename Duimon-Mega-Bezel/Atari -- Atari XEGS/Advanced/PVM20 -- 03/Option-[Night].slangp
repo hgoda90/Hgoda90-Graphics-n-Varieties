@@ -1,0 +1,6 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/PVM_PVM20/PVM20_03-[ADV]-[Guest]-[Night].slangp"
+HSM_DEVICE_COLORIZE_ON = "0.000000"
+HSM_DEVICE_HUE = "318.000000"
+HSM_DEVICE_SATURATION = "50.000000"
+HSM_DEVICE_BRIGHTNESS = "53.000000"
+DeviceImage = "../../../../../Duimon-Mega-Bezel/Graphics/PVM/PVM20_Bezel2.png"

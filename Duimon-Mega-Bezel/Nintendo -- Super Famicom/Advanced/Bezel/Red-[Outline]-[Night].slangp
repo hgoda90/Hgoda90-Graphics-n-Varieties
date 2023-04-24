@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Nintendo_Super_Famicom/Super_Famicom-[ADV]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../res/params/Outline -- Bezel.params"
+
+HSM_FRM_COLOR_SATURATION = "100.000000"
+HSM_FRM_COLOR_VALUE = "100.000000"

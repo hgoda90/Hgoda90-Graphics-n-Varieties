@@ -1,0 +1,9 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/uzebox/uzebox-[STD]-[Guest-Mini]-[Bezel].slangp"
+#reference "../../../res/params/Wide Frame.params"
+
+HSM_FRM_NOISE = "15.000000"
+HSM_BG_HUE = "235.000000"
+HSM_BG_BRIGHTNESS = "100.000000"
+HSM_BG_GAMMA = "1.000000"
+HSM_BG_SCALE = "102.500000"
+HSM_BG_SCALE_X = "101.500000"

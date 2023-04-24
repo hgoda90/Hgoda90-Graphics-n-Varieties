@@ -1,0 +1,10 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Nintendo_NES/NES-[STD]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../res/params/Bezel Monitor -- Curved.params"
+#reference "../../../res/params/Night.params"
+
+HSM_BZL_COLOR_SATURATION = "0.000000"
+HSM_BZL_COLOR_VALUE = "75.800000"
+HSM_FRM_NOISE = "15.000000"
+HSM_DECAL_COLORIZE_ON = "1.000000"
+HSM_DECAL_SATURATION = "200.000000"
+HSM_DECAL_BRIGHTNESS = "90.000000"
