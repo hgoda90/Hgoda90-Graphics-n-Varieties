@@ -1,4 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/Elektronika_BK-0010/Elektronika-[STD]-[Guest]-[Bezel].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Thin Frame.params"
-
-HSM_BG_SCALE_X = "102.000000"

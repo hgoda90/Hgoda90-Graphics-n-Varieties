@@ -1,5 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/Elektronika_BK-0010/Elektronika-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Thin Frame.params"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Night.params"
-
-HSM_BG_SCALE_X = "102.000000"

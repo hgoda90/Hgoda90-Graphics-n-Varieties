@@ -1,8 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/Emerson_Arcadia_2001/Arcadia-[STD]-[Guest-Mini]-[Bezel].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Bezel TV.params"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Night.params"
-
-HSM_BZL_COLOR_HUE = "46.000000"
-HSM_BZL_COLOR_SATURATION = "23.000000"
-HSM_BZL_COLOR_VALUE = "65.000000"
-HSM_FRM_NOISE = "15.000000"

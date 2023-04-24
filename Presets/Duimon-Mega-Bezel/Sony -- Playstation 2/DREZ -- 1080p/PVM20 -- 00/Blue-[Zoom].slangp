@@ -1,8 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/SONY_Playstation_2_DREZ/Playstation2-[DREZ]-[1080p]-[STD]-[Guest]-[PVM20].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Zoom -- PVM20.params"
-
-HSM_DEVICE_COLORIZE_ON = "1.000000"
-HSM_DEVICE_HUE = "227.000000"
-HSM_DEVICE_SATURATION = "196.000000"
-HSM_DEVICE_BRIGHTNESS = "200.000000"
-HSM_DEVICE_GAMMA = "1.240000"

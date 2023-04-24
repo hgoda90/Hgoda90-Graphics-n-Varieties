@@ -1,5 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/MSX/MSX-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Thin Frame.params"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Night.params"
-
-HSM_DECAL_SCALE = "102.500000"

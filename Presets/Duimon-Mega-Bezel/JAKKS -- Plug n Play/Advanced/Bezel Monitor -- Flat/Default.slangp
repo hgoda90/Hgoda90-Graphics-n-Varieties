@@ -1,4 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/JAKKS_Plug-n-Play/Jakks-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Bezel Monitor -- Flat.params"
-
-HSM_FRM_NOISE = "15.000000"

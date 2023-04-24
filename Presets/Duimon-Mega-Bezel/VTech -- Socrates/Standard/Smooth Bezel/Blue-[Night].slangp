@@ -1,6 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/VTech_Socrates/Socrates-[STD]-[Guest]-[Bezel]-[Night].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Smooth Bezel.params"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Night.params"
-
-HSM_BZL_COLOR_HUE = "214.000000"
-HSM_BZL_COLOR_SATURATION = "57.000000"

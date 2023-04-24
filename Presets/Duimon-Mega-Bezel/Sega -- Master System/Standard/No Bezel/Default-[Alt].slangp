@@ -1,6 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/SEGA_Master_System/SMS_Alt-[STD]-[Guest]-[Bezel].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/No Bezel.params"
-
-HSM_NON_INTEGER_SCALE = "91.969864"
-HSM_CURVATURE_MODE = "0.000000"
-HSM_REFLECT_GLOBAL_GAMMA_ADJUST = "1.300000"

@@ -1,7 +1,0 @@
-#reference "../../../../../CyberLab/MBZ__1__Advance_Full_Reflections/1080p_Optimized_Presets/CyberLab__Ultimate_Virtual_Slot_Mask_CRT-1P2RTA__ADV.slangp"
-#reference "../../../../../Duimon-Mega-Bezel/Params/Advanced/SEGA_Saturn/Saturn_Alt-[ADV]-[Guest]-[Bezel]-[Night].params"
-
-HSM_BZL_COLOR_HUE = "208.000000"
-HSM_BZL_COLOR_SATURATION = "6.000000"
-HSM_BZL_COLOR_VALUE = "50.000000"
-HSM_FRM_NOISE = "10.000000"

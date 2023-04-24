@@ -1,9 +1,0 @@
-#reference "../../../../../Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console/3DO-[FLAT].slangp"
-#reference "../../../../Params/Soqueroeu-TV-Backgrounds_V2.0/Panel.params"
-#reference "../../../../Params/Soqueroeu-TV-Backgrounds_V2.0/Intro.params"
-
-HSM_NON_INTEGER_SCALE = "82.770000"
-HSM_SCREEN_POSITION_Y = "-10.000000"
-HSM_BG_FOLLOW_LAYER = "1.000000"
-HSM_BG_SCALE = "128.800000"
-HSM_BG_POS_Y = "-10.200000"

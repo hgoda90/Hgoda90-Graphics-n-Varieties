@@ -1,6 +1,0 @@
-#reference "../../../../../CyberLab/MBZ__3__Standard_Full_Reflections/4K_Optimized_Presets/CyberLab__Ultimate_Virtual_Slot_Mask_CRT-1P2RTA__ADV.slangp"
-#reference "../../../../../Duimon-Mega-Bezel/Params/Standard/JAKKS_Plug-n-Play/Jakks-[STD]-[Guest]-[Bezel]-[Night].params"
-
-HSM_BZL_COLOR_HUE = "268.000000"
-HSM_BZL_COLOR_SATURATION = "86.000000"
-HSM_BZL_COLOR_VALUE = "38.000000"

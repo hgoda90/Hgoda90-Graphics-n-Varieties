@@ -1,9 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/SONY_Playstation_2_DREZ/Playstation2-[DREZ]-[1080p]-[STD]-[Guest]-[Bezel].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Smooth Bezel -- 16x9.params"
-
-HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
-HSM_BZL_COLOR_HUE = "0.000000"
-HSM_BZL_COLOR_SATURATION = "0.000000"
-HSM_BZL_COLOR_VALUE = "15.600000"
-HSM_DECAL_BRIGHTNESS = "150.000000"
-DecalImage = "../../../../../../Duimon-Mega-Bezel/Graphics/SONY_Playstation/Playstation_Decal.png"

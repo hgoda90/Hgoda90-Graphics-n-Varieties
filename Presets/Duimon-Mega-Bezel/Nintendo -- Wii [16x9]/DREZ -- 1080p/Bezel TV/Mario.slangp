@@ -1,7 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/Nintendo_Wii_DREZ/Wii_16x9-[DREZ]-[1080p]-[STD]-[Guest].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Bezel TV -- 16x9 Wii.params"
-
-HSM_BZL_COLOR_HUE = "351.000000"
-HSM_BZL_COLOR_SATURATION = "100.000000"
-HSM_BZL_COLOR_VALUE = "85.000000"
-HSM_FRM_NOISE = "10.000000"

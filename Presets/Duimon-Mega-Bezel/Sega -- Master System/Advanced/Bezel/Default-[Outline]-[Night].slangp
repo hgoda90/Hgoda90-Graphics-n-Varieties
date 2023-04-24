@@ -1,7 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/SEGA_Master_System/SMS-[ADV]-[Guest]-[Bezel]-[Night].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Outline -- Bezel.params"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Night.params"
-
-HSM_FRM_COLOR_HUE = "0.000000"
-HSM_FRM_COLOR_SATURATION = "79.000000"
-HSM_FRM_COLOR_VALUE = "37.000000"

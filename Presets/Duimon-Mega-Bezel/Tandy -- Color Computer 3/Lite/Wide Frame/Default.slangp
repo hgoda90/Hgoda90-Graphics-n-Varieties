@@ -1,5 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/Tandy_CoCo_3/CoCo3-[STD]-[Guest-Mini]-[Bezel].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Wide Frame.params"
-
-HSM_FRM_NOISE = "15.000000"
-HSM_BG_SCALE = "103.000000"

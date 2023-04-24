@@ -1,7 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/Fujitsu-FM-7/FM7-[STD]-[Guest]-[Bezel]-[Night].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Wide Frame.params"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Night.params"
-
-HSM_FRM_NOISE = "15.000000"
-HSM_BG_SCALE_X = "103.500000"
-HSM_LED_SCALE_X = "99.900000"

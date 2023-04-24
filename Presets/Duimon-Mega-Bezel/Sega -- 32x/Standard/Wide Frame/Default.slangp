@@ -1,5 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/SEGA_32X/SEGA32X-[STD]-[Guest]-[Bezel].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Wide Frame.params"
-
-HSM_BG_SCALE_X = "103.000000"
-HSM_DECAL_POS_Y = "-0.200000"

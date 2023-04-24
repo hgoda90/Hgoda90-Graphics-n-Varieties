@@ -1,7 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/Atari_XEGS/Atari_XEGS-[STD]-[Guest]-[PVM20].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Zoom -- PVM20.params"
-
-HSM_DEVICE_HUE = "358.000000"
-HSM_DEVICE_SATURATION = "14.000000"
-HSM_DEVICE_BRIGHTNESS = "28.000000"
-DeviceImage = "../../../../../../Duimon-Mega-Bezel/Graphics/PVM/PVM20_Bezel2.png"

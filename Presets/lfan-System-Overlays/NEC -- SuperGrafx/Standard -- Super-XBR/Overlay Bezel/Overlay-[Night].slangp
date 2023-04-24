@@ -1,9 +1,0 @@
-#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD-SUPER-XBR__GDV.slangp"
-#reference "../../../../../Params/lfan-System-Overlays/Overlay Bezel Night.params"
-#reference "../../../../../Params/lfan-System-Overlays/Overlay Bezel.params"
-
-HSM_ASPECT_RATIO_ORIENTATION = "1.000000"
-HSM_ASPECT_RATIO_MODE = "1.000000"
-HSM_ASPECT_RATIO_EXPLICIT = "1.504000"
-HSM_BZL_WIDTH = "285.000000"
-BackgroundImage = "../../../../../Graphics/lfan/CRT-SGFX-lfan.png"

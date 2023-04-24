@@ -1,4 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/NEC_PC-8801/PC-8801-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Bezel Monitor -- Curved.params"
-
-HSM_FRM_NOISE = "10.000000"

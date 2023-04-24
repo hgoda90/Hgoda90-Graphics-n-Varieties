@@ -1,5 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/Commodore_64C/64C-[STD]-[Guest]-[Bezel]-[Night].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Thin Frame.params"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Night.params"
-
-HSM_FRM_NOISE = "10.000000"

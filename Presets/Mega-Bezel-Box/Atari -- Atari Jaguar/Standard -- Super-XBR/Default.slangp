@@ -1,8 +1,0 @@
-#reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD-SUPER-XBR__GDV.slangp"
-HSM_NON_INTEGER_SCALE = "79.170000"
-HSM_SCREEN_POSITION_X = "-82.000000"
-HSM_SCREEN_POSITION_Y = "24.000000"
-HSM_BZL_COLOR_VALUE = "4.000000"
-HSM_FRM_OPACITY = "0.000000"
-HSM_FRM_INNER_EDGE_THICKNESS = "0.000000"
-BackgroundImage = "../../../../Graphics/Mega-Bezel-Box/Background/JAG.png"

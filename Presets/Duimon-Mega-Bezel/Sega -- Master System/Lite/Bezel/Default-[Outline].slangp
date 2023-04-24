@@ -1,6 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/SEGA_Master_System/SMS-[STD]-[Guest-Mini]-[Bezel].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Outline -- Bezel.params"
-
-HSM_FRM_COLOR_HUE = "0.000000"
-HSM_FRM_COLOR_SATURATION = "79.000000"
-HSM_FRM_COLOR_VALUE = "37.000000"

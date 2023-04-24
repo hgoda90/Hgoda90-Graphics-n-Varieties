@@ -1,9 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/SONY_Playstation_2/Playstation2-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Bezel TV -- 16x9.params"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Night.params"
-
-HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
-HSM_FRM_NOISE = "20.000000"
-HSM_BG_SCALE = "90.000000"
-HSM_BG_SCALE_X = "113.400000"
-HSM_BG_POS_Y = "-5.220000"

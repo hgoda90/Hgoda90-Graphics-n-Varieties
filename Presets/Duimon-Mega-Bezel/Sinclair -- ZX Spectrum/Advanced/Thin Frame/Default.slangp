@@ -1,4 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/Sinclair_ZX_Spectrum/ZX_Spectrum-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Thin Frame.params"
-
-HSM_DECAL_SCALE = "102.500000"

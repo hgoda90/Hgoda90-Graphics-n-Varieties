@@ -1,8 +1,0 @@
-#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__0__SMOOTH-ADV__GDV.slangp"
-#reference "../../../../../Params/lfan-System-Overlays/Frameless Bezel.params"
-
-HSM_ASPECT_RATIO_EXPLICIT = "1.528000"
-HSM_BZL_COLOR_HUE = "0.000000"
-HSM_BZL_COLOR_SATURATION = "92.000000"
-HSM_BZL_COLOR_VALUE = "68.000000"
-BackgroundImage = "../../../../../Graphics/lfan/CRT-Atari-7800-lfan.png"

@@ -1,6 +1,0 @@
-#reference "../../../../../CyberLab/MBZ__3__Standard_Full_Reflections/1440p_Optimized_Presets/CyberLab__Ultimate_Virtual_Slot_Mask_CRT-1P2RTA__ADV.slangp"
-#reference "../../../../../Duimon-Mega-Bezel/Params/Standard/Emerson_Arcadia_2001/Arcadia-[STD]-[Guest]-[Bezel]-[Night].params"
-
-HSM_BZL_COLOR_HUE = "46.000000"
-HSM_BZL_COLOR_SATURATION = "23.000000"
-HSM_BZL_COLOR_VALUE = "65.000000"

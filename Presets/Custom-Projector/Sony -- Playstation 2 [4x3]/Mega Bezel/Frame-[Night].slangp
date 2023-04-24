@@ -1,5 +1,0 @@
-#reference "../../../../Params/Custom-Projector/mbz.params"
-#reference "../../../../Params/Custom-Projector/Night.params"
-#reference "../../../../Params/Custom-Projector/Full Frame.params"
-
-HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"

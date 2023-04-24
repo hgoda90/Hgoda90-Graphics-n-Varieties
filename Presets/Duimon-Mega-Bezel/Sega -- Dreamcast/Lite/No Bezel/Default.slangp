@@ -1,4 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/SEGA_Dreamcast/Dreamcast-[STD]-[Guest-Mini]-[Bezel].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/No Bezel.params"
-
-HSM_NON_INTEGER_SCALE = "91.969864"

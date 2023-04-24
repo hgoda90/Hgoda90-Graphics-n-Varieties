@@ -1,4 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/NEC_SuperGrafx/SuperGrafx_Alt-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Outline -- Bezel.params"
-
-HSM_FRM_COLOR_VALUE = "20.000000"

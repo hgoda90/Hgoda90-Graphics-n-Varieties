@@ -1,8 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/Atari_Jaguar/Jaguar-[STD]-[Guest]-[Bezel].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Thin Frame.params"
-
-HSM_BZL_COLOR_HUE = "43.000000"
-HSM_BZL_COLOR_SATURATION = "92.000000"
-HSM_BZL_COLOR_VALUE = "75.400000"
-HSM_FRM_NOISE = "10.000000"
-HSM_BG_SCALE_X = "105.000000"

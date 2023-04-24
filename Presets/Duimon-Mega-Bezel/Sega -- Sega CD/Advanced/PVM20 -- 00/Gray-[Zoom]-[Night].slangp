@@ -1,8 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Advanced/SEGA_CD/SEGACD-[ADV]-[Guest]-[PVM20]-[Night].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Zoom -- PVM20.params"
-
-HSM_DEVICE_HUE = "0.000000"
-HSM_DEVICE_SATURATION = "0.000000"
-HSM_DEVICE_BRIGHTNESS = "1.000000"
-HSM_DEVICE_GAMMA = "1.070000"
-DeviceImage = "../../../../../../Duimon-Mega-Bezel/Graphics/PVM/PVM20_Bezel2.png"

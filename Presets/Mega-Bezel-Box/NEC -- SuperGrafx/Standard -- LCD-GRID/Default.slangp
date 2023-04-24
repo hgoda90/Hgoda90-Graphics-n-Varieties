@@ -1,5 +1,0 @@
-#reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__LCD-GRID.slangp"
-HSM_NON_INTEGER_SCALE = "75.170000"
-HSM_SCREEN_POSITION_Y = "56.000000"
-HSM_BZL_COLOR_VALUE = "4.000000"
-BackgroundImage = "../../../../Graphics/Mega-Bezel-Box/Background/SG.png"

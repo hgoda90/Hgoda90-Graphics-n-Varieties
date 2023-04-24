@@ -1,5 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/NEC_SuperGrafx/SuperGrafx-[STD]-[Guest]-[Bezel].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Bezel Monitor -- Curved.params"
-
-HSM_FRM_NOISE = "20.000000"
-HSM_FRM_TEXTURE_OPACITY = "3.000000"

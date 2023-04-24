@@ -1,8 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/SEGA_Saturn/Saturn_Alt-[DREZ]-[240p]-[STD]-[Guest]-[Bezel]-[Night].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Thin Frame.params"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Night.params"
-
-HSM_FRM_NOISE = "20.000000"
-HSM_DEVICE_BRIGHTNESS = "32.000000"
-HSM_DEVICE_GAMMA = "0.440000"
-HSM_DEVICE_AMBIENT_LIGHTING_MULTIPLIER = "85.000000"

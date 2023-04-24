@@ -1,9 +1,0 @@
-#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD-SUPER-XBR__GDV.slangp"
-#reference "../../../../../Params/lfan-System-Overlays/Night 02.params"
-#reference "../../../../../Params/lfan-System-Overlays/Frame Bezel -- Full.params"
-
-HSM_ASPECT_RATIO_EXPLICIT = "1.622000"
-HSM_BZL_COLOR_HUE = "358.000000"
-HSM_BZL_COLOR_SATURATION = "88.000000"
-HSM_BZL_COLOR_VALUE = "93.000000"
-BackgroundImage = "../../../../../Graphics/lfan/CRT-Jaguar-lfan.png"

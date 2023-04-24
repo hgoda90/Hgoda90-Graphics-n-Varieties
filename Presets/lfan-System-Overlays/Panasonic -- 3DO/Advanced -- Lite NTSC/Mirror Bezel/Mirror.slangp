@@ -1,8 +1,0 @@
-#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV-MINI-NTSC.slangp"
-#reference "../../../../../Params/lfan-System-Overlays/Mirror Bezel.params"
-
-HSM_ASPECT_RATIO_EXPLICIT = "1.508000"
-HSM_BZL_WIDTH = "490.000000"
-HSM_BZL_COLOR_VALUE = "8.000000"
-HSM_REFLECT_CORNER_ROTATION_OFFSET_BOTTOM = "-2.000000"
-BackgroundImage = "../../../../../Graphics/lfan/CRT-3DO-lfan.png"

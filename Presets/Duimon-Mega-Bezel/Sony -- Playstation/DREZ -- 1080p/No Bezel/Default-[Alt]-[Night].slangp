@@ -1,7 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/SONY_Playstation_DREZ/Playstation_Alt-[DREZ]-[1080p]-[STD]-[Guest]-[Bezel]-[Night].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/No Bezel.params"
-
-HSM_NON_INTEGER_SCALE = "90.369888"
-HSM_CURVATURE_MODE = "0.000000"
-HSM_REFLECT_GLOBAL_GAMMA_ADJUST = "1.300000"
-HSM_REFLECT_RADIAL_FADE_HEIGHT = "15.000000"

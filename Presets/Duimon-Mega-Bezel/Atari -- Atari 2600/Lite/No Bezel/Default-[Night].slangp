@@ -1,8 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/Atari_2600/2600-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/No Bezel.params"
-
-HSM_NON_INTEGER_SCALE = "72.570160"
-HSM_SCREEN_POSITION_X = "12.000000"
-HSM_SCREEN_POSITION_Y = "-20.000000"
-HSM_CURVATURE_MODE = "2.000000"
-HSM_DECAL_OPACITY = "0.000000"

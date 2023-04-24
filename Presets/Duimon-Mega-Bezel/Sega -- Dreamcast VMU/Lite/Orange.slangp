@@ -1,5 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/SEGA_Dreamcast_VMU/VMU-[STD]-[LCD-GRID].slangp"
-HSM_DECAL_HUE = "15.000000"
-HSM_DECAL_SATURATION = "97.000000"
-HSM_DECAL_BRIGHTNESS = "176.000000"
-HSM_DECAL_GAMMA = "0.500000"

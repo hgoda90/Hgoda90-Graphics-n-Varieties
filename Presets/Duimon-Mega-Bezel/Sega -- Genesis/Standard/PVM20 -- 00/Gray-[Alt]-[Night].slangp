@@ -1,6 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/SEGA_Genesis/Genesis_Alt-[STD]-[Guest]-[PVM20]-[Night].slangp"
-HSM_DEVICE_HUE = "0.000000"
-HSM_DEVICE_SATURATION = "0.000000"
-HSM_DEVICE_BRIGHTNESS = "1.000000"
-HSM_DEVICE_GAMMA = "1.070000"
-DeviceImage = "../../../../../../Duimon-Mega-Bezel/Graphics/PVM/PVM20_Bezel2.png"

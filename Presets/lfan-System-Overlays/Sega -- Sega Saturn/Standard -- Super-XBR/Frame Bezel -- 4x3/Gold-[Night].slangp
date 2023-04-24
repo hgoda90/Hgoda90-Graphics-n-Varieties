@@ -1,9 +1,0 @@
-#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD-SUPER-XBR__GDV.slangp"
-#reference "../../../../../Params/lfan-System-Overlays/Night 02.params"
-#reference "../../../../../Params/lfan-System-Overlays/Frame Bezel -- 4x3.params"
-
-HSM_TUBE_EMPTY_THICKNESS_X_SCALE = "765.000000"
-HSM_BZL_COLOR_HUE = "36.000000"
-HSM_BZL_COLOR_SATURATION = "59.000000"
-HSM_BZL_COLOR_VALUE = "73.000000"
-BackgroundImage = "../../../../../Graphics/lfan/CRT-Saturn-JP-lfan.png"

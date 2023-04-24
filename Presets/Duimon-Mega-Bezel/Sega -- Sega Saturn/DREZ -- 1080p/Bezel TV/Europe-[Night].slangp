@@ -1,8 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/SEGA_Saturn/Saturn_Alt-[DREZ]-[1080p]-[STD]-[Guest]-[Bezel]-[Night].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Bezel TV.params"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Night.params"
-
-HSM_BZL_COLOR_HUE = "208.000000"
-HSM_BZL_COLOR_SATURATION = "6.000000"
-HSM_BZL_COLOR_VALUE = "50.000000"
-HSM_FRM_NOISE = "15.000000"

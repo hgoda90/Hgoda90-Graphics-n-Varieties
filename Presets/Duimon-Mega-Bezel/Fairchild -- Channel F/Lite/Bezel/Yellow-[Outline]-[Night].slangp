@@ -1,7 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/Fairchild_Channel_F/ChannelF-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Outline -- Bezel.params"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Night.params"
-
-HSM_FRM_COLOR_HUE = "43.000000"
-HSM_FRM_COLOR_SATURATION = "74.000000"
-HSM_FRM_COLOR_VALUE = "89.000000"

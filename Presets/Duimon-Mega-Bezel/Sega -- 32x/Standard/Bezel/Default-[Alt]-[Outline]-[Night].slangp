@@ -1,7 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/SEGA_32X/SEGA32X_Alt-[STD]-[Guest]-[Bezel]-[Night].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Outline -- Bezel.params"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Night.params"
-
-HSM_FRM_COLOR_HUE = "357.000000"
-HSM_FRM_COLOR_SATURATION = "80.000000"
-HSM_FRM_COLOR_VALUE = "30.000000"

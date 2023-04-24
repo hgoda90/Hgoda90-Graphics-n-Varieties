@@ -1,7 +1,0 @@
-#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__0__SMOOTH-ADV__GDV-NTSC.slangp"
-#reference "../../../../../Params/lfan-System-Overlays/Night 02.params"
-#reference "../../../../../Params/lfan-System-Overlays/Wide Frame.params"
-
-HSM_ASPECT_RATIO_EXPLICIT = "1.169300"
-HSM_BZL_COLOR_VALUE = "8.000000"
-BackgroundVertImage = "../../../../../Graphics/lfan/CRT-FB-NEO-V-lfan.png"

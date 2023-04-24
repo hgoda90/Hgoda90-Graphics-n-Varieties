@@ -1,4 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/SEGA_Mark_III/MarkIII-[STD]-[Guest]-[Bezel].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Bezel Monitor -- Flat.params"
-
-HSM_DECAL_POS_Y = "-2.100000"

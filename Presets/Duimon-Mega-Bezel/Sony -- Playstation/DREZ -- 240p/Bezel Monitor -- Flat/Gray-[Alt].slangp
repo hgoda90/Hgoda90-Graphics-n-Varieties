@@ -1,7 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Standard/SONY_Playstation_DREZ/Playstation_Alt-[DREZ]-[240p]-[STD]-[Guest]-[Bezel].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/Bezel Monitor -- Flat.params"
-
-HSM_BZL_COLOR_VALUE = "69.000000"
-HSM_FRM_NOISE = "20.000000"
-HSM_DECAL_BRIGHTNESS = "13.000000"
-HSM_DECAL_POS_Y = "-2.100000"

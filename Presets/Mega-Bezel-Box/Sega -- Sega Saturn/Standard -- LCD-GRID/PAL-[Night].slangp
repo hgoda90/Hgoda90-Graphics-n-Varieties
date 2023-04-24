@@ -1,6 +1,0 @@
-#reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__LCD-GRID.slangp"
-#reference "../../../../Params/Mega-Bezel-Box/Night.params"
-
-HSM_SCREEN_POSITION_X = "40.000000"
-HSM_BZL_COLOR_VALUE = "4.000000"
-BackgroundImage = "../../../../Graphics/Mega-Bezel-Box/Background/SS_PAL.png"

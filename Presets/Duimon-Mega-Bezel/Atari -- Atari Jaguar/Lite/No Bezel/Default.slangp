@@ -1,7 +1,0 @@
-#reference "../../../../../../Duimon-Mega-Bezel/Presets/Lite/Atari_Jaguar/Jaguar-[STD]-[Guest-Mini]-[Bezel].slangp"
-#reference "../../../../../Params/Duimon-Mega-Bezel/No Bezel.params"
-
-HSM_NON_INTEGER_SCALE = "85.169968"
-HSM_CURVATURE_MODE = "0.000000"
-HSM_BZL_OPACITY = "0.000000"
-HSM_REFLECT_GLOBAL_GAMMA_ADJUST = "1.300000"

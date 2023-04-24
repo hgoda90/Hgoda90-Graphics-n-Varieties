@@ -1,8 +1,0 @@
-#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV-MINI.slangp"
-#reference "../../../../../Params/lfan-System-Overlays/Wide Frame.params"
-
-HSM_ASPECT_RATIO_EXPLICIT = "1.169300"
-HSM_BZL_COLOR_HUE = "20.000000"
-HSM_BZL_COLOR_SATURATION = "100.000000"
-HSM_BZL_COLOR_VALUE = "94.000000"
-BackgroundVertImage = "../../../../../Graphics/lfan/CRT-Naomi-V-lfan.png"

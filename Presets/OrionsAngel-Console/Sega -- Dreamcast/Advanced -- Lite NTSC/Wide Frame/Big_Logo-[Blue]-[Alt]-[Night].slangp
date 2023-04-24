@@ -1,9 +1,0 @@
-#reference "../../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV-MINI-NTSC.slangp"
-#reference "../../../../../Params/OrionsAngel/Wide Frame.params"
-#reference "../../../../../Params/OrionsAngel/Night.params"
-
-HSM_BZL_COLOR_HUE = "208.000000"
-HSM_BZL_COLOR_SATURATION = "100.000000"
-HSM_BZL_COLOR_VALUE = "82.000000"
-HSM_BG_FOLLOW_MODE = "1.000000"
-BackgroundImage = "../../../../../Graphics/OrionsAngel/Consoles/Dreamcastblulogo.png"

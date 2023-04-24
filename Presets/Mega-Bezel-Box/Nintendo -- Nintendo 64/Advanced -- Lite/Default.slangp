@@ -1,7 +1,0 @@
-#reference "../../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV-MINI.slangp"
-HSM_SCREEN_POSITION_X = "-64.000000"
-HSM_CROP_PERCENT_ZOOM = "2.500000"
-HSM_CROP_PERCENT_TOP = "1.000000"
-HSM_CROP_PERCENT_BOTTOM = "1.000000"
-HSM_BZL_COLOR_VALUE = "4.000000"
-BackgroundImage = "../../../../Graphics/Mega-Bezel-Box/Background/N64.png"
