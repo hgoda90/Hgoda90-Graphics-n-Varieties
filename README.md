@@ -24,19 +24,19 @@ To use the Varieties the following are required
 All files need to be placed inside the Mega_Bezel_Packs folder inside retroarch/shaders, except for Mega Bezel. Place Mega Bezel inside retroarch/shader/shader_slang/. If you download the zip file extract the folder to Mega_Bezel_Packs and remove -master from folder name.
 
 OrionsAngel Candy Cab Overlay images have to be placed inside 
-"Mega_Bezel_Packs\Hgoda90-Graphic-Varieties\OrionsAngel-Candy-Cab\res\images"
+"Mega_Bezel_Packs\Hgoda90-Graphic-Varieties\OrionsAngel -- Candy Cab\res\images"
 
 OrionsAngel Console Overlay images have to be placed inside 
-"Mega_Bezel_Packs\Hgoda90-Graphic-Varieties\OrionsAngel-Console\res\images"  
+"Mega_Bezel_Packs\Hgoda90-Graphic-Varieties\OrionsAngel -- Consoles\res\images"  
 
 OrionsAngel Game Themed Bezels images have to be placed inside 
-"Mega_Bezel_Packs\Hgoda90-Graphic-Varieties\OrionsAngel-Game-Themed-Bezels\res\images"
+"Mega_Bezel_Packs\Hgoda90-Graphic-Varieties\OrionsAngel -- Game Themed Bezels\res\images"
 
 OrionsAngel NES Themed Bezels image have to be placed inside
-"Mega_Bezel_Packs\Hgoda90-Graphic-Varieties\OrionsAngel-NES-Themed-BoxArt\res\images"
+"Mega_Bezel_Packs\Hgoda90-Graphic-Varieties\OrionsAngel -- NES Themed BoxArt\res\images"
 
 OrionsAngel Realistic Arcade Overlay images have to be placed inside 
-"Mega_Bezel_Packs\Hgoda90-Graphic-Varieties\OrionsAngel-Realistic-Arcade-Bezels\res\images"  
+"Mega_Bezel_Packs\Hgoda90-Graphic-Varieties\OrionsAngel -- My Realistic Arcade\res\images"  
 
 ## Download
 To download the files just clone the files with ```git clone https://github.com/hgoda90/Hgoda90-Graphic-Varieties.git``` or they can be downloaded as zip.
