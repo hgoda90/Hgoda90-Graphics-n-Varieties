@@ -1,6 +1,8 @@
 #reference "../../../../CyberLab/MBZ__3__Standard_Full_Reflections/4K_Optimized_Presets/CyberLab__Ultimate_Virtual_Slot_Mask_CRT-1P2RTA__ADV.slangp"
 #reference "../../../../Duimon-Mega-Bezel/Params/Standard/Fairchild_Channel_F/ChannelF-[STD]-[Guest]-[Bezel].params"
 
+HSM_INT_SCALE_MAX_HEIGHT = "98.000000"
+
 HSM_BZL_COLOR_HUE = "22.000000"
 HSM_BZL_COLOR_SATURATION = "75.000000"
 HSM_BZL_COLOR_VALUE = "28.200000"

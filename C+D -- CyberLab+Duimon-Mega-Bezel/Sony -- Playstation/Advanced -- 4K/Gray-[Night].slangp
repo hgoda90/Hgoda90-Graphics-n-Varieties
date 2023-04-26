@@ -1,5 +1,7 @@
 #reference "../../../../CyberLab/MBZ__1__Advance_Full_Reflections/4K_Optimized_Presets/CyberLab__Ultimate_Virtual_Slot_Mask_CRT-1P2RTA__ADV.slangp"
 #reference "../../../../Duimon-Mega-Bezel/Params/Advanced/SONY_Playstation/Playstation-[ADV]-[Guest]-[Bezel]-[Night].params"
 
+HSM_INT_SCALE_MAX_HEIGHT = "98.000000"
+
 HSM_BZL_COLOR_VALUE = "69.000000"
 HSM_DECAL_BRIGHTNESS = "13.000000"

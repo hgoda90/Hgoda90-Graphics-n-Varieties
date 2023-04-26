@@ -1,2 +1,4 @@
 #reference "../../../../CyberLab/MBZ__1__Advance_Full_Reflections/1080p_Optimized_Presets/CyberLab__Ultimate_Virtual_Slot_Mask_CRT-1P2RTA__ADV.slangp"
 #reference "../../../../Duimon-Mega-Bezel/Params/Advanced/Mattel_Intellivision/Intellivision-[ADV]-[Guest]-[Bezel]-[Night].params"
+
+HSM_INT_SCALE_MAX_HEIGHT = "98.000000"

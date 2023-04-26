@@ -1,6 +1,8 @@
 #reference "../../../../CyberLab/MBZ__1__Advance_Full_Reflections/1080p_Optimized_Presets/CyberLab__Ultimate_Virtual_Slot_Mask_CRT-1P2RTA__ADV.slangp"
 #reference "../../../../Duimon-Mega-Bezel/Params/Advanced/SEGA_CD/SEGACD_Alt-[ADV]-[Guest]-[Bezel].params"
 
+HSM_INT_SCALE_MAX_HEIGHT = "98.000000"
+
 HSM_BZL_COLOR_HUE = "0.000000"
 HSM_BZL_COLOR_SATURATION = "0.000000"
 HSM_BZL_COLOR_VALUE = "12.600000"
