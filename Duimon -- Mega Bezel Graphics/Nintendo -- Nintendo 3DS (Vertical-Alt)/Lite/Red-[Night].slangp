@@ -1,4 +1,4 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Nintendo_3DS/3DS_Vertical_Alt-[STD]-[Guest-Mini]-[Night].slangp"
+#reference "../../../../Duimon-Mega-Bezel/Presets/Lite/Nintendo_3DS/3DS_Vertical_Alt-[STD]-[Guest-Mini]-[Night].slangp"
 HSM_BZL_COLOR_HUE = "4.000000"
 HSM_BZL_COLOR_SATURATION = "77.000000"
 HSM_BZL_COLOR_VALUE = "22.000000"

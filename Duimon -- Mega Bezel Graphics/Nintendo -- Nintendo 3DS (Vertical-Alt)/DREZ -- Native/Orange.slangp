@@ -1,4 +1,4 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Nintendo_3DS_DREZ/3DS_Vertical_Alt-[DREZ]-[Native]-[STD]-[Guest].slangp"
+#reference "../../../../Duimon-Mega-Bezel/Presets/Standard/Nintendo_3DS_DREZ/3DS_Vertical_Alt-[DREZ]-[Native]-[STD]-[Guest].slangp"
 
 HSM_BZL_COLOR_HUE = "38.000000"
 HSM_BZL_COLOR_SATURATION = "100.000000"
