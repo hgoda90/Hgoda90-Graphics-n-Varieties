@@ -1,6 +1,6 @@
 #reference "../res/params/mbz.params"
 #reference "../res/params/4x3.params"
-#reference "../../../../Params/Console-Arcade/Night.params"
+#reference "../res/params/Night.params"
 
 HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
 HSM_BZL_COLOR_HUE = "214.000000"

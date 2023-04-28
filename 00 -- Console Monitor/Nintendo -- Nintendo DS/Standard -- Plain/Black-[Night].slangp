@@ -1,9 +1,0 @@
-#reference "../res/params/mbz.params"
-#reference "../res/params/Handheld -- DS.params"
-#reference "../res/params/Night.params"
-
-HSM_BZL_COLOR_VALUE = "6.000000"
-HSM_DEVICE_SATURATION = "0.000000"
-HSM_DEVICE_BRIGHTNESS = "6.000000"
-HSM_DEVICE_GAMMA = "0.650000"
-DecalImage = "../res/images/Decals/NDS_Alt.png"
