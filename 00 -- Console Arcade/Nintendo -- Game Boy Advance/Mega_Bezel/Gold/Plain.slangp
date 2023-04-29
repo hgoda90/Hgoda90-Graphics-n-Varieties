@@ -1,4 +1,4 @@
-#reference "../../../res/params/mbz.params"
+#reference "../../../res/params/mbz-alt.params"
 #reference "../../../res/params/plain/GBA.params"
 
 HSM_BZL_COLOR_HUE = "39.000000"

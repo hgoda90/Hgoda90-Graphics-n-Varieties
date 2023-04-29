@@ -1,4 +1,4 @@
-#reference "../../../res/params/mbz.params"
+#reference "../../../res/params/mbz-alt.params"
 #reference "../../../res/params/candy/GBA.params"
 
 HSM_DEVICE_HUE = "350.000000"

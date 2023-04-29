@@ -1,0 +1,12 @@
+#reference "../../../res/params/megatron.params"
+#reference "../../../res/params/plain/GBA -- Megatron.params"
+
+HSM_BZL_COLOR_HUE = "42.000000"
+HSM_BZL_COLOR_SATURATION = "100.000000"
+HSM_BZL_COLOR_VALUE = "100.000000"
+HSM_REFLECT_GLOBAL_AMOUNT = "130.000000"
+HSM_DEVICE_HUE = "350.000000"
+HSM_DEVICE_SATURATION = "100.000000"
+HSM_DEVICE_BRIGHTNESS = "100.000000"
+HSM_DEVICE_GAMMA = "0.450000"
+IntroImage = "../../../res/images/Intro/GBA_4.png"

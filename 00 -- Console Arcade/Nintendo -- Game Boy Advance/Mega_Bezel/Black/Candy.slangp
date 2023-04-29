@@ -1,4 +1,4 @@
-#reference "../../../res/params/mbz.params"
+#reference "../../../res/params/mbz-alt.params"
 #reference "../../../res/params/candy/GBA.params"
 
 "196.000000"HSM_REFLECT_GLOBAL_AMOUNT = "41.000000"
