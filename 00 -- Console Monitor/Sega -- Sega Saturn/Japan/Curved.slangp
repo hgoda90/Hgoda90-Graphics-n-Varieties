@@ -1,0 +1,12 @@
+#reference "../../res/params/mbz.params"
+#reference "../../res/params/4x3 -- Curved.params"
+
+HSM_DEVICE_HUE = "98.000000"
+HSM_DEVICE_SATURATION = "1.000000"
+HSM_DEVICE_BRIGHTNESS = "89.000000"
+HSM_DEVICE_GAMMA = "0.450000"
+HSM_DEVICELED_HUE = "282.000000"
+HSM_DEVICELED_SATURATION = "61.000000"
+HSM_DEVICELED_BRIGHTNESS = "76.000000"
+HSM_DEVICELED_GAMMA = "0.450000"
+DecalImage = "../../res/images/Decals/SATJP.png"
