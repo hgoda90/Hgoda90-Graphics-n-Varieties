@@ -1,6 +1,9 @@
 #reference "../../res/params/mbz.params"
 #reference "../../res/params/4x3 -- Curved.params"
 
+HSM_BZL_COLOR_HUE = "240.000000"
+HSM_BZL_COLOR_SATURATION = "1.000000"
+HSM_BZL_COLOR_VALUE = "93.000000"
 HSM_DEVICE_HUE = "188.000000"
 HSM_DEVICE_SATURATION = "1.000000"
 HSM_DEVICE_BRIGHTNESS = "93.000000"
