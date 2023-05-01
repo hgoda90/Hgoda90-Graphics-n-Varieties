@@ -1,5 +1,5 @@
-# Mega Bezel Graphics Varieties
-These are essentialy varieties of Mega Bezel Graphics. The Duimon Graphics varieties are based on console variations that were released publicly. Soqueroeu TV Backgrounds are simply just cropped to make the images more useable on smaller screens. There will be different Graphics in the future but the previous two are the ones currently available.
+# Mega Bezel Graphics + Varieties
+These are essentialy varieties of Mega Bezel Graphics and custom graphics for Mega Bezel. The Duimon Graphics varieties are based on console variations that were released publicly. Soqueroeu TV Backgrounds are simply just cropped to make the images more useable on smaller screens. There will be different Graphics in the future but the previous two are the ones currently available.
 
 To use the Varieties the following are required
 
@@ -22,6 +22,9 @@ To use the Varieties the following are required
 **Soqueroeu Mega Bezel TV Backgrounds**: https://github.com/soqueroeu/Soqueroeu-TV-Backgrounds
 
 All files need to be placed inside the Mega_Bezel_Packs folder inside retroarch/shaders, except for Mega Bezel. Place Mega Bezel inside retroarch/shader/shader_slang/. If you download the zip file extract the folder to Mega_Bezel_Packs and remove -master from folder name.
+
+lfan System Overlays images have to be placed inside 
+"Mega_Bezel_Packs\Hgoda90-Graphic-Varieties\lfan -- System Overlays\res\images"
 
 OrionsAngel Candy Cab Overlay images have to be placed inside 
 "Mega_Bezel_Packs\Hgoda90-Graphic-Varieties\OrionsAngel -- Candy Cab\res\images"
