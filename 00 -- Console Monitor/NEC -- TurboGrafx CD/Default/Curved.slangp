@@ -1,5 +1,6 @@
 #reference "../../res/params/mbz.params"
-#reference "../../res/params/4x3 -- Curved.params"
+#reference "../../res/params/4x3.params"
+#reference "../../res/params/Curved.params"
 
 HSM_BZL_COLOR_HUE = "220.000000"
 HSM_BZL_COLOR_SATURATION = "5.000000"
