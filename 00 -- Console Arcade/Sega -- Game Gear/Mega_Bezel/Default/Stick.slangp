@@ -1,6 +1,9 @@
 #reference "../../../res/params/mbz.params"
 #reference "../../../res/params/stick/GG.params"
 
+HSM_BZL_COLOR_HUE = "225.000000"
+HSM_BZL_COLOR_SATURATION = "6.000000"
+HSM_BZL_COLOR_VALUE = "25.000000"
 HSM_BG_HUE = "173.000000"
 HSM_BG_SATURATION = "6.000000"
 HSM_BG_BRIGHTNESS = "25.000000"

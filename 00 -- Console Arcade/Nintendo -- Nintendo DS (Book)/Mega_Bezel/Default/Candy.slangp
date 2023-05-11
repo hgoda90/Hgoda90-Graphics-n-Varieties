@@ -1,5 +1,5 @@
 #reference "../../../res/params/mbz.params"
-#reference "../../../res/params/candy/DS Vertical.params"
+#reference "../../../res/params/candy/DS_V.params"
 #reference "../../../res/params/candy/DS_B.params"
 
 HSM_DEVICE_HUE = "150.000000"

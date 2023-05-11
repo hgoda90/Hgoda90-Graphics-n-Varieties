@@ -1,5 +1,5 @@
 #reference "../../../res/params/mbz.params"
-#reference "../../../res/params/stripe/DS Vertical.params"
+#reference "../../../res/params/stripe/DS_V.params"
 #reference "../../../res/params/stripe/DS_B.params"
 
 HSM_BZL_COLOR_HUE = "0.000000"

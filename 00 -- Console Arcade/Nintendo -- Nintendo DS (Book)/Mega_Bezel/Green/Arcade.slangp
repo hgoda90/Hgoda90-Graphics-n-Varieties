@@ -1,5 +1,5 @@
 #reference "../../../res/params/mbz.params"
-#reference "../../../res/params/arcade/DS Vertical.params"
+#reference "../../../res/params/arcade/DS_V.params"
 #reference "../../../res/params/arcade/DS_B.params"
 
 HSM_BZL_COLOR_HUE = "120.000000"
