@@ -1,0 +1,13 @@
+#reference "../../../res/params/mbz.params"
+#reference "../../../res/params/candy/DS.params"
+#reference "../../../res/params/Night.params"
+
+HSM_DEVICE_HUE = "68.000000"
+HSM_DEVICE_SATURATION = "100.000000"
+HSM_DEVICE_BRIGHTNESS = "35.000000"
+HSM_DEVICE_GAMMA = "0.450000"
+HSM_DEVICELED_SATURATION = "0.000000"
+HSM_DEVICELED_BRIGHTNESS = "100.000000"
+HSM_DEVICELED_GAMMA = "0.450000"
+IntroImage = "../../../res/images/global/intro/NDS.png"
+DecalImage = "../../../res/images/global/decals/NDS_Alt.png"

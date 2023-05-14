@@ -1,6 +1,6 @@
 #reference "../../../res/params/mbz.params"
-#reference "../../../res/params/stripe/DS_V.params"
-#reference "../../../res/params/stripe/DS_B.params"
+#reference "../../../res/params/stripe/DS.params"
+#reference "../../../res/params/stripe/DS_BK.params"
 
 HSM_BZL_COLOR_HUE = "0.000000"
 HSM_BZL_COLOR_SATURATION = "58.000000"

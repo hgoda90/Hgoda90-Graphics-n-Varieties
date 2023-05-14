@@ -1,6 +1,6 @@
 #reference "../../../res/params/mbz.params"
-#reference "../../../res/params/candy/DS_V.params"
-#reference "../../../res/params/candy/DS_B.params"
+#reference "../../../res/params/candy/DS.params"
+#reference "../../../res/params/candy/DS_BK.params"
 
 HSM_DEVICE_HUE = "308.000000"
 HSM_DEVICE_SATURATION = "58.000000"

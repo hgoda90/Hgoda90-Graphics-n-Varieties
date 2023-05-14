@@ -1,6 +1,6 @@
 #reference "../../../res/params/mbz.params"
-#reference "../../../res/params/stick/DS_V.params"
-#reference "../../../res/params/stick/DS_B.params"
+#reference "../../../res/params/stick/DS.params"
+#reference "../../../res/params/stick/DS_BK.params"
 
 HSM_BZL_COLOR_VALUE = "6.000000"
 HSM_BG_SATURATION = "0.000000"
