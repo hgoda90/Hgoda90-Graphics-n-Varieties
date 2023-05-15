@@ -1,5 +1,5 @@
 #reference "../res/params/mbz.params"
-#reference "../../../../Params/Mega-Bezel-Box/Night.params"
+#reference "../res/params/Night.params"
 
 HSM_SCREEN_POSITION_X = "82.000000"
 HSM_SCREEN_POSITION_Y = "10.000000"

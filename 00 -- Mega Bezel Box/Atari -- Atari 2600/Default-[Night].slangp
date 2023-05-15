@@ -1,5 +1,5 @@
 #reference "../res/params/mbz.params"
-#reference "../../../../Params/Mega-Bezel-Box/Night.params"
+#reference "../res/params/Night.params"
 
 HSM_USE_IMAGE_FOR_PLACEMENT = "1.000000"
 HSM_NON_INTEGER_SCALE_OFFSET = "76.000000"

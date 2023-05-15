@@ -1,5 +1,5 @@
 #reference "../res/params/mbz.params"
-#reference "../../../../Params/Mega-Bezel-Box/Night.params"
+#reference "../res/params/Night.params"
 
 HSM_NON_INTEGER_SCALE = "67.170000"
 HSM_SCREEN_POSITION_Y = "80.000000"
