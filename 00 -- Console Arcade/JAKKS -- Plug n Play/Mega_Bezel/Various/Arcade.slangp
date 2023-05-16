@@ -1,0 +1,6 @@
+#reference "../../../res/params/mbz.params"
+#reference "../../../res/params/arcade/4x3.params"
+#reference "../../../res/params/arcade/jakks/$GAME$.params"
+
+IntroImage = "../../../res/images/global/intro/jakks/$GAME$.png"
+DecalImage = "../../../res/images/global/decals/JAKK_Alt.png"

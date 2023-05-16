@@ -1,0 +1,6 @@
+#reference "../../../res/params/megatron.params"
+#reference "../../../res/params/stripel/4x3 -- Megatron.params"
+#reference "../../../res/params/stripel/jakks/$GAME$.params"
+
+IntroImage = "../../../res/images/global/intro/jakks/$GAME$.png"
+DecalImage = "../../../res/images/global/decals/JAKK_Alt.png"

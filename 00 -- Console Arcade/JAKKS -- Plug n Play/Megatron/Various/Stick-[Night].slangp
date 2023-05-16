@@ -1,0 +1,8 @@
+#reference "../../../res/params/megatron.params"
+#reference "../../../res/params/stick/4x3 -- Megatron.params"
+#reference "../../../res/params/stick/jakks/$GAME$.params"
+#reference "../../../res/params/Night-Alt.params"
+
+IntroImage = "../../../res/images/global/intro/jakks/$GAME$.png"
+DecalImage = "../../../res/images/global/decals/JAKK_Alt.png"
+CabinetGlassImage = "../../../res/images/stick/stripes/jakks/$GAME$.png"

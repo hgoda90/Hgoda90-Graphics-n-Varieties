@@ -1,0 +1,7 @@
+#reference "../../../res/params/mbz.params"
+#reference "../../../res/params/square/4x3.params"
+#reference "../../../res/params/square/jakks/$GAME$.params"
+#reference "../../../res/params/Night-Alt.params"
+
+IntroImage = "../../../res/images/global/intro/jakks/$GAME$.png"
+DecalImage = "../../../res/images/global/decals/JAKK_Alt.png"

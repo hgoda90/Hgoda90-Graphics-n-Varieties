@@ -1,0 +1,7 @@
+#reference "../../../res/params/megatron.params"
+#reference "../../../res/params/arcade/4x3 -- Megatron.params"
+#reference "../../../res/params/arcade/jakks/$GAME$.params"
+#reference "../../../res/params/Night.params"
+
+IntroImage = "../../../res/images/global/intro/jakks/$GAME$.png"
+DecalImage = "../../../res/images/global/decals/JAKK_Alt.png"

@@ -1,0 +1,6 @@
+#reference "../../../res/params/cyber.params"
+#reference "../../../res/params/plain/4x3 -- CyberLab.params"
+#reference "../../../res/params/plain/jakks/$GAME$.params"
+
+IntroImage = "../../../res/images/global/intro/jakks/$GAME$.png"
+DecalImage = "../../../res/images/global/decals/JAKK_Alt.png"
