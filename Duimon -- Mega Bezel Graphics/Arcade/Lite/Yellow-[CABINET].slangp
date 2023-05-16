@@ -1,4 +1,4 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Arcade/Arcade-[STD]-[Guest-Mini][CABINET].slangp"
+#reference "../../../../Duimon-Mega-Bezel/Presets/Lite/Arcade/Arcade-[STD]-[Guest-Mini][CABINET].slangp"
 HSM_BZL_COLOR_HUE = "60.000000"
 HSM_BZL_COLOR_VALUE = "10.800000"
 HSM_BG_HUE = "60.000000"
