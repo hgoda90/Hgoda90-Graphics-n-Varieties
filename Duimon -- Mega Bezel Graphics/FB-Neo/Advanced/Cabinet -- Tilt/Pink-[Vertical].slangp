@@ -1,4 +1,6 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/FB-Neo/FB-Neo-[ADV]-[Guest][CABINET]-[Vertical].slangp"
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/FB-Neo/FB-Neo-[ADV]-[Guest][CABINET].slangp"
+HSM_ROTATE_CORE_IMAGE = "1.000000"
+HSM_ASPECT_RATIO_ORIENTATION = "2.000000"
 HSM_BZL_COLOR_HUE = "325.000000"
 HSM_BG_COLORIZE_ON = "1.000000"
 HSM_BG_HUE = "344.000000"

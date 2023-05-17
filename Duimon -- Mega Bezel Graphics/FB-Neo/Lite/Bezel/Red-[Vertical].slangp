@@ -1,4 +1,6 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/FB-Neo/FB-Neo-[STD]-[Guest-Mini]-[Vertical].slangp"
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/FB-Neo/FB-Neo-[STD]-[Guest-Mini].slangp"
+HSM_ROTATE_CORE_IMAGE = "1.000000"
+HSM_ASPECT_RATIO_ORIENTATION = "2.000000"
 HSM_BZL_COLOR_HUE = "0.000000"
 HSM_BG_COLORIZE_ON = "1.000000"
 HSM_BG_HUE = "0.000000"
