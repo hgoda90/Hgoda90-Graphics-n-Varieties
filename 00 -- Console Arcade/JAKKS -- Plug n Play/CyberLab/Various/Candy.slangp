@@ -3,4 +3,3 @@
 #reference "../../../res/params/candy/jakks/$GAME$.params"
 
 IntroImage = "../../../res/images/global/intro/jakks/$GAME$.png"
-DecalImage = "../../../res/images/global/decals/JAKK_Alt.png"
