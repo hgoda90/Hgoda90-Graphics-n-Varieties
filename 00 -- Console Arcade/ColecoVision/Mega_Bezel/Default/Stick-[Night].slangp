@@ -2,10 +2,6 @@
 #reference "../../../res/params/stick/4x3.params"
 #reference "../../../res/params/Night-Alt.params"
 
-HSM_BG_HUE = "278.000000"
-HSM_BG_SATURATION = "10.000000"
-HSM_BG_BRIGHTNESS = "8.000000"
-HSM_BG_GAMMA = "0.450000"
 HSM_LED_HUE = "316.000000"
 HSM_LED_SATURATION = "97.000000"
 HSM_LED_BRIGHTNESS = "101.000000"
@@ -15,5 +11,6 @@ HSM_DEVICELED_SATURATION = "97.000000"
 HSM_DEVICELED_BRIGHTNESS = "101.000000"
 HSM_DEVICELED_GAMMA = "0.450000"
 IntroImage = "../../../res/images/global/intro/CV.png"
+BackgroundImage = "../../../res/images/stick/bgs/CV.png"
 DecalImage = "../../../res/images/global/decals/CV.png"
-CabinetGlassImage = "../../../res/images/stick/stripes/CV.png"
+

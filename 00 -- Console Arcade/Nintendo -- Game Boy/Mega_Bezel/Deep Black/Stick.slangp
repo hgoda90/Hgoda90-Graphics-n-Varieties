@@ -2,9 +2,6 @@
 #reference "../../../res/params/stick/GB.params"
 
 HSM_BZL_COLOR_VALUE = "6.000000"
-HSM_BG_SATURATION = "0.000000"
-HSM_BG_BRIGHTNESS = "6.000000"
-HSM_BG_GAMMA = "0.450000"
 HSM_LED_HUE = "108.000000"
 HSM_LED_SATURATION = "2.000000"
 HSM_LED_BRIGHTNESS = "44.000000"
@@ -18,4 +15,5 @@ HSM_DECAL_SATURATION = "100.000000"
 HSM_DECAL_BRIGHTNESS = "65.000000"
 HSM_DECAL_GAMMA = "0.450000"
 IntroImage = "../../../res/images/global/intro/GB_2.png"
-CabinetGlassImage = "../../../res/images/stick/stripes/GB_1.png"
+BackgroundImage = "../../../res/images/stick/bgs/GB_2.png"
+

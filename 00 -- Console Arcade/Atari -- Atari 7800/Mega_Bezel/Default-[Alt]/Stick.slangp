@@ -1,14 +1,11 @@
 #reference "../../../res/params/mbz.params"
 #reference "../../../res/params/stick/4x3.params"
 
-HSM_BG_HUE = "228.000000"
-HSM_BG_SATURATION = "2.000000"
-HSM_BG_BRIGHTNESS = "58.000000"
-HSM_BG_GAMMA = "0.450000"
 HSM_LED_GAMMA = "0.800000"
 HSM_DEVICELED_GAMMA = "0.800000"
 IntroImage = "../../../res/images/global/intro/A78_1.png"
+BackgroundImage = "../../../res/images/stick/bgs/A78_1.png"
 LEDImage = "../../../res/images/stick/ball_alt.png"
 DeviceLEDImage = "../../../res/images/stick/ball_alt.png"
 DecalImage = "../../../res/images/global/decals/A78_Alt.png"
-CabinetGlassImage = "../../../res/images/stick/stripes/A78_1.png"
+

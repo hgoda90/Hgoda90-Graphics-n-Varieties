@@ -1,16 +1,13 @@
 #reference "../../../res/params/mbz.params"
 #reference "../../../res/params/stick/4x3.params"
 
-HSM_BG_HUE = "248.000000"
-HSM_BG_SATURATION = "3.000000"
-HSM_BG_BRIGHTNESS = "14.000000"
-HSM_BG_GAMMA = "0.450000"
 HSM_LED_SOURCE_MATTE_TYPE = "1.000000"
 HSM_LED_GAMMA = "0.800000"
 HSM_DEVICELED_SOURCE_MATTE_TYPE = "1.000000"
 HSM_DEVICELED_GAMMA = "0.800000"
 IntroImage = "../../../res/images/global/intro/A26.png"
+BackgroundImage = "../../../res/images/stick/bgs/A26.png"
 LEDImage = "../../../res/images/stick/ball_alt.png"
 DeviceLEDImage = "../../../res/images/stick/ball_alt.png"
 DecalImage = "../../../res/images/global/decals/A26_Alt.png"
-CabinetGlassImage = "../../../res/images/stick/stripes/A26.png"
+

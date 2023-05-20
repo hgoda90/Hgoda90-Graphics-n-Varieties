@@ -1,10 +1,6 @@
 #reference "../../../res/params/mbz.params"
 #reference "../../../res/params/stick/4x3.params"
 
-HSM_BG_HUE = "228.000000"
-HSM_BG_SATURATION = "2.000000"
-HSM_BG_BRIGHTNESS = "58.000000"
-HSM_BG_GAMMA = "0.450000"
 HSM_LED_HUE = "156.000000"
 HSM_LED_SATURATION = "99.000000"
 HSM_LED_BRIGHTNESS = "74.000000"
@@ -15,5 +11,6 @@ HSM_DEVICELED_BRIGHTNESS = "74.000000"
 HSM_DEVICELED_GAMMA = "0.450000"
 HSM_DECAL_SOURCE_MATTE_TYPE = "1.000000"
 IntroImage = "../../../res/images/global/intro/A52_1.png"
+BackgroundImage = "../../../res/images/stick/bgs/A52_1.png"
 DecalImage = "../../../res/images/global/decals/A52_Alt.png"
-CabinetGlassImage = "../../../res/images/stick/stripes/A52_1.png"
+

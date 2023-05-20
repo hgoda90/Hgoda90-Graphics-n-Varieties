@@ -1,10 +1,6 @@
 #reference "../../../res/params/mbz.params"
 #reference "../../../res/params/stick/4x3.params"
 
-HSM_BG_HUE = "358.000000"
-HSM_BG_SATURATION = "3.000000"
-HSM_BG_BRIGHTNESS = "88.000000"
-HSM_BG_GAMMA = "0.450000"
 HSM_LED_HUE = "344.000000"
 HSM_LED_SATURATION = "36.000000"
 HSM_LED_BRIGHTNESS = "85.000000"
@@ -14,5 +10,6 @@ HSM_DEVICELED_SATURATION = "36.000000"
 HSM_DEVICELED_BRIGHTNESS = "85.000000"
 HSM_DEVICELED_GAMMA = "0.450000"
 IntroImage = "../../../res/images/global/intro/FC.png"
+BackgroundImage = "../../../res/images/stick/bgs/FC.png"
 DecalImage = "../../../res/images/global/decals/FC.png"
-CabinetGlassImage = "../../../res/images/stick/stripes/FC.png"
+
