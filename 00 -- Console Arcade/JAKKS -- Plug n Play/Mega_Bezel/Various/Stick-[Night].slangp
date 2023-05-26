@@ -3,5 +3,5 @@
 #reference "../../../res/params/stick/jakks/$GAME$.params"
 #reference "../../../res/params/Night-Alt.params"
 
+BackgroundImage = "../../../res/images/stick/bgs/jakks/$GAME$.png"
 IntroImage = "../../../res/images/global/intro/jakks/$GAME$.png"
-CabinetGlassImage = "../../../res/images/stick/stripes/jakks/$GAME$.png"

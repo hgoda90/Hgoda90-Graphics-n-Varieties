@@ -2,4 +2,5 @@
 #reference "../../../res/params/stripe/4x3 -- CyberLab.params"
 #reference "../../../res/params/stripe/jakks/$GAME$.params"
 
+HSM_SCREEN_POSITION_Y = "0.000000"
 IntroImage = "../../../res/images/global/intro/jakks/$GAME$.png"

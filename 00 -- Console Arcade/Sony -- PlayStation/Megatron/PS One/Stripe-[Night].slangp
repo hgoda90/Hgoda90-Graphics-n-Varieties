@@ -2,7 +2,6 @@
 #reference "../../../res/params/stripe/4x3 -- Megatron.params"
 #reference "../../../res/params/Night-Alt.params"
 
-HSM_INT_SCALE_MODE = "0.000000"
 HSM_BZL_COLOR_HUE = "222.000000"
 HSM_BZL_COLOR_SATURATION = "10.000000"
 HSM_BZL_COLOR_VALUE = "93.000000"

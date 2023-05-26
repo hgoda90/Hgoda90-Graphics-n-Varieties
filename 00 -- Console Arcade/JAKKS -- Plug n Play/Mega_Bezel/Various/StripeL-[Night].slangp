@@ -3,4 +3,5 @@
 #reference "../../../res/params/stripel/jakks/$GAME$.params"
 #reference "../../../res/params/Night-Alt.params"
 
+HSM_REFLECT_GLOBAL_AMOUNT = "40.000000"
 IntroImage = "../../../res/images/global/intro/jakks/$GAME$.png"
