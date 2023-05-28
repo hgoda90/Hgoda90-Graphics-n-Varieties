@@ -1,6 +1,0 @@
-#reference "../../../res/params/megatron.params"
-#reference "../../../res/params/candy/4x3 -- Megatron.params"
-#reference "../../../res/params/candy/jakks/$GAME$.params"
-
-HSM_SCREEN_POSITION_Y = "-18.000000"
-IntroImage = "../../../res/images/global/intro/jakks/$GAME$.png"

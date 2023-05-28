@@ -1,0 +1,13 @@
+#reference "../../res/params/megalab.params"
+#reference "../../res/params/megalab/4x3.params"
+
+HSM_BZL_COLOR_VALUE = "15.000000"
+HSM_BG_SATURATION = "0.000000"
+HSM_BG_BRIGHTNESS = "15.000000"
+HSM_BG_GAMMA = "0.450000"
+HSM_DEVICELED_SATURATION = "0.000000"
+HSM_DEVICELED_BRIGHTNESS = "15.000000"
+HSM_DEVICELED_GAMMA = "0.450000"
+IntroImage = "../../res/images/global/intro/GC_1.png"
+DecalImage = "../../res/images/global/decals/GC.png"
+CabinetGlassImage = "../../res/images/megalab/stripes/GC.png"

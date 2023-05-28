@@ -1,8 +1,0 @@
-#reference "../../../res/params/megatron.params"
-#reference "../../../res/params/face/4x3 -- Megatron.params"
-#reference "../../../res/params/face/jakks/$GAME$.params"
-#reference "../../../res/params/Night.params"
-
-HSM_SCREEN_POSITION_Y = "0.000000"
-HSM_REFLECT_GLOBAL_AMOUNT = "40.000000"
-IntroImage = "../../../res/images/global/intro/jakks/$GAME$.png"
