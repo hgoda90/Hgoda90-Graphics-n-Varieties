@@ -1,6 +1,6 @@
-#reference "../../../res/params/mbz.params"
-#reference "../../../res/params/stick/GB.params"
-#reference "../../../res/params/Night-Alt.params"
+#reference "../../../res/params/mbz/presets.params"
+#reference "../../../res/params/mbz/stick/GB.params"
+#reference "../../../res/params/night_002.params"
 
 HSM_BZL_COLOR_HUE = "328.000000"
 HSM_BZL_COLOR_SATURATION = "100.000000"
@@ -18,5 +18,5 @@ HSM_DECAL_SATURATION = "100.000000"
 HSM_DECAL_BRIGHTNESS = "53.000000"
 HSM_DECAL_GAMMA = "0.450000"
 IntroImage = "../../../res/images/global/intro/GB_4.png"
-BackgroundImage = "../../../res/images/stick/bgs/GB_4.png"
+BackgroundImage = "../../../res/images/mbz/stick/bgs/GB_4.png"
 

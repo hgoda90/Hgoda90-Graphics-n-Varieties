@@ -1,6 +1,6 @@
-#reference "../../../res/params/mbz-alt.params"
-#reference "../../../res/params/stripel/GBA.params"
-#reference "../../../res/params/Night-Alt.params"
+#reference "../../../res/params/mbz/presets-alt.params"
+#reference "../../../res/params/mbz/stripel/GBA.params"
+#reference "../../../res/params/night_002.params"
 
 HSM_BZL_COLOR_HUE = "250.000000"
 HSM_BZL_COLOR_SATURATION = "43.000000"

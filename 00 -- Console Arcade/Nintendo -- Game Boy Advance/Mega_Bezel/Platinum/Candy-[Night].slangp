@@ -1,6 +1,6 @@
-#reference "../../../res/params/mbz-alt.params"
-#reference "../../../res/params/candy/GBA.params"
-#reference "../../../res/params/Night.params"
+#reference "../../../res/params/mbz/presets-alt.params"
+#reference "../../../res/params/mbz/candy/GBA.params"
+#reference "../../../res/params/night_001.params"
 
 "196.000000""196.000000""196.000000"HSM_DEVICE_HUE = "212.000000"
 HSM_DEVICE_SATURATION = "3.000000"

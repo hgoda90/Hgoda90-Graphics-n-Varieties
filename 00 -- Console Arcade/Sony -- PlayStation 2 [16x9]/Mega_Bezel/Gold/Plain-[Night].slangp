@@ -1,6 +1,6 @@
-#reference "../../../res/params/mbz.params"
-#reference "../../../res/params/plain/16x9.params"
-#reference "../../../res/params/Night.params"
+#reference "../../../res/params/mbz/presets.params"
+#reference "../../../res/params/mbz/plain/16x9.params"
+#reference "../../../res/params/night_001.params"
 
 HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
 HSM_BZL_COLOR_HUE = "40.000000"

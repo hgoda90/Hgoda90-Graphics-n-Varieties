@@ -1,8 +1,8 @@
-#reference "../../../res/params/mbz-alt.params"
-#reference "../../../res/params/stick/GBA.params"
+#reference "../../../res/params/mbz/presets-alt.params"
+#reference "../../../res/params/mbz/stick/GBA.params"
 
 HSM_BZL_COLOR_HUE = "42.000000"
 HSM_BZL_COLOR_SATURATION = "100.000000"
 HSM_BZL_COLOR_VALUE = "100.000000"
 IntroImage = "../../../res/images/global/intro/GBA_4.png"
-BackgroundImage = "../../../res/images/stick/bgs/GBA_4.png"
+BackgroundImage = "../../../res/images/mbz/stick/bgs/GBA_4.png"

@@ -1,5 +1,5 @@
-#reference "../../../res/params/mbz.params"
-#reference "../../../res/params/stick/DS.params"
+#reference "../../../res/params/mbz/presets.params"
+#reference "../../../res/params/mbz/stick/DS.params"
 
 HSM_BZL_COLOR_HUE = "1.000000"
 HSM_BZL_COLOR_SATURATION = "100.000000"
@@ -12,4 +12,4 @@ HSM_DEVICELED_HUE = "309.000000"
 HSM_DEVICELED_SATURATION = "100.000000"
 HSM_DEVICELED_BRIGHTNESS = "58.000000"
 HSM_DEVICELED_GAMMA = "0.450000"
-BackgroundImage = "../../../res/images/stick/bgs/NDS_5.png"
+BackgroundImage = "../../../res/images/mbz/stick/bgs/NDS_5.png"

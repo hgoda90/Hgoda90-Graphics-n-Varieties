@@ -1,6 +1,6 @@
-#reference "../../../res/params/mbz.params"
-#reference "../../../res/params/candy/4x3.params"
-#reference "../../../res/params/Night.params"
+#reference "../../../res/params/mbz/presets.params"
+#reference "../../../res/params/mbz/candy/4x3.params"
+#reference "../../../res/params/night_001.params"
 
 HSM_CROP_PERCENT_ZOOM = "2.500000"
 HSM_CROP_PERCENT_TOP = "1.000000"

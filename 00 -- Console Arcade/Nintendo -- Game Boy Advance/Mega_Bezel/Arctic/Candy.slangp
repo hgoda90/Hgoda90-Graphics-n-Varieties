@@ -1,5 +1,5 @@
-#reference "../../../res/params/mbz-alt.params"
-#reference "../../../res/params/candy/GBA.params"
+#reference "../../../res/params/mbz/presets-alt.params"
+#reference "../../../res/params/mbz/candy/GBA.params"
 
 "196.000000"HSM_REFLECT_GLOBAL_AMOUNT = "125.000000"
 HSM_DEVICE_SATURATION = "0.000000"

@@ -1,5 +1,5 @@
-#reference "../../../res/params/mbz.params"
-#reference "../../../res/params/stick/4x3.params"
+#reference "../../../res/params/mbz/presets.params"
+#reference "../../../res/params/mbz/stick/4x3.params"
 
 HSM_LED_HUE = "48.000000"
 HSM_LED_SATURATION = "2.000000"
@@ -14,6 +14,6 @@ HSM_DECAL_SCALE = "115.000000"
 HSM_DECAL_POS_X = "6.000000"
 HSM_DECAL_POS_Y = "10.000000"
 IntroImage = "../../../res/images/global/intro/PCE_1.png"
-BackgroundImage = "../../../res/images/stick/bgs/PCE_1.png"
+BackgroundImage = "../../../res/images/mbz/stick/bgs/PCE_1.png"
 DecalImage = "../../../res/images/global/decals/PCE_Alt.png"
 

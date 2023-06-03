@@ -1,7 +1,0 @@
-#reference "GG.params"
-no_scanlines = "0.000000"
-wp_saturation = "1.000000"
-pre_bb = "1.000000"
-m_glow = "0.000000"
-m_glow_high = "5.000000"
-hcrt_lcd_resolution = "0.000000"

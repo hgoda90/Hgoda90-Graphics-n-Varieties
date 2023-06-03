@@ -1,5 +1,5 @@
-#reference "../../../res/params/mbz.params"
-#reference "../../../res/params/plain/GG.params"
+#reference "../../../res/params/mbz/presets.params"
+#reference "../../../res/params/mbz/plain/GG.params"
 
 HSM_BZL_COLOR_HUE = "220.000000"
 HSM_BZL_COLOR_SATURATION = "42.000000"

@@ -1,5 +1,5 @@
-#reference "../../../res/params/mbz.params"
-#reference "../../../res/params/stripel/4x3.params"
+#reference "../../../res/params/mbz/presets.params"
+#reference "../../../res/params/mbz/stripel/4x3.params"
 
 HSM_BZL_COLOR_HUE = "5.000000"
 HSM_BZL_COLOR_SATURATION = "100.000000"

@@ -1,5 +1,5 @@
-#reference "../../../res/params/mbz.params"
-#reference "../../../res/params/face/4x3.params"
+#reference "../../../res/params/mbz/presets.params"
+#reference "../../../res/params/mbz/face/4x3.params"
 
 HSM_DEVICE_SATURATION = "0.000000"
 HSM_DEVICE_BRIGHTNESS = "10.000000"

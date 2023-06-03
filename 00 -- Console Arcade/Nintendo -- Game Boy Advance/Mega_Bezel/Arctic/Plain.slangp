@@ -1,5 +1,5 @@
-#reference "../../../res/params/mbz-alt.params"
-#reference "../../../res/params/plain/GBA.params"
+#reference "../../../res/params/mbz/presets-alt.params"
+#reference "../../../res/params/mbz/plain/GBA.params"
 
 HSM_BZL_COLOR_VALUE = "95.000000"
 HSM_REFLECT_GLOBAL_AMOUNT = "125.000000"

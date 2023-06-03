@@ -1,5 +1,5 @@
-#reference "../../../res/params/mbz.params"
-#reference "../../../res/params/square/16x9.params"
+#reference "../../../res/params/mbz/presets.params"
+#reference "../../../res/params/mbz/square/16x9.params"
 
 HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
 HSM_BZL_COLOR_HUE = "348.000000"

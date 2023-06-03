@@ -1,6 +1,6 @@
-#reference "../../../res/params/mbz.params"
-#reference "../../../res/params/square/DS.params"
-#reference "../../../res/params/square/DS_BK.params"
+#reference "../../../res/params/mbz/presets.params"
+#reference "../../../res/params/mbz/square/DS.params"
+#reference "../../../res/params/mbz/square/DS_BK.params"
 
 HSM_BZL_COLOR_HUE = "320.000000"
 HSM_BZL_COLOR_SATURATION = "100.000000"

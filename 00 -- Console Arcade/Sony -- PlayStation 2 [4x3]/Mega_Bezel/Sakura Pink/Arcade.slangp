@@ -1,5 +1,5 @@
-#reference "../../../res/params/mbz.params"
-#reference "../../../res/params/arcade/4x3.params"
+#reference "../../../res/params/mbz/presets.params"
+#reference "../../../res/params/mbz/arcade/4x3.params"
 
 HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
 HSM_BZL_COLOR_HUE = "272.000000"

@@ -1,8 +1,8 @@
-#reference "../../../res/params/mbz.params"
-#reference "../../../res/params/stick/3DS_B.params"
+#reference "../../../res/params/mbz/presets.params"
+#reference "../../../res/params/mbz/stick/3DS_B.params"
 
 HSM_BZL_NOISE = "4.000000"
 HSM_BZL_COLOR_HUE = "240.000000"
 HSM_BZL_COLOR_SATURATION = "1.000000"
 HSM_BZL_COLOR_VALUE = "96.000000"
-BackgroundImage = "../../../res/images/stick/bgs/3DS_3.png"
+BackgroundImage = "../../../res/images/mbz/stick/bgs/3DS_3.png"

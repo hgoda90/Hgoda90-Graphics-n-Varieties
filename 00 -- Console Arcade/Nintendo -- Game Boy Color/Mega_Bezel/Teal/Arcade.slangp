@@ -1,5 +1,5 @@
-#reference "../../../res/params/mbz.params"
-#reference "../../../res/params/arcade/GBC.params"
+#reference "../../../res/params/mbz/presets.params"
+#reference "../../../res/params/mbz/arcade/GBC.params"
 
 HSM_BZL_COLOR_HUE = "184.000000"
 HSM_BZL_COLOR_SATURATION = "93.000000"

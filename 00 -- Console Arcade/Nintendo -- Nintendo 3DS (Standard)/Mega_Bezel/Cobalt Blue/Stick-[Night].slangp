@@ -1,8 +1,8 @@
-#reference "../../../res/params/mbz.params"
-#reference "../../../res/params/stick/3DS.params"
-#reference "../../../res/params/Night-Alt.params"
+#reference "../../../res/params/mbz/presets.params"
+#reference "../../../res/params/mbz/stick/3DS.params"
+#reference "../../../res/params/night_002.params"
 
 HSM_BZL_COLOR_HUE = "224.000000"
 HSM_BZL_COLOR_SATURATION = "70.000000"
 HSM_BZL_COLOR_VALUE = "50.000000"
-BackgroundImage = "../../../res/images/stick/bgs/3DS_1.png"
+BackgroundImage = "../../../res/images/mbz/stick/bgs/3DS_1.png"

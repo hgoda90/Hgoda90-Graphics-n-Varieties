@@ -1,6 +1,6 @@
-#reference "../../../res/params/mbz.params"
-#reference "../../../res/params/stick/16x9.params"
-#reference "../../../res/params/Night-Alt.params"
+#reference "../../../res/params/mbz/presets.params"
+#reference "../../../res/params/mbz/stick/16x9.params"
+#reference "../../../res/params/night_002.params"
 
 HSM_LED_HUE = "308.000000"
 HSM_LED_SATURATION = "2.000000"
@@ -12,6 +12,6 @@ HSM_DEVICELED_BRIGHTNESS = "58.000000"
 HSM_DEVICELED_GAMMA = "0.450000"
 HSM_DECAL_SOURCE_MATTE_TYPE = "2.000000"
 IntroImage = "../../../res/images/global/intro/SNES.png"
-BackgroundImage = "../../../res/images/stick/bgs/SNES.png"
+BackgroundImage = "../../../res/images/mbz/stick/bgs/SNES.png"
 DecalImage = "../../../res/images/global/decals/SNES.png"
 

@@ -1,5 +1,5 @@
-#reference "../../../res/params/mbz.params"
-#reference "../../../res/params/candy/GG.params"
+#reference "../../../res/params/mbz/presets.params"
+#reference "../../../res/params/mbz/candy/GG.params"
 
 HSM_DEVICE_HUE = "358.000000"
 HSM_DEVICE_SATURATION = "80.000000"

@@ -1,6 +1,6 @@
-#reference "../../../res/params/mbz.params"
-#reference "../../../res/params/stick/4x3.params"
-#reference "../../../res/params/Night-Alt.params"
+#reference "../../../res/params/mbz/presets.params"
+#reference "../../../res/params/mbz/stick/4x3.params"
+#reference "../../../res/params/night_002.params"
 
 HSM_ASPECT_RATIO_ORIENTATION = "0.000000"
 HSM_LED_HUE = "332.000000"
@@ -16,6 +16,6 @@ HSM_DECAL_SCALE = "85.000000"
 HSM_DECAL_POS_X = "-6.000000"
 HSM_DECAL_POS_Y = "-5.000000"
 IntroImage = "../../../res/images/global/intro/FBN.png"
-BackgroundImage = "../../../res/images/stick/bgs/FBN.png"
+BackgroundImage = "../../../res/images/mbz/stick/bgs/FBN.png"
 DecalImage = "../../../res/images/global/decals/FBN.png"
 

@@ -1,6 +1,6 @@
-#reference "../../../res/params/mbz.params"
-#reference "../../../res/params/stripe/GG.params"
-#reference "../../../res/params/Night-Alt.params"
+#reference "../../../res/params/mbz/presets.params"
+#reference "../../../res/params/mbz/stripe/GG.params"
+#reference "../../../res/params/night_002.params"
 
 HSM_BZL_COLOR_HUE = "50.000000"
 HSM_BZL_COLOR_SATURATION = "80.000000"

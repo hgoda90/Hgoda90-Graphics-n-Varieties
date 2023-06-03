@@ -1,13 +1,13 @@
-#reference "../../../res/params/mbz.params"
-#reference "../../../res/params/stick/LYNX.params"
+#reference "../../../res/params/mbz/presets.params"
+#reference "../../../res/params/mbz/stick/LYNX.params"
 
 HSM_LED_SOURCE_MATTE_TYPE = "1.000000"
 HSM_LED_GAMMA = "0.800000"
 HSM_DEVICELED_SOURCE_MATTE_TYPE = "1.000000"
 HSM_DEVICELED_GAMMA = "0.800000"
 IntroImage = "../../../res/images/global/intro/LYNX.png"
-BackgroundImage = "../../../res/images/stick/bgs/LYNX.png"
-LEDImage = "../../../res/images/stick/ball_alt.png"
-DeviceLEDImage = "../../../res/images/stick/ball_alt.png"
+BackgroundImage = "../../../res/images/mbz/stick/bgs/LYNX.png"
+LEDImage = "../../../res/images/mbz/stick/ball_alt.png"
+DeviceLEDImage = "../../../res/images/mbz/stick/ball_alt.png"
 DecalImage = "../../../res/images/global/decals/LYNX.png"
 

@@ -1,5 +1,5 @@
-#reference "../../../res/params/mbz.params"
-#reference "../../../res/params/square/GB.params"
+#reference "../../../res/params/mbz/presets.params"
+#reference "../../../res/params/mbz/square/GB.params"
 
 HSM_BZL_COLOR_VALUE = "6.000000"
 HSM_BG_SATURATION = "0.000000"

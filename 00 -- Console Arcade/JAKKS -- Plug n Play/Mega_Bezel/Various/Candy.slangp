@@ -1,5 +1,5 @@
-#reference "../../../res/params/mbz.params"
-#reference "../../../res/params/candy/4x3.params"
-#reference "../../../res/params/candy/jakks/$GAME$.params"
+#reference "../../../res/params/mbz/presets.params"
+#reference "../../../res/params/mbz/candy/4x3.params"
+#reference "../../../res/params/mbz/candy/jakks/$GAME$.params"
 
 IntroImage = "../../../res/images/global/intro/jakks/$GAME$.png"

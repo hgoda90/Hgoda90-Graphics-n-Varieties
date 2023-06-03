@@ -1,4 +1,0 @@
-#reference "4x3 -- Megatron.params"
-HSM_ASPECT_RATIO_MODE = "3.000000"
-HSM_DECAL_SOURCE_MATTE_TYPE = "1.000000"
-DecalImage = "../../images/global/decals/GBA.png"

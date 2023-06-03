@@ -1,6 +1,6 @@
-#reference "../../../res/params/mbz.params"
-#reference "../../../res/params/candy/4x3.params"
-#reference "../../../res/params/Night.params"
+#reference "../../../res/params/mbz/presets.params"
+#reference "../../../res/params/mbz/candy/4x3.params"
+#reference "../../../res/params/night_001.params"
 
 HSM_ASPECT_RATIO_ORIENTATION = "0.000000"
 HSM_DEVICE_HUE = "355.000000"
