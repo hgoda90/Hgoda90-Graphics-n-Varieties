@@ -9,7 +9,6 @@ HSM_DEVICELED_HUE = "176.000000"
 HSM_DEVICELED_SATURATION = "3.000000"
 HSM_DEVICELED_BRIGHTNESS = "69.000000"
 HSM_DEVICELED_GAMMA = "0.450000"
-IntroImage = "../../../res/images/global/intro/XB360.png"
 BackgroundImage = "../../../res/images/mbz/stick/bgs/XB360.png"
 DecalImage = "../../../res/images/global/decals/XB360.png"
 

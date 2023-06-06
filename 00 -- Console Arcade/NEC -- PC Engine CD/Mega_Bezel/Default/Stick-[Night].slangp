@@ -10,7 +10,6 @@ HSM_DEVICELED_HUE = "48.000000"
 HSM_DEVICELED_SATURATION = "2.000000"
 HSM_DEVICELED_BRIGHTNESS = "68.000000"
 HSM_DEVICELED_GAMMA = "0.450000"
-IntroImage = "../../../res/images/global/intro/PCCD.png"
 BackgroundImage = "../../../res/images/mbz/stick/bgs/PCCD.png"
 DecalImage = "../../../res/images/global/decals/PCCD.png"
 

@@ -3,5 +3,4 @@
 #reference "../../../res/params/night_002.params"
 
 HSM_BZL_COLOR_VALUE = "95.000000"
-IntroImage = "../../../res/images/global/intro/GBA_1.png"
 BackgroundImage = "../../../res/images/mbz/stick/bgs/GBA_1.png"

@@ -2,4 +2,3 @@
 #reference "../../../res/params/mbz/stripel/4x3.params"
 #reference "../../../res/params/mbz/stripel/jakks/$GAME$.params"
 
-IntroImage = "../../../res/images/global/intro/jakks/$GAME$.png"

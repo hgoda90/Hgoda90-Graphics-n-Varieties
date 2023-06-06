@@ -15,7 +15,6 @@ HSM_DECAL_SOURCE_MATTE_TYPE = "1.000000"
 HSM_DECAL_SCALE = "85.000000"
 HSM_DECAL_POS_X = "-6.000000"
 HSM_DECAL_POS_Y = "-5.000000"
-IntroImage = "../../../res/images/global/intro/FBN.png"
 BackgroundImage = "../../../res/images/mbz/stick/bgs/FBN.png"
 DecalImage = "../../../res/images/global/decals/FBN.png"
 

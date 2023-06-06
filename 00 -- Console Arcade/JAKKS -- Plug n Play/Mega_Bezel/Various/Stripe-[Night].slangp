@@ -4,4 +4,3 @@
 #reference "../../../res/params/night_002.params"
 
 HSM_REFLECT_GLOBAL_AMOUNT = "40.000000"
-IntroImage = "../../../res/images/global/intro/jakks/$GAME$.png"

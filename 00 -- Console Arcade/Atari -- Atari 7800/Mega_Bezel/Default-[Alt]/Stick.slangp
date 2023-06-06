@@ -3,7 +3,6 @@
 
 HSM_LED_GAMMA = "0.800000"
 HSM_DEVICELED_GAMMA = "0.800000"
-IntroImage = "../../../res/images/global/intro/A78_1.png"
 BackgroundImage = "../../../res/images/mbz/stick/bgs/A78_1.png"
 LEDImage = "../../../res/images/mbz/stick/ball_alt.png"
 DeviceLEDImage = "../../../res/images/mbz/stick/ball_alt.png"

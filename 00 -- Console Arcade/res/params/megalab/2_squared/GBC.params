@@ -1,0 +1,7 @@
+#reference "4x3.params"
+HSM_ASPECT_RATIO_MODE = "5.000000"
+HSM_DEVICE_SCALE_X = "76.400000"
+HSM_DECAL_SOURCE_MATTE_TYPE = "1.000000"
+HSM_DECAL_POS_X = "-41.800000"
+DecalImage = "../../../images/global/decals/GBC.png"
+LEDImage = "../../../images/megalab/2_squared/stripes/GBC.png"

@@ -4,5 +4,4 @@
 HSM_BZL_COLOR_HUE = "261.000000"
 HSM_BZL_COLOR_SATURATION = "82.000000"
 HSM_BZL_COLOR_VALUE = "82.000000"
-IntroImage = "../../../res/images/global/intro/GBC_2.png"
 BackgroundImage = "../../../res/images/mbz/stick/bgs/GBC_2.png"

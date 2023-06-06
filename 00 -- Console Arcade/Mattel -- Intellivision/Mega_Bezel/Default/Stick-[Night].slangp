@@ -10,7 +10,6 @@ HSM_DEVICELED_HUE = "342.000000"
 HSM_DEVICELED_SATURATION = "23.000000"
 HSM_DEVICELED_BRIGHTNESS = "95.000000"
 HSM_DEVICELED_GAMMA = "0.450000"
-IntroImage = "../../../res/images/global/intro/INTV.png"
 BackgroundImage = "../../../res/images/mbz/stick/bgs/INTV.png"
 DecalImage = "../../../res/images/global/decals/INTV.png"
 

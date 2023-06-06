@@ -9,7 +9,6 @@ HSM_DEVICELED_HUE = "32.000000"
 HSM_DEVICELED_SATURATION = "69.000000"
 HSM_DEVICELED_BRIGHTNESS = "88.000000"
 HSM_DEVICELED_GAMMA = "0.450000"
-IntroImage = "../../../res/images/global/intro/XBOX_Alt.png"
 BackgroundImage = "../../../res/images/mbz/stick/bgs/XBOX.png"
 DecalImage = "../../../res/images/global/decals/XBOX.png"
 

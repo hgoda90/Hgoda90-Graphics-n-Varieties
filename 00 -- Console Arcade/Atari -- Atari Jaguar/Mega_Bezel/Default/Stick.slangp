@@ -9,7 +9,6 @@ HSM_DEVICELED_HUE = "306.000000"
 HSM_DEVICELED_SATURATION = "88.000000"
 HSM_DEVICELED_BRIGHTNESS = "103.000000"
 HSM_DEVICELED_GAMMA = "0.450000"
-IntroImage = "../../../res/images/global/intro/JAG.png"
 BackgroundImage = "../../../res/images/mbz/stick/bgs/JAG.png"
 DecalImage = "../../../res/images/global/decals/JAG.png"
 

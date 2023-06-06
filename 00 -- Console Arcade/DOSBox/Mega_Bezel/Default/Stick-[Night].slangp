@@ -10,7 +10,6 @@ HSM_DEVICELED_HUE = "308.000000"
 HSM_DEVICELED_SATURATION = "100.000000"
 HSM_DEVICELED_BRIGHTNESS = "110.000000"
 HSM_DEVICELED_GAMMA = "0.450000"
-IntroImage = "../../../res/images/global/intro/DOSBox.png"
 BackgroundImage = "../../../res/images/mbz/stick/bgs/DOSBox.png"
 DecalImage = "../../../res/images/global/decals/DOSBox.png"
 

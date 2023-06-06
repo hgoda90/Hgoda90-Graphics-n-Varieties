@@ -15,6 +15,5 @@ HSM_DECAL_HUE = "274.000000"
 HSM_DECAL_SATURATION = "100.000000"
 HSM_DECAL_BRIGHTNESS = "65.000000"
 HSM_DECAL_GAMMA = "0.450000"
-IntroImage = "../../../res/images/global/intro/GB_2.png"
 BackgroundImage = "../../../res/images/mbz/stick/bgs/GB_2.png"
 

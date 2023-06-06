@@ -3,5 +3,4 @@
 #reference "../../../res/params/mbz/stick/jakks/$GAME$.params"
 
 BackgroundImage = "../../../res/images/mbz/stick/bgs/jakks/$GAME$.png"
-IntroImage = "../../../res/images/global/intro/jakks/$GAME$.png"
 
