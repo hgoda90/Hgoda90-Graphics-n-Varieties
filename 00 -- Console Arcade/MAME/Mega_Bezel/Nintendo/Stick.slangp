@@ -1,0 +1,13 @@
+#reference "../../../res/params/mbz/presets.params"
+#reference "../../../res/params/mbz/stick/4x3.params"
+
+HSM_ASPECT_RATIO_ORIENTATION = "0.000000"
+HSM_LED_GAMMA = "0.800000"
+HSM_LED_SOURCE_MATTE_TYPE = "2.000000"
+HSM_DEVICELED_GAMMA = "0.800000"
+HSM_DEVICELED_SOURCE_MATTE_TYPE = "2.000000"
+LEDImage = "../../../res/images/mbz/stick/ball_alt.png"
+DeviceLEDImage = "../../../res/images/mbz/stick/ball_alt.png"
+BackgroundImage = "../../../res/images/mbz/stick/bgs/mame/nintendo.png"
+DecalImage = "../../../res/images/global/decals/mame/nintendo.png"
+
