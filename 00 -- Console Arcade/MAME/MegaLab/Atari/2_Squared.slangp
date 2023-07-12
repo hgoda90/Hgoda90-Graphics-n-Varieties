@@ -1,7 +1,9 @@
 #reference "../../../res/params/megalab/presets.params"
 #reference "../../../res/params/megalab/2_squared/4x3.params"
 
+HSM_INT_SCALE_MAX_HEIGHT = "98.000000"
 HSM_ASPECT_RATIO_ORIENTATION = "0.000000"
+HSM_SCREEN_POSITION_Y = "0.000000"
 HSM_BZL_COLOR_HUE = "38.000000"
 HSM_BZL_COLOR_SATURATION = "22.000000"
 HSM_BZL_COLOR_VALUE = "14.000000"
