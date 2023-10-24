@@ -1,0 +1,3 @@
+#reference "4x3.params"
+HSM_ASPECT_RATIO_MODE = "3.000000"
+DecalImage = "../../../images/global/decals/GBA.png"

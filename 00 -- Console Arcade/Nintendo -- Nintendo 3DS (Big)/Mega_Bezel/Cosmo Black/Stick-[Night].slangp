@@ -5,5 +5,5 @@
 HSM_BZL_COLOR_HUE = "48.000000"
 HSM_BZL_COLOR_SATURATION = "24.000000"
 HSM_BZL_COLOR_VALUE = "8.000000"
-BackgroundImage = "../../../res/images/mbz/stick/bgs/3DS_2.png"
+BackgroundImage = "../../../res/images/mbz/stick/bgs/3DS-B_2.png"
 DecalImage = "../../../res/images/global/decals/3DS_Alt.png"
