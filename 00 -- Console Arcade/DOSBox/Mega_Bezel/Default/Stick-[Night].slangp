@@ -2,17 +2,24 @@
 #reference "../../../res/params/mbz/stick/4x3.params"
 #reference "../../../res/params/night_002.params"
 
+---------------------------------------------------------------------
+
 HSM_LED_HUE = "308.000000"
 HSM_LED_SATURATION = "100.000000"
 HSM_LED_BRIGHTNESS = "110.000000"
 HSM_LED_GAMMA = "0.450000"
+
 HSM_DEVICELED_HUE = "308.000000"
 HSM_DEVICELED_SATURATION = "100.000000"
 HSM_DEVICELED_BRIGHTNESS = "110.000000"
 HSM_DEVICELED_GAMMA = "0.450000"
+
 HSM_DECAL_SOURCE_MATTE_TYPE = "1.000000"
 HSM_DECAL_SCALE = "100.000000"
 HSM_DECAL_POS_X = "0.000000"
 HSM_DECAL_POS_Y = "0.000000"
+
+---------------------------------------------------------------------
+
 BackgroundImage = "../../../res/images/mbz/stick/bgs/DOSBox.png"
 DecalImage = "../../../res/images/global/decals/DOSBox.png"

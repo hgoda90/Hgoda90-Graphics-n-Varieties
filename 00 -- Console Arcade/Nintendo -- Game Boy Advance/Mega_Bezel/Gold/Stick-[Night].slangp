@@ -2,20 +2,28 @@
 #reference "../../../res/params/mbz/stick/GBA.params"
 #reference "../../../res/params/night_002.params"
 
+---------------------------------------------------------------------
+
 HSM_BZL_COLOR_HUE = "39.000000"
 HSM_BZL_COLOR_SATURATION = "33.000000"
 HSM_BZL_COLOR_VALUE = "80.000000"
+
 HSM_LED_HUE = "316.000000"
 HSM_LED_SATURATION = "1.000000"
 HSM_LED_BRIGHTNESS = "90.000000"
 HSM_LED_GAMMA = "0.450000"
+
 HSM_DEVICELED_HUE = "316.000000"
 HSM_DEVICELED_SATURATION = "1.000000"
 HSM_DEVICELED_BRIGHTNESS = "90.000000"
 HSM_DEVICELED_GAMMA = "0.450000"
+
 HSM_DECAL_SOURCE_MATTE_TYPE = "1.000000"
 HSM_DECAL_SCALE = "80.000000"
 HSM_DECAL_POS_X = "1.000000"
 HSM_DECAL_POS_Y = "-5.000000"
+
+---------------------------------------------------------------------
+
 BackgroundImage = "../../../res/images/mbz/stick/bgs/GBA_3.png"
 DecalImage = "../../../res/images/global/decals/GBA.png"

@@ -1,16 +1,23 @@
 #reference "../../../res/params/mbz/presets.params"
 #reference "../../../res/params/mbz/candy/16x9.params"
 
+---------------------------------------------------------------------
+
 HSM_DEVICE_HUE = "0.000000"
 HSM_DEVICE_SATURATION = "0.000000"
 HSM_DEVICE_BRIGHTNESS = "100.000000"
 HSM_DEVICE_GAMMA = "0.450000"
+
 HSM_DEVICELED_HUE = "176.000000"
 HSM_DEVICELED_SATURATION = "3.000000"
 HSM_DEVICELED_BRIGHTNESS = "68.000000"
 HSM_DEVICELED_GAMMA = "0.450000"
+
 HSM_DECAL_SOURCE_MATTE_TYPE = "0.000000"
 HSM_DECAL_SCALE = "86.000000"
 HSM_DECAL_POS_X = "0.000000"
 HSM_DECAL_POS_Y = "82.000000"
+
+---------------------------------------------------------------------
+
 DecalImage = "../../../res/images/global/decals/XB360.png"

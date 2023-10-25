@@ -1,17 +1,24 @@
 #reference "../../../res/params/mbz/presets.params"
 #reference "../../../res/params/mbz/stick/4x3.params"
 
+---------------------------------------------------------------------
+
 HSM_LED_HUE = "356.000000"
 HSM_LED_SATURATION = "76.000000"
 HSM_LED_BRIGHTNESS = "107.000000"
 HSM_LED_GAMMA = "0.450000"
+
 HSM_DEVICELED_HUE = "356.000000"
 HSM_DEVICELED_SATURATION = "76.000000"
 HSM_DEVICELED_BRIGHTNESS = "107.000000"
 HSM_DEVICELED_GAMMA = "0.450000"
+
 HSM_DECAL_SOURCE_MATTE_TYPE = "1.000000"
 HSM_DECAL_SCALE = "90.000000"
 HSM_DECAL_POS_X = "-3.000000"
 HSM_DECAL_POS_Y = "-2.000000"
+
+---------------------------------------------------------------------
+
 BackgroundImage = "../../../res/images/mbz/stick/bgs/JAKK.png"
 DecalImage = "../../../res/images/global/decals/JAKK.png"

@@ -2,29 +2,39 @@
 #reference "../../../res/params/megalab/arcade/GBC.params"
 #reference "../../../res/params/night_002.params"
 
+---------------------------------------------------------------------
+
 HSM_BZL_COLOR_HUE = "60.000000"
 HSM_BZL_COLOR_SATURATION = "84.000000"
 HSM_BZL_COLOR_VALUE = "100.000000"
+
 HSM_LED_SOURCE_MATTE_TYPE = "1.000000"
 HSM_LED_HUE = "316.000000"
 HSM_LED_SATURATION = "100.000000"
 HSM_LED_BRIGHTNESS = "100.000000"
+
 HSM_DEVICE_HUE = "8.000000"
 HSM_DEVICE_SATURATION = "84.000000"
 HSM_DEVICE_BRIGHTNESS = "100.000000"
 HSM_DEVICE_GAMMA = "0.450000"
+
 HSM_DEVICELED_SOURCE_MATTE_TYPE = "1.000000"
 HSM_DEVICELED_HUE = "316.000000"
 HSM_DEVICELED_SATURATION = "100.000000"
 HSM_DEVICELED_BRIGHTNESS = "100.000000"
+
 HSM_DECAL_SOURCE_MATTE_TYPE = "0.000000"
 HSM_DECAL_SCALE = "100.000000"
 HSM_DECAL_POS_X = "0.000000"
 HSM_DECAL_POS_Y = "-6.000000"
+
 HSM_TOP_HUE = "192.000000"
 HSM_TOP_SATURATION = "23.000000"
 HSM_TOP_BRIGHTNESS = "24.000000"
 HSM_TOP_GAMMA = "0.450000"
+
+---------------------------------------------------------------------
+
 LEDImage = "../../../res/images/mbz/stick/ball_2.png"
 DeviceLEDImage = "../../../res/images/mbz/stick/ball_2.png"
 DecalImage = "../../../res/images/global/decals/GBC.png"

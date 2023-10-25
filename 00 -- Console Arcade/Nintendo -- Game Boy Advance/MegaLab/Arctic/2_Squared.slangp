@@ -1,24 +1,33 @@
 #reference "../../../res/params/megalab/presets.params"
 #reference "../../../res/params/megalab/2_squared/GBA.params"
 
+---------------------------------------------------------------------
+
 HSM_BZL_COLOR_HUE = "0.000000"
 HSM_BZL_COLOR_SATURATION = "0.000000"
 HSM_BZL_COLOR_VALUE = "95.000000"
+
 HSM_BG_HUE = "0.000000"
 HSM_BG_SATURATION = "0.000000"
 HSM_BG_BRIGHTNESS = "95.000000"
 HSM_BG_GAMMA = "0.450000"
+
 HSM_DEVICELED_HUE = "8.000000"
 HSM_DEVICELED_SATURATION = "1.000000"
 HSM_DEVICELED_BRIGHTNESS = "80.000000"
 HSM_DEVICELED_GAMMA = "0.450000"
+
 HSM_DECAL_SOURCE_MATTE_TYPE = "1.000000"
 HSM_DECAL_SCALE = "72.000000"
 HSM_DECAL_POS_X = "-41.300000"
 HSM_DECAL_POS_Y = "-19.900000"
+
 HSM_TOP_HUE = "0.000000"
 HSM_TOP_SATURATION = "0.000000"
 HSM_TOP_BRIGHTNESS = "95.000000"
 HSM_TOP_GAMMA = "0.450000"
+
+---------------------------------------------------------------------
+
 LEDImage = "../../../res/images/megalab/2_squared/stripes/GBA.png"
 DecalImage = "../../../res/images/global/decals/GBA.png"

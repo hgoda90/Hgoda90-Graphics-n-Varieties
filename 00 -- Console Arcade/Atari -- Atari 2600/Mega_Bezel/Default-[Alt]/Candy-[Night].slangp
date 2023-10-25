@@ -2,16 +2,23 @@
 #reference "../../../res/params/mbz/candy/4x3.params"
 #reference "../../../res/params/night_001.params"
 
+---------------------------------------------------------------------
+
 HSM_DEVICE_HUE = "248.000000"
 HSM_DEVICE_SATURATION = "3.000000"
 HSM_DEVICE_BRIGHTNESS = "14.000000"
 HSM_DEVICE_GAMMA = "0.450000"
+
 HSM_DEVICELED_HUE = "336.000000"
 HSM_DEVICELED_SATURATION = "80.000000"
 HSM_DEVICELED_BRIGHTNESS = "100.000000"
 HSM_DEVICELED_GAMMA = "0.450000"
+
 HSM_DECAL_SOURCE_MATTE_TYPE = "0.000000"
 HSM_DECAL_SCALE = "86.000000"
 HSM_DECAL_POS_X = "0.000000"
 HSM_DECAL_POS_Y = "82.000000"
+
+---------------------------------------------------------------------
+
 DecalImage = "../../../res/images/global/decals/A26_Alt.png"

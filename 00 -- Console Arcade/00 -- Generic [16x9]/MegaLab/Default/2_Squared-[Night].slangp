@@ -2,24 +2,33 @@
 #reference "../../../res/params/megalab/2_squared/16x9.params"
 #reference "../../../res/params/night_002.params"
 
+---------------------------------------------------------------------
+
 HSM_BZL_COLOR_HUE = "0.000000"
 HSM_BZL_COLOR_SATURATION = "0.000000"
 HSM_BZL_COLOR_VALUE = "10.000000"
+
 HSM_BG_HUE = "0.000000"
 HSM_BG_SATURATION = "0.000000"
 HSM_BG_BRIGHTNESS = "10.000000"
 HSM_BG_GAMMA = "0.450000"
+
 HSM_DEVICELED_HUE = "331.000000"
 HSM_DEVICELED_SATURATION = "88.000000"
 HSM_DEVICELED_BRIGHTNESS = "100.000000"
 HSM_DEVICELED_GAMMA = "0.450000"
+
 HSM_DECAL_SOURCE_MATTE_TYPE = "1.000000"
 HSM_DECAL_SCALE = "72.000000"
 HSM_DECAL_POS_X = "-46.000000"
 HSM_DECAL_POS_Y = "-14.600000"
+
 HSM_TOP_HUE = "0.000000"
 HSM_TOP_SATURATION = "0.000000"
 HSM_TOP_BRIGHTNESS = "10.000000"
 HSM_TOP_GAMMA = "0.450000"
+
+---------------------------------------------------------------------
+
 LEDImage = "../../../res/images/megalab/2_squared/stripes/MB.png"
 DecalImage = "../../../res/images/global/decals/MB.png"

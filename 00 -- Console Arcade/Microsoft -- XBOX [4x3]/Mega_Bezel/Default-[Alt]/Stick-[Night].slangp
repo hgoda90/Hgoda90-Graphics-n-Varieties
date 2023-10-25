@@ -2,17 +2,24 @@
 #reference "../../../res/params/mbz/stick/4x3.params"
 #reference "../../../res/params/night_002.params"
 
+---------------------------------------------------------------------
+
 HSM_LED_HUE = "32.000000"
 HSM_LED_SATURATION = "69.000000"
 HSM_LED_BRIGHTNESS = "88.000000"
 HSM_LED_GAMMA = "0.450000"
+
 HSM_DEVICELED_HUE = "32.000000"
 HSM_DEVICELED_SATURATION = "69.000000"
 HSM_DEVICELED_BRIGHTNESS = "88.000000"
 HSM_DEVICELED_GAMMA = "0.450000"
+
 HSM_DECAL_SOURCE_MATTE_TYPE = "0.000000"
 HSM_DECAL_SCALE = "100.000000"
 HSM_DECAL_POS_X = "41.600000"
 HSM_DECAL_POS_Y = "-6.000000"
+
+---------------------------------------------------------------------
+
 BackgroundImage = "../../../res/images/mbz/stick/bgs/XBOX_1.png"
 DecalImage = "../../../res/images/global/decals/XBOX_Alt.png"

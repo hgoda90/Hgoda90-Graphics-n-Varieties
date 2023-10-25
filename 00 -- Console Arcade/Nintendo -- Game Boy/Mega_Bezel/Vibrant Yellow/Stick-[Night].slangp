@@ -2,17 +2,22 @@
 #reference "../../../res/params/mbz/stick/GB.params"
 #reference "../../../res/params/night_002.params"
 
+---------------------------------------------------------------------
+
 HSM_BZL_COLOR_HUE = "50.000000"
 HSM_BZL_COLOR_SATURATION = "100.000000"
 HSM_BZL_COLOR_VALUE = "100.000000"
+
 HSM_LED_SOURCE_MATTE_TYPE = "1.000000"
 HSM_LED_HUE = "294.000000"
 HSM_LED_SATURATION = "100.000000"
 HSM_LED_BRIGHTNESS = "100.000000"
+
 HSM_DEVICELED_SOURCE_MATTE_TYPE = "1.000000"
 HSM_DEVICELED_HUE = "294.000000"
 HSM_DEVICELED_SATURATION = "100.000000"
 HSM_DEVICELED_BRIGHTNESS = "100.000000"
+
 HSM_DECAL_HUE = "25.000000"
 HSM_DECAL_SATURATION = "64.000000"
 HSM_DECAL_BRIGHTNESS = "9.000000"
@@ -21,6 +26,9 @@ HSM_DECAL_SOURCE_MATTE_TYPE = "0.000000"
 HSM_DECAL_SCALE = "100.000000"
 HSM_DECAL_POS_X = "0.000000"
 HSM_DECAL_POS_Y = "0.000000"
+
+---------------------------------------------------------------------
+
 BackgroundImage = "../../../res/images/mbz/stick/bgs/GB_7.png"
 LEDImage = "../../../res/images/mbz/stick/ball_2.png"
 DeviceLEDImage = "../../../res/images/mbz/stick/ball_2.png"
