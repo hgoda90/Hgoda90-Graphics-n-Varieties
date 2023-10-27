@@ -1,11 +1,28 @@
 #reference "../../../res/params/mbz/presets.params"
 #reference "../../../res/params/mbz/stick/DS.params"
 
-HSM_BZL_COLOR_VALUE = "6.000000"
-HSM_LED_SOURCE_MATTE_TYPE = "1.000000"
-HSM_LED_GAMMA = "0.800000"
-HSM_DEVICELED_SOURCE_MATTE_TYPE = "1.000000"
-HSM_DEVICELED_GAMMA = "0.800000"
-BackgroundImage = "../../../res/images/mbz/stick/bgs/NDS-S_1.png"
-LEDImage = "../../../res/images/mbz/stick/ball_alt.png"
-DeviceLEDImage = "../../../res/images/mbz/stick/ball_alt.png"
+[LED LAYER]:
+	HSM_LED_SOURCE_MATTE_TYPE = "1.000000"
+	HSM_LED_HUE = "150.000000"
+	HSM_LED_SATURATION = "100.000000"
+	HSM_LED_BRIGHTNESS = "100.000000"
+
+[DEVICE LED IMAGE LAYER]:
+	HSM_DEVICELED_SOURCE_MATTE_TYPE = "1.000000"
+	HSM_DEVICELED_HUE = "150.000000"
+	HSM_DEVICELED_SATURATION = "100.000000"
+	HSM_DEVICELED_BRIGHTNESS = "100.000000"
+
+[DECAL LAYER]:
+	HSM_DECAL_SOURCE_MATTE_TYPE = "2.000000"
+
+[DECAL SCALE & FOLLOW]:
+	HSM_DECAL_SCALE = "80.000000"
+	HSM_DECAL_POS_X = "-6.000000"
+	HSM_DECAL_POS_Y = "-10.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../../res/images/mbz/stick/bgs/NDS-S_1.png"
+	LEDImage = "../../../res/images/mbz/stick/ball_2.png"
+	DeviceLEDImage = "../../../res/images/mbz/stick/ball_2.png"
+	DecalImage = "../../../res/images/global/decals/NDS_Alt.png"

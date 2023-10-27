@@ -1,4 +1,4 @@
-#reference "4x3.params"
+#reference "16x9.params"
 HSM_ASPECT_RATIO_MODE = "3.000000"
 HSM_SCREEN_POSITION_Y = "32.000000"
 HSM_DEVICE_SCALE_X = "92.000000"

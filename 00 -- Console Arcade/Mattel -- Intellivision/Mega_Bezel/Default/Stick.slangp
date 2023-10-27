@@ -1,24 +1,26 @@
 #reference "../../../res/params/mbz/presets.params"
 #reference "../../../res/params/mbz/stick/4x3.params"
 
----------------------------------------------------------------------
+[LED LAYER]:
+	HSM_LED_HUE = "342.000000"
+	HSM_LED_SATURATION = "23.000000"
+	HSM_LED_BRIGHTNESS = "95.000000"
+	HSM_LED_GAMMA = "0.450000"
 
-HSM_LED_HUE = "342.000000"
-HSM_LED_SATURATION = "23.000000"
-HSM_LED_BRIGHTNESS = "95.000000"
-HSM_LED_GAMMA = "0.450000"
+[DEVICE LED IMAGE LAYER]:
+	HSM_DEVICELED_HUE = "342.000000"
+	HSM_DEVICELED_SATURATION = "23.000000"
+	HSM_DEVICELED_BRIGHTNESS = "95.000000"
+	HSM_DEVICELED_GAMMA = "0.450000"
 
-HSM_DEVICELED_HUE = "342.000000"
-HSM_DEVICELED_SATURATION = "23.000000"
-HSM_DEVICELED_BRIGHTNESS = "95.000000"
-HSM_DEVICELED_GAMMA = "0.450000"
+[DECAL LAYER]:
+	HSM_DECAL_SOURCE_MATTE_TYPE = "0.000000"
 
-HSM_DECAL_SOURCE_MATTE_TYPE = "0.000000"
-HSM_DECAL_SCALE = "100.000000"
-HSM_DECAL_POS_X = "0.000000"
-HSM_DECAL_POS_Y = "0.000000"
+[DECAL SCALE & FOLLOW]:
+	HSM_DECAL_SCALE = "100.000000"
+	HSM_DECAL_POS_X = "0.000000"
+	HSM_DECAL_POS_Y = "0.000000"
 
----------------------------------------------------------------------
-
-BackgroundImage = "../../../res/images/mbz/stick/bgs/INTV.png"
-DecalImage = "../../../res/images/global/decals/INTV.png"
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../../res/images/mbz/stick/bgs/INTV.png"
+	DecalImage = "../../../res/images/global/decals/INTV.png"

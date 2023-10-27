@@ -33,6 +33,9 @@ HSM_CAB_GLASS_SCALE_X = "75.000000"
 HSM_INTRO_SOLID_COLOR_VALUE = "0.000000"
 HSM_INTRO_NOISE_BLEND_MODE = "3.000000"
 HSM_INTRO_LOGO_HEIGHT = "80.000000"
+
+---------------------------------------------------------------------
+
 no_scanlines = "1.000000"
 wp_saturation = "1.200000"
 pre_bb = "0.900000"
@@ -41,6 +44,9 @@ m_glow = "1.000000"
 m_glow_high = "3.000000"
 shadowMask = "7.000000"
 maskstr = "1.000000"
+
+---------------------------------------------------------------------
+
 IntroImage = "../../../images/global/intro.png"
 BackgroundImage = "../../../images/global/bg/bricks.png"
 DeviceImage = "../../../images/mbz/arcade/cabinet.png"

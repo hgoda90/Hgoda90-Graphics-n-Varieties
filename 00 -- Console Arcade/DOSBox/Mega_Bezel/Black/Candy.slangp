@@ -1,23 +1,25 @@
 #reference "../../../res/params/mbz/presets.params"
 #reference "../../../res/params/mbz/candy/4x3.params"
 
----------------------------------------------------------------------
+[DEVICE IMAGE LAYER]:
+	HSM_DEVICE_HUE = "161.000000"
+	HSM_DEVICE_SATURATION = "20.000000"
+	HSM_DEVICE_BRIGHTNESS = "22.000000"
+	HSM_DEVICE_GAMMA = "0.450000"
 
-HSM_DEVICE_HUE = "161.000000"
-HSM_DEVICE_SATURATION = "20.000000"
-HSM_DEVICE_BRIGHTNESS = "22.000000"
-HSM_DEVICE_GAMMA = "0.450000"
+[DEVICE LED IMAGE LAYER]:
+	HSM_DEVICELED_HUE = "0.000000"
+	HSM_DEVICELED_SATURATION = "0.000000"
+	HSM_DEVICELED_BRIGHTNESS = "84.000000"
+	HSM_DEVICELED_GAMMA = "0.450000"
 
-HSM_DEVICELED_HUE = "0.000000"
-HSM_DEVICELED_SATURATION = "0.000000"
-HSM_DEVICELED_BRIGHTNESS = "84.000000"
-HSM_DEVICELED_GAMMA = "0.450000"
+[DECAL LAYER]:
+	HSM_DECAL_SOURCE_MATTE_TYPE = "1.000000"
 
-HSM_DECAL_SOURCE_MATTE_TYPE = "1.000000"
-HSM_DECAL_SCALE = "86.000000"
-HSM_DECAL_POS_X = "0.000000"
-HSM_DECAL_POS_Y = "82.000000"
+[DECAL SCALE & FOLLOW]:
+	HSM_DECAL_SCALE = "86.000000"
+	HSM_DECAL_POS_X = "0.000000"
+	HSM_DECAL_POS_Y = "82.000000"
 
----------------------------------------------------------------------
-
-DecalImage = "../../../res/images/global/decals/DOSBox_Alt.png"
+[MEGA BEZEL IMAGES]:
+	DecalImage = "../../../res/images/global/decals/DOSBox_Alt.png"

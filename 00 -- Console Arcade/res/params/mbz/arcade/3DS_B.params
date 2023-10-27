@@ -1,4 +1,7 @@
 #reference "3DS.params"
+
+---------------------------------------------------------------------
+
 HSM_NON_INTEGER_SCALE_OFFSET = "54.000000"
 HSM_SCREEN_POSITION_X = "50.000000"
 HSM_SCREEN_POSITION_Y = "130.000000"

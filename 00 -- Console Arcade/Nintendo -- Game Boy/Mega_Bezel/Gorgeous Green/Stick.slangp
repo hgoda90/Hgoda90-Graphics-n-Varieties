@@ -1,34 +1,37 @@
 #reference "../../../res/params/mbz/presets.params"
 #reference "../../../res/params/mbz/stick/GB.params"
 
----------------------------------------------------------------------
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "149.000000"
+	HSM_BZL_COLOR_SATURATION = "100.000000"
+	HSM_BZL_COLOR_VALUE = "56.000000"
 
-HSM_BZL_COLOR_HUE = "149.000000"
-HSM_BZL_COLOR_SATURATION = "100.000000"
-HSM_BZL_COLOR_VALUE = "56.000000"
+[LED LAYER]:
+	HSM_LED_SOURCE_MATTE_TYPE = "1.000000"
+	HSM_LED_HUE = "294.000000"
+	HSM_LED_SATURATION = "100.000000"
+	HSM_LED_BRIGHTNESS = "100.000000"
 
-HSM_LED_SOURCE_MATTE_TYPE = "1.000000"
-HSM_LED_HUE = "294.000000"
-HSM_LED_SATURATION = "100.000000"
-HSM_LED_BRIGHTNESS = "100.000000"
+[DEVICE LED IMAGE LAYER]:
+	HSM_DEVICELED_SOURCE_MATTE_TYPE = "1.000000"
+	HSM_DEVICELED_HUE = "294.000000"
+	HSM_DEVICELED_SATURATION = "100.000000"
+	HSM_DEVICELED_BRIGHTNESS = "100.000000"
 
-HSM_DEVICELED_SOURCE_MATTE_TYPE = "1.000000"
-HSM_DEVICELED_HUE = "294.000000"
-HSM_DEVICELED_SATURATION = "100.000000"
-HSM_DEVICELED_BRIGHTNESS = "100.000000"
+[DECAL LAYER]:
+	HSM_DECAL_HUE = "25.000000"
+	HSM_DECAL_SATURATION = "64.000000"
+	HSM_DECAL_BRIGHTNESS = "9.000000"
+	HSM_DECAL_GAMMA = "0.450000"
+	HSM_DECAL_SOURCE_MATTE_TYPE = "0.000000"
 
-HSM_DECAL_HUE = "25.000000"
-HSM_DECAL_SATURATION = "64.000000"
-HSM_DECAL_BRIGHTNESS = "9.000000"
-HSM_DECAL_GAMMA = "0.450000"
-HSM_DECAL_SOURCE_MATTE_TYPE = "0.000000"
-HSM_DECAL_SCALE = "100.000000"
-HSM_DECAL_POS_X = "0.000000"
-HSM_DECAL_POS_Y = "0.000000"
+[DECAL SCALE & FOLLOW]:
+	HSM_DECAL_SCALE = "100.000000"
+	HSM_DECAL_POS_X = "0.000000"
+	HSM_DECAL_POS_Y = "0.000000"
 
----------------------------------------------------------------------
-
-BackgroundImage = "../../../res/images/mbz/stick/bgs/GB_3.png"
-LEDImage = "../../../res/images/mbz/stick/ball_1.png"
-DeviceLEDImage = "../../../res/images/mbz/stick/ball_1.png"
-DecalImage = "../../../res/images/global/decals/GB.png"
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../../res/images/mbz/stick/bgs/GB_3.png"
+	LEDImage = "../../../res/images/mbz/stick/ball_1.png"
+	DeviceLEDImage = "../../../res/images/mbz/stick/ball_1.png"
+	DecalImage = "../../../res/images/global/decals/GB.png"

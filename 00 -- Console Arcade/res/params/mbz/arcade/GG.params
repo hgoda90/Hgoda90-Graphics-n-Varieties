@@ -1,4 +1,7 @@
 #reference "4x3.params"
+
+---------------------------------------------------------------------
+
 HSM_ASPECT_RATIO_MODE = "1.000000"
 HSM_ASPECT_RATIO_EXPLICIT = "1.109000"
 HSM_SCREEN_POSITION_Y = "86.000000"
@@ -12,5 +15,11 @@ HSM_DECAL_SCALE = "82.000000"
 HSM_DECAL_POS_X = "62.000000"
 HSM_DECAL_POS_Y = "-8.000000"
 HSM_TOP_SCALE_X = "99.200000"
+
+---------------------------------------------------------------------
+
 shadowMask = "7.000000"
+
+---------------------------------------------------------------------
+
 DecalImage = "../../../images/global/decals/GG.png"

@@ -41,6 +41,9 @@ HSM_TOP_MIRROR_WRAP = "0.000000"
 HSM_INTRO_SOLID_COLOR_VALUE = "0.000000"
 HSM_INTRO_NOISE_BLEND_MODE = "3.000000"
 HSM_INTRO_LOGO_HEIGHT = "80.000000"
+
+---------------------------------------------------------------------
+
 TubeStaticReflectionImage = "../../../images/global/reflection.png"
 IntroImage = "../../../images/global/intro.png"
 BackgroundImage = "../../../images/global/bg/bricks.png"
