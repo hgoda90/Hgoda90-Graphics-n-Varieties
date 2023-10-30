@@ -19,8 +19,8 @@
 
 [DECAL SCALE & FOLLOW]:
 	HSM_DECAL_SCALE = "80.000000"
-	HSM_DECAL_POS_X = "-6.000000"
-	HSM_DECAL_POS_Y = "-10.000000"
+	HSM_DECAL_POS_X = "26.000000"
+	HSM_DECAL_POS_Y = "-7.000000"
 
 [MEGA BEZEL IMAGES]:
 	BackgroundImage = "../../../res/images/mbz/stick/bgs/3DS-B_2.png"
