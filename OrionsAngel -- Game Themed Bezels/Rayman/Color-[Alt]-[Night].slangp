@@ -1,0 +1,6 @@
+#reference "../../../OrionsAngel-Overlays/Game Themed Bezels/Rayman/Default-[Alt]-[Night].slangp"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "321.000000"
+	HSM_BZL_COLOR_SATURATION = "37.000000"
+	HSM_BZL_COLOR_VALUE = "91.000000"

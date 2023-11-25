@@ -1,0 +1,6 @@
+#reference "../../../OrionsAngel-Overlays/Game Themed Bezels/Golden Axe/Default.slangp"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "50.000000"
+	HSM_BZL_COLOR_SATURATION = "69.000000"
+	HSM_BZL_COLOR_VALUE = "95.000000"

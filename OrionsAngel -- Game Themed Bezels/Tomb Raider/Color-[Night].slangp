@@ -1,0 +1,6 @@
+#reference "../../../OrionsAngel-Overlays/Game Themed Bezels/Tomb Raider/Default-[Night].slangp"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "46.000000"
+	HSM_BZL_COLOR_SATURATION = "66.000000"
+	HSM_BZL_COLOR_VALUE = "87.000000"

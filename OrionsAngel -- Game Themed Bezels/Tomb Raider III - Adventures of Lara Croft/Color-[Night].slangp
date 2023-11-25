@@ -1,0 +1,6 @@
+#reference "../../../OrionsAngel-Overlays/Game Themed Bezels/Tomb Raider III - Adventures of Lara Croft/Default-[Night].slangp"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "109.000000"
+	HSM_BZL_COLOR_SATURATION = "85.000000"
+	HSM_BZL_COLOR_VALUE = "59.000000"

@@ -1,0 +1,7 @@
+#reference "../../../OrionsAngel-Overlays/Game Themed Bezels/Donkey Kong Country/Default-[Night].slangp"
+#reference "../res/params/Glass 01.params"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "50.000000"
+	HSM_BZL_COLOR_SATURATION = "69.000000"
+	HSM_BZL_COLOR_VALUE = "95.000000"

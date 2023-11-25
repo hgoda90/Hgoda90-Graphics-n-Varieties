@@ -1,0 +1,7 @@
+#reference "../../../OrionsAngel-Overlays/Game Themed Bezels/Castlevania - Symphony of the Night/Default-[Japan]-[Night].slangp"
+#reference "../res/params/Glass 01.params"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "33.000000"
+	HSM_BZL_COLOR_SATURATION = "100.000000"
+	HSM_BZL_COLOR_VALUE = "77.000000"

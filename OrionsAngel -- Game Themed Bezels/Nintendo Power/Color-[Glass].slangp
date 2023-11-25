@@ -1,0 +1,7 @@
+#reference "../../../OrionsAngel-Overlays/Game Themed Bezels/Nintendo Power/Default.slangp"
+#reference "../res/params/Glass 01.params"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "58.000000"
+	HSM_BZL_COLOR_SATURATION = "95.000000"
+	HSM_BZL_COLOR_VALUE = "99.000000"

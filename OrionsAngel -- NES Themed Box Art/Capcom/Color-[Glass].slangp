@@ -1,0 +1,7 @@
+#reference "../../../OrionsAngel-Overlays/NES Themed Box Art/Capcom/Default.slangp"
+#reference "../res/params/Glass 01.params"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "355.000000"
+	HSM_BZL_COLOR_SATURATION = "82.000000"
+	HSM_BZL_COLOR_VALUE = "100.000000"

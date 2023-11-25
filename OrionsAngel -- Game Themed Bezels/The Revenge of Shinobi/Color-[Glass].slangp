@@ -1,0 +1,7 @@
+#reference "../../../OrionsAngel-Overlays/Game Themed Bezels/The Revenge of Shinobi/Default.slangp"
+#reference "../res/params/Glass 01.params"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "165.000000"
+	HSM_BZL_COLOR_SATURATION = "3.000000"
+	HSM_BZL_COLOR_VALUE = "59.000000"

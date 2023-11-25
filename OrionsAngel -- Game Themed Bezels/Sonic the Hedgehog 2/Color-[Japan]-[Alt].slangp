@@ -1,0 +1,6 @@
+#reference "../../../OrionsAngel-Overlays/Game Themed Bezels/Sonic the Hedgehog 2/Default-[Japan]-[Alt].slangp"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "215.000000"
+	HSM_BZL_COLOR_SATURATION = "41.000000"
+	HSM_BZL_COLOR_VALUE = "50.000000"

@@ -1,0 +1,7 @@
+#reference "../../../OrionsAngel-Overlays/NES Themed Box Art/Konami/Default-[Night].slangp"
+#reference "../res/params/Glass 01.params"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "0.000000"
+	HSM_BZL_COLOR_SATURATION = "0.000000"
+	HSM_BZL_COLOR_VALUE = "88.000000"

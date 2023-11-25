@@ -1,0 +1,6 @@
+#reference "../../../OrionsAngel-Overlays/Game Themed Bezels/Super Mario Bros 3/Default.slangp"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "212.000000"
+	HSM_BZL_COLOR_SATURATION = "98.000000"
+	HSM_BZL_COLOR_VALUE = "96.000000"

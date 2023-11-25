@@ -1,0 +1,7 @@
+#reference "../../../OrionsAngel-Overlays/Game Themed Bezels/Teenage Mutant Ninja Turtles IV/Default-[Raph-Leo].slangp"
+#reference "../res/params/Glass 01.params"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "54.000000"
+	HSM_BZL_COLOR_SATURATION = "100.000000"
+	HSM_BZL_COLOR_VALUE = "99.000000"

@@ -1,0 +1,6 @@
+#reference "../../../OrionsAngel-Overlays/Game Themed Bezels/Crash Bandicoot/Default.slangp"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "21.000000"
+	HSM_BZL_COLOR_SATURATION = "87.000000"
+	HSM_BZL_COLOR_VALUE = "38.000000"

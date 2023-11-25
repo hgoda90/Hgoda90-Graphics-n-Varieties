@@ -1,0 +1,7 @@
+#reference "../../../OrionsAngel-Overlays/Game Themed Bezels/Thunder Force III/Default-[Night].slangp"
+#reference "../res/params/Glass 01.params"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "60.000000"
+	HSM_BZL_COLOR_SATURATION = "75.000000"
+	HSM_BZL_COLOR_VALUE = "100.000000"
