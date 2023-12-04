@@ -2,4 +2,4 @@
 #reference "../../res/params/Panel.params"
 #reference "../../res/params/Intro_Channel.params"
 
-LEDImage = "../../../../Graphics/Soqueroeu-TV-Backgrounds/LED.png"
+LEDImage = "../../res/images/LED.png"

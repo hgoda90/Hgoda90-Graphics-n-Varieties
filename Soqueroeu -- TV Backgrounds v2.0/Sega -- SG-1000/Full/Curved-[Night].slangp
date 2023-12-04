@@ -1,5 +1,5 @@
 #reference "../../../../Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console-Night/Sega_SG-1000.slangp"
 #reference "../../res/params/Panel.params"
-#reference "../../res/params/Intro_Channel.params"
+#reference "../../res/params/Intro_Channel_JP.params"
 
-LEDImage = "../../../../Graphics/Soqueroeu-TV-Backgrounds/LED.png"
+LEDImage = "../../res/images/LED.png"
