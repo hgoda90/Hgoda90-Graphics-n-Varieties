@@ -1,0 +1,8 @@
+#reference "../../res/params/mbz.params"
+#reference "../../res/params/lfan Bezel.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.129300"
+HSM_BZL_COLOR_HUE = "42.000000"
+HSM_BZL_COLOR_SATURATION = "80.000000"
+HSM_BZL_COLOR_VALUE = "62.000000"
+BackgroundVertImage = "../../res/images/CRT-Arcade-V-lfan.png"
