@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Atari_800/Atari_800-[ADV]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/bezel-monitor_curved.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_BG_SCALE_X = "102.500000"

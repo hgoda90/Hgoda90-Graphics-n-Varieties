@@ -1,7 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/SONY_Playstation_2_DREZ/Playstation2-[DREZ]-[480p]-[STD]-[Guest]-[Bezel]-[Night].slangp"
-#reference "../../../res/params/Smooth Bezel -- 16x9.params"
-#reference "../../../res/params/Night.params"
-
-HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
-HSM_DECAL_BRIGHTNESS = "150.000000"
-DecalImage = "../../../../../Duimon-Mega-Bezel/Graphics/SONY_Playstation/Playstation_Decal.png"

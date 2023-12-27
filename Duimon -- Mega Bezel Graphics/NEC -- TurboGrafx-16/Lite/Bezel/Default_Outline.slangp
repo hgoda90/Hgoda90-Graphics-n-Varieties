@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/NEC_TurboGrafx_16/TurboGrafx16-[STD]-[Guest-Mini]-[Bezel].slangp"
+#reference "../../../__global/params/outline_bezel.params"
+
+HSM_FRM_COLOR_VALUE = "20.000000"

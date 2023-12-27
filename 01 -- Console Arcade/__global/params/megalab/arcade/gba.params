@@ -1,0 +1,7 @@
+#reference "16x9.params"
+HSM_ASPECT_RATIO_MODE = "3.000000"
+HSM_SCREEN_POSITION_Y = "32.000000"
+HSM_DEVICE_SCALE_X = "92.000000"
+HSM_CAB_GLASS_SCALE_X = "107.000000"
+HSM_TOP_SCALE_X = "107.000000"
+DecalImage = "../../../images/decals/gba.png"

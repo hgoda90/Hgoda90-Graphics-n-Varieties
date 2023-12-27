@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/SONY_Playstation/Playstation_Alt-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../__global/params/bezel-tv.params"
+
+HSM_FRM_NOISE = "20.000000"

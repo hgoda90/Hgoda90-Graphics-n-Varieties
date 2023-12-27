@@ -1,5 +1,5 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/SEGA_Genesis/Genesis-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Thin Frame.params"
-#reference "../../../res/params/Night.params"
+#reference "../../../__global/params/thin-frame.params"
+#reference "../../../__global/params/lights.params"
 
 HSM_BG_SCALE_X = "103.000000"

@@ -1,4 +1,4 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/TI-99_4A/TI-99_4A-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Wide Frame.params"
+#reference "../../../__global/params/wide-frame.params"
 
 HSM_BG_SCALE_X = "101.300000"

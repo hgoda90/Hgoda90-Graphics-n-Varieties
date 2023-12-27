@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/NEC_SuperGrafx/SuperGrafx-[STD]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/outline_bezel.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_FRM_COLOR_VALUE = "20.000000"

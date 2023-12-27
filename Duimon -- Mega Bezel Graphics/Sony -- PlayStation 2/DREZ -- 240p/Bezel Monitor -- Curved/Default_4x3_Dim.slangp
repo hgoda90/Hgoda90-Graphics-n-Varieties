@@ -1,0 +1,6 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/SONY_Playstation_2_DREZ/Playstation2-[DREZ]-[240p]-[STD]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/bezel-monitor_curved.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
+HSM_FRM_NOISE = "20.000000"

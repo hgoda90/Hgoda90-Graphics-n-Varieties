@@ -1,0 +1,8 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/frame-bezel_full.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.051300"
+HSM_BZL_COLOR_HUE = "201.000000"
+HSM_BZL_COLOR_SATURATION = "56.000000"
+HSM_BZL_COLOR_VALUE = "81.000000"
+BackgroundVertImage = "../../__global/images/CRT-MAME-V-lfan.png"

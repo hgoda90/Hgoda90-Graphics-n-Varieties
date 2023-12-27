@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/uzebox/uzebox-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/smooth-bezel.params"
+
+HSM_BG_HUE = "16.000000"
+HSM_BG_BRIGHTNESS = "195.000000"

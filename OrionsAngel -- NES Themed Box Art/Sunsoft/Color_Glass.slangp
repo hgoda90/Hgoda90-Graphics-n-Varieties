@@ -1,0 +1,7 @@
+#reference "../../../OrionsAngel-Overlays/NES Themed Box Art/Sunsoft/Default.slangp"
+#reference "../res/params/glass.params"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "42.000000"
+	HSM_BZL_COLOR_SATURATION = "86.000000"
+	HSM_BZL_COLOR_VALUE = "88.000000"

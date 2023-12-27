@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Atari_ST/Atari_ST-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/outline_bezel.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_FRM_COLOR_VALUE = "40.000000"

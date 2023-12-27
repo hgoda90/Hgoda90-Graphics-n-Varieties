@@ -1,0 +1,8 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Nintendo_Wii_DREZ/Wii_16x9-[DREZ]-[240p]-[STD]-[Guest]-[Night].slangp"
+#reference "../../../__global/params/bezel-tv_16x9_wii.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_BZL_COLOR_HUE = "335.000000"
+HSM_BZL_COLOR_SATURATION = "31.000000"
+HSM_BZL_COLOR_VALUE = "97.000000"
+HSM_FRM_NOISE = "10.000000"

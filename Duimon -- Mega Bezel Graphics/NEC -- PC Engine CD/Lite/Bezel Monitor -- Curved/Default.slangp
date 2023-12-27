@@ -1,4 +1,4 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/NEC_PC_Engine_CD/PC_Engine_CD-[STD]-[Guest-Mini]-[Bezel].slangp"
-#reference "../../../res/params/Bezel Monitor -- Curved.params"
+#reference "../../../__global/params/bezel-monitor_curved.params"
 
 HSM_FRM_NOISE = "15.000000"

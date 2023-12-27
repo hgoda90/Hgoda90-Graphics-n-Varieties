@@ -1,0 +1,6 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/SONY_Playstation_DREZ/Playstation_Alt-[DREZ]-[240p]-[STD]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/bezel-tv.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_BZL_COLOR_VALUE = "69.000000"
+HSM_FRM_NOISE = "20.000000"

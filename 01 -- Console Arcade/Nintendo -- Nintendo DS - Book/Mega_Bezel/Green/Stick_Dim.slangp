@@ -1,0 +1,27 @@
+#reference "../../../__global/params/mbz/presets.params"
+#reference "../../../__global/params/mbz/stick/ds_book.params"
+#reference "../../../__global/params/lights_02.params"
+
+[LED LAYER]:
+	HSM_LED_HUE = "68.000000"
+	HSM_LED_SATURATION = "100.000000"
+	HSM_LED_BRIGHTNESS = "45.000000"
+	HSM_LED_GAMMA = "0.450000"
+
+[DEVICE LED IMAGE LAYER]:
+	HSM_DEVICELED_HUE = "68.000000"
+	HSM_DEVICELED_SATURATION = "100.000000"
+	HSM_DEVICELED_BRIGHTNESS = "45.000000"
+	HSM_DEVICELED_GAMMA = "0.450000"
+
+[DECAL LAYER]:
+	HSM_DECAL_SOURCE_MATTE_TYPE = "2.000000"
+
+[DECAL SCALE & FOLLOW]:
+	HSM_DECAL_SCALE = "80.000000"
+	HSM_DECAL_POS_X = "-6.000000"
+	HSM_DECAL_POS_Y = "-10.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../../__global/images/mbz/stick/bgs/nds-bk_03.png"
+	DecalImage = "../../../__global/images/decals/nds-alt.png"

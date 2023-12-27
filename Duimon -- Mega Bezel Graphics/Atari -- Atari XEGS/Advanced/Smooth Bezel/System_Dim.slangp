@@ -1,0 +1,7 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Atari_XEGS/Atari_XEGS-[ADV]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/smooth-bezel.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_BZL_COLOR_HUE = "48.000000"
+HSM_BZL_COLOR_SATURATION = "7.000000"
+HSM_BZL_COLOR_VALUE = "56.000000"

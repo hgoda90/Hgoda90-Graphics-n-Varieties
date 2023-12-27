@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/SEGA_Genesis/Genesis_Alt-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../__global/params/thin-frame.params"
+
+HSM_BG_SCALE_X = "103.000000"

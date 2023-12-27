@@ -1,4 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/ColecoVision/ColecoVision-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Wide Frame.params"
-
-HSM_DECAL_POS_Y = "-0.200000"

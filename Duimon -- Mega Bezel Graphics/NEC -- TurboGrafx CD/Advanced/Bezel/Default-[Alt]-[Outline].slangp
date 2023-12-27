@@ -1,4 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/NEC_TurboGrafx_CD/TurboGrafx_CD_Alt-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Outline -- Bezel.params"
-
-HSM_FRM_COLOR_VALUE = "70.000000"

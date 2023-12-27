@@ -1,0 +1,11 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Nintendo_NES/NES-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/bezel-monitor_flat.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_BZL_COLOR_SATURATION = "0.000000"
+HSM_BZL_COLOR_VALUE = "75.800000"
+HSM_FRM_NOISE = "15.000000"
+HSM_DECAL_COLORIZE_ON = "1.000000"
+HSM_DECAL_SATURATION = "200.000000"
+HSM_DECAL_BRIGHTNESS = "90.000000"
+HSM_DECAL_POS_Y = "-2.100000"

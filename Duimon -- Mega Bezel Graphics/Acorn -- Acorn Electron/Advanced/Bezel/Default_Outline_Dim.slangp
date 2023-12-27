@@ -1,0 +1,7 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Acorn_Electron/Electron-[ADV]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/outline_bezel.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_FRM_COLOR_HUE = "45.000000"
+HSM_FRM_COLOR_SATURATION = "5.000000"
+HSM_FRM_COLOR_VALUE = "62.000000"

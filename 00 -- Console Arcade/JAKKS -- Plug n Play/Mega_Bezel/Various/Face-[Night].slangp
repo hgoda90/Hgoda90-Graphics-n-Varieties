@@ -1,6 +1,0 @@
-#reference "../../../res/params/mbz/presets.params"
-#reference "../../../res/params/mbz/face/4x3.params"
-#reference "../../../res/params/mbz/face/jakks/$GAME$.params"
-#reference "../../../res/params/night_001.params"
-
-HSM_REFLECT_GLOBAL_AMOUNT = "40.000000"

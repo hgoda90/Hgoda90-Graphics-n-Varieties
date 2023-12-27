@@ -1,0 +1,8 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/lfan-bezel.params"
+
+HSM_ASPECT_RATIO_MODE = "2.000000"
+HSM_BZL_COLOR_VALUE = "8.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../__global/images/CRT-Naomi-H-lfan.png"

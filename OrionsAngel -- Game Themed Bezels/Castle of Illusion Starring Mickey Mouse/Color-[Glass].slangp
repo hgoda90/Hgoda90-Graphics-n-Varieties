@@ -1,7 +1,0 @@
-#reference "../../../OrionsAngel-Overlays/Game Themed Bezels/Castle of Illusion Starring Mickey Mouse/Default.slangp"
-#reference "../res/params/Glass 01.params"
-
-[BEZEL COLOR]:
-	HSM_BZL_COLOR_HUE = "58.000000"
-	HSM_BZL_COLOR_SATURATION = "100.000000"
-	HSM_BZL_COLOR_VALUE = "75.000000"

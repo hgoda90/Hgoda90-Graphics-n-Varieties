@@ -1,0 +1,3 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Magnavox_Odyssey_2/Odyssey2_Alt-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/bezel-monitor_flat.params"
+#reference "../../../__global/params/lights.params"

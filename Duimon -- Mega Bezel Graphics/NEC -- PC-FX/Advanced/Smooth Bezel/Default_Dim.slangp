@@ -1,0 +1,3 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/NEC_PC-FX/PC-FX-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../__global/params/smooth-bezel.params"
+#reference "../../../__global/params/lights.params"

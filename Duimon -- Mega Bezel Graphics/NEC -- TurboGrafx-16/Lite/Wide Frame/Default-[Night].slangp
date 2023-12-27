@@ -1,6 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/NEC_TurboGrafx_16/TurboGrafx16-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
-#reference "../../../res/params/Wide Frame.params"
-#reference "../../../res/params/Night.params"
-
-HSM_BG_SCALE_X = "104.500000"
-HSM_DECAL_POS_Y = "-0.200000"

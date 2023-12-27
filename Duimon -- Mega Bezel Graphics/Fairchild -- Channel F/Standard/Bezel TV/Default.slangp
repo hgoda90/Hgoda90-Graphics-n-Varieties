@@ -1,2 +1,2 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Fairchild_Channel_F/ChannelF-[STD]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Bezel TV.params"
+#reference "../../../__global/params/bezel-tv.params"

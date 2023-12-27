@@ -1,2 +1,2 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Atari_Jaguar/Jaguar-[STD]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Smooth Bezel.params"
+#reference "../../../__global/params/smooth-bezel.params"

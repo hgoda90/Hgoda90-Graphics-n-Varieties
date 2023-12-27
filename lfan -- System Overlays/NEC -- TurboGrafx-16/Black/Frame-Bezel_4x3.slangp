@@ -1,0 +1,8 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/frame-bezel_4x3.params"
+
+HSM_TUBE_EMPTY_THICKNESS_X_SCALE = "630.000000"
+HSM_BZL_COLOR_VALUE = "13.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../__global/images/CRT-TG-16-lfan.png"

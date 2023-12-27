@@ -1,4 +1,4 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Acorn_Electron/Electron-[STD]-[Guest-Mini]-[Bezel].slangp"
-#reference "../../../res/params/Wide Frame.params"
+#reference "../../../__global/params/wide-frame.params"
 
 HSM_FRM_NOISE = "15.000000"

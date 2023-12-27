@@ -1,8 +1,0 @@
-#reference "../../res/params/mbz.params"
-#reference "../../res/params/Standard Bezel.params"
-
-HSM_ASPECT_RATIO_EXPLICIT = "1.562000"
-HSM_BZL_COLOR_HUE = "138.000000"
-HSM_BZL_COLOR_SATURATION = "80.000000"
-HSM_BZL_COLOR_VALUE = "69.000000"
-BackgroundImage = "../../res/images/CRT-3DO-lfan.png"

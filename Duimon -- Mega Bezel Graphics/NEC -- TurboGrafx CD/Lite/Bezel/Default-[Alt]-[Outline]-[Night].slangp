@@ -1,5 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/NEC_TurboGrafx_CD/TurboGrafx_CD_Alt-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
-#reference "../../../res/params/Outline -- Bezel.params"
-#reference "../../../res/params/Night.params"
-
-HSM_FRM_COLOR_VALUE = "70.000000"

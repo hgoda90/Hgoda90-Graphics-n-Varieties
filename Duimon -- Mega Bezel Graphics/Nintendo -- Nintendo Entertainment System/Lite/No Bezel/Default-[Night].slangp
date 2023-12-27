@@ -1,4 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Nintendo_NES/NES-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
-#reference "../../../res/params/No Bezel.params"
-
-HSM_NON_INTEGER_SCALE = "91.969864"

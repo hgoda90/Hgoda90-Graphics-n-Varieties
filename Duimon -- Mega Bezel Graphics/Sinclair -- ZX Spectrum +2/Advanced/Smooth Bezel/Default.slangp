@@ -1,2 +1,2 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Sinclair_ZX_Spectrum+2/Spectrum2-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Smooth Bezel.params"
+#reference "../../../__global/params/smooth-bezel.params"

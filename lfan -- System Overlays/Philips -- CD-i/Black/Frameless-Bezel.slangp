@@ -1,0 +1,8 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/frameless-bezel.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.461000"
+HSM_BZL_COLOR_VALUE = "20.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../__global/images/CRT-CD-i-lfan.png"

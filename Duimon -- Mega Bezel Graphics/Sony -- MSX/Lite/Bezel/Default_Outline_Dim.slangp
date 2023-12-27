@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/MSX/MSX-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/outline_bezel.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_FRM_COLOR_VALUE = "55.000000"

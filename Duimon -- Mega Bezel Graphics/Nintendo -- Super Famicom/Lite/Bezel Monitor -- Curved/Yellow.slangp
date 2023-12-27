@@ -1,5 +1,5 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Nintendo_Super_Famicom/Super_Famicom-[STD]-[Guest-Mini]-[Bezel].slangp"
-#reference "../../../res/params/Bezel Monitor -- Curved.params"
+#reference "../../../__global/params/bezel-monitor_curved.params"
 
 HSM_BZL_COLOR_HUE = "62.000000"
 HSM_BZL_COLOR_SATURATION = "100.000000"

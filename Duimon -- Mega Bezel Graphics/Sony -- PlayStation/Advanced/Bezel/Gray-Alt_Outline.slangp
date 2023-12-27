@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/SONY_Playstation/Playstation_Alt-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../__global/params/outline_bezel.params"
+
+HSM_FRM_COLOR_VALUE = "69.000000"

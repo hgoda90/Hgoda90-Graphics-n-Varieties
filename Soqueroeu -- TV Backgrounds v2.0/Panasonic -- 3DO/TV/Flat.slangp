@@ -1,6 +1,6 @@
 #reference "../../../../Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console/3DO-[FLAT].slangp"
-#reference "../../res/params/Panel.params"
-#reference "../../res/params/Intro.params"
+#reference "../../__global/params/panel.params"
+#reference "../../__global/params/intro.params"
 
 HSM_NON_INTEGER_SCALE = "72.200000"
 HSM_SCREEN_POSITION_Y = "55.000000"

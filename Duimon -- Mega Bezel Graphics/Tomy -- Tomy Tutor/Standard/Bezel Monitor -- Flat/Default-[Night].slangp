@@ -1,6 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Tomy_Tutor/Tutor-[STD]-[Guest]-[Bezel]-[Night].slangp"
-#reference "../../../res/params/Bezel Monitor -- Flat.params"
-#reference "../../../res/params/Night.params"
-
-HSM_FRM_NOISE = "15.000000"
-HSM_DECAL_POS_Y = "-2.100000"

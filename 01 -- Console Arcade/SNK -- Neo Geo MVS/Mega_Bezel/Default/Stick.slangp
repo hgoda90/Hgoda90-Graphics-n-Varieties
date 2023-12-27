@@ -1,0 +1,13 @@
+#reference "../../../__global/params/mbz/presets.params"
+#reference "../../../__global/params/mbz/stick/4x3.params"
+
+HSM_LED_HUE = "313.000000"
+HSM_LED_SATURATION = "100.000000"
+HSM_LED_BRIGHTNESS = "100.000000"
+HSM_LED_GAMMA = "0.450000"
+HSM_DEVICELED_HUE = "313.000000"
+HSM_DEVICELED_SATURATION = "100.000000"
+HSM_DEVICELED_BRIGHTNESS = "100.000000"
+HSM_DEVICELED_GAMMA = "0.450000"
+BackgroundImage = "../../../__global/images/mbz/stick/bgs/ngmvs.png"
+DecalImage = "../../../__global/images/decals/ngmvs.png"

@@ -1,4 +1,4 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/NEC_TurboGrafx_16/TurboGrafx16-[STD]-[Guest-Mini]-[Bezel].slangp"
-#reference "../../../res/params/Bezel Monitor -- Flat.params"
+#reference "../../../__global/params/bezel-monitor_flat.params"
 
 HSM_DECAL_POS_Y = "-2.100000"

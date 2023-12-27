@@ -1,0 +1,11 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/lights-02.params"
+#reference "../../__global/params/frame-bezel_4x3.params"
+
+HSM_TUBE_EMPTY_THICKNESS_X_SCALE = "630.000000"
+HSM_BZL_COLOR_VALUE = "13.000000"
+HSM_FRM_USE_INDEPENDENT_COLOR = "1.000000"
+HSM_FRM_COLOR_VALUE = "8.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../__global/images/CRT-TG-CD-lfan.png"

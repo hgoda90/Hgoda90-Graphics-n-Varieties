@@ -1,7 +1,0 @@
-#reference "4x3.params"
-HSM_ASPECT_RATIO_MODE = "3.000000"
-HSM_NON_INTEGER_SCALE = "70.000000"
-HSM_SCREEN_POSITION_Y = "-120.000000"
-HSM_DECAL_SOURCE_MATTE_TYPE = "1.000000"
-LCD_GAIN = "1.250000"
-DecalImage = "../../../images/global/decals/GBA.png"

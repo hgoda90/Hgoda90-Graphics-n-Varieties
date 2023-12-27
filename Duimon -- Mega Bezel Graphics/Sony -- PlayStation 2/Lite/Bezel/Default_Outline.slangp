@@ -1,0 +1,7 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/SONY_Playstation_2/Playstation2-[STD]-[Guest-Mini]-[Bezel].slangp"
+#reference "../../../__global/params/outline_bezel.params"
+
+HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
+HSM_FRM_COLOR_HUE = "214.000000"
+HSM_FRM_COLOR_SATURATION = "74.000000"
+HSM_FRM_COLOR_VALUE = "64.000000"

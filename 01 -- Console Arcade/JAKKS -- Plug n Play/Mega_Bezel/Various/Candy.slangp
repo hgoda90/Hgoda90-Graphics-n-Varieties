@@ -1,0 +1,4 @@
+#reference "../../../__global/params/mbz/presets.params"
+#reference "../../../__global/params/mbz/candy/4x3.params"
+#reference "../../../__global/params/mbz/candy/jakks/$GAME$.params"
+

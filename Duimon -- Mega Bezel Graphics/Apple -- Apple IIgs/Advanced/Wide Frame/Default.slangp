@@ -1,5 +1,5 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Apple_IIgs/Apple_IIgs-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Wide Frame.params"
+#reference "../../../__global/params/wide-frame.params"
 
 HSM_FRM_NOISE = "15.000000"
 HSM_BG_SCALE_X = "102.000000"

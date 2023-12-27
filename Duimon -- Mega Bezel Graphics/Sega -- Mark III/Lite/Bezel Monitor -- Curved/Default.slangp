@@ -1,2 +1,2 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/SEGA_Mark_III/MarkIII-[STD]-[Guest-Mini]-[Bezel].slangp"
-#reference "../../../res/params/Bezel Monitor -- Curved.params"
+#reference "../../../__global/params/bezel-monitor_curved.params"

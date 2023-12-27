@@ -1,8 +1,0 @@
-#reference "../../res/params/mbz.params"
-#reference "../../res/params/Overlay Bezel.params"
-
-HSM_ASPECT_RATIO_ORIENTATION = "1.000000"
-HSM_ASPECT_RATIO_MODE = "1.000000"
-HSM_ASPECT_RATIO_EXPLICIT = "1.504000"
-HSM_BZL_WIDTH = "285.000000"
-BackgroundImage = "../../res/images/CRT-ColecoVision-lfan.png"

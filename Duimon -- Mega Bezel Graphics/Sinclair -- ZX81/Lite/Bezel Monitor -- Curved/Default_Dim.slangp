@@ -1,0 +1,7 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Sinclair_ZX81/ZX81-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/bezel-monitor_curved.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_FRM_NOISE = "15.000000"
+HSM_BG_SCALE = "104.000000"
+HSM_BG_SCALE_X = "98.000000"

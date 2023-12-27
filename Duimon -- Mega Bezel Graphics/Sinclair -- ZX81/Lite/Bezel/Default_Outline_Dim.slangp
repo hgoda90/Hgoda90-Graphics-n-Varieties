@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Sinclair_ZX81/ZX81-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/outline_bezel.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_FRM_COLOR_VALUE = "60.000000"

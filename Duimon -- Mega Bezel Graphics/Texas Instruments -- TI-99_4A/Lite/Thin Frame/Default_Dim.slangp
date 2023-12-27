@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/TI-99_4A/TI-99_4A-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/thin-frame.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_BG_SCALE_X = "101.300000"

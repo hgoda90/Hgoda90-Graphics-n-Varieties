@@ -1,2 +1,2 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Atari_5200/5200-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Smooth Bezel.params"
+#reference "../../../__global/params/smooth-bezel.params"

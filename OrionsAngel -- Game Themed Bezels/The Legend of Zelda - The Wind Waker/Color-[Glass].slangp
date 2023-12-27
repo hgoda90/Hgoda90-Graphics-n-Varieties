@@ -1,7 +1,0 @@
-#reference "../../../OrionsAngel-Overlays/Game Themed Bezels/The Legend of Zelda - The Wind Waker/Default.slangp"
-#reference "../res/params/Glass 01.params"
-
-[BEZEL COLOR]:
-	HSM_BZL_COLOR_HUE = "105.000000"
-	HSM_BZL_COLOR_SATURATION = "73.000000"
-	HSM_BZL_COLOR_VALUE = "58.000000"

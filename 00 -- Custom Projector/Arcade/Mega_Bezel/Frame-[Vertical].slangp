@@ -1,5 +1,0 @@
-#reference "../../res/params/mbz.params"
-#reference "../../res/params/Full Frame.params"
-
-HSM_ASPECT_RATIO_ORIENTATION = "2.000000"
-HSM_DEVICELED_SCALE_X = "75.000000"

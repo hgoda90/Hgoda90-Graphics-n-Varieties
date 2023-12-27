@@ -1,0 +1,8 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/SEGA_Saturn/Saturn_Alt-[ADV]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/bezel-monitor_curved.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_FRM_NOISE = "20.000000"
+HSM_DEVICE_BRIGHTNESS = "32.000000"
+HSM_DEVICE_GAMMA = "0.440000"
+HSM_DEVICE_AMBIENT_LIGHTING_MULTIPLIER = "85.000000"

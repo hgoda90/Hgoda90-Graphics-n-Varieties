@@ -1,0 +1,11 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/frame-bezel_full.params"
+
+HSM_ASPECT_RATIO_ORIENTATION = "1.000000"
+HSM_ASPECT_RATIO_EXPLICIT = "1.622000"
+HSM_BZL_COLOR_HUE = "210.000000"
+HSM_BZL_COLOR_SATURATION = "47.000000"
+HSM_BZL_COLOR_VALUE = "91.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../__global/images/CRT-PS1-lfan.png"

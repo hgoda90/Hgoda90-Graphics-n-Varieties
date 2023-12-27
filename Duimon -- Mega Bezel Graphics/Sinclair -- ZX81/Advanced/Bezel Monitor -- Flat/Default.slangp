@@ -1,5 +1,5 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Sinclair_ZX81/ZX81-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Bezel Monitor -- Flat.params"
+#reference "../../../__global/params/bezel-monitor_flat.params"
 
 HSM_FRM_NOISE = "15.000000"
 HSM_BG_SCALE = "104.000000"

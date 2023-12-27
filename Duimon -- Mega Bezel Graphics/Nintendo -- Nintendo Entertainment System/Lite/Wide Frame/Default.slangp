@@ -1,5 +1,5 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Nintendo_NES/NES-[STD]-[Guest-Mini]-[Bezel].slangp"
-#reference "../../../res/params/Wide Frame.params"
+#reference "../../../__global/params/wide-frame.params"
 
 HSM_BG_SCALE_X = "104.000000"
 HSM_DECAL_POS_Y = "-0.200000"

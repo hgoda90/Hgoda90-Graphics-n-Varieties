@@ -1,0 +1,6 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Acorn_Archimedes/Archimedes-[STD]-[Guest]-[Bezel].slangp"
+#reference "../../../__global/params/outline_bezel.params"
+
+HSM_FRM_COLOR_HUE = "45.000000"
+HSM_FRM_COLOR_SATURATION = "5.000000"
+HSM_FRM_COLOR_VALUE = "62.000000"

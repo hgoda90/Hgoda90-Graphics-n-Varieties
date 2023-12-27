@@ -1,2 +1,2 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Thomson_MO5/MO5-[STD]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Wide Frame.params"
+#reference "../../../__global/params/wide-frame.params"

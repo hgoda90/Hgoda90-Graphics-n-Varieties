@@ -1,4 +1,4 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Philips_CD-i/CD-i-[STD]-[Guest-Mini]-[Bezel].slangp"
-#reference "../../../res/params/Bezel Monitor -- Curved.params"
+#reference "../../../__global/params/bezel-monitor_curved.params"
 
 HSM_FRM_NOISE = "20.000000"

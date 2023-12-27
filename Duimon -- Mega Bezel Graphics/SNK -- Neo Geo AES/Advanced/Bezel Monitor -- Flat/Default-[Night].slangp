@@ -1,4 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Neo_Geo_AES/NeoGeo_AES-[ADV]-[Guest]-[Bezel]-[Night].slangp"
-#reference "../../../res/params/Bezel Monitor -- Flat.params"
-
-HSM_FRM_NOISE = "20.000000"

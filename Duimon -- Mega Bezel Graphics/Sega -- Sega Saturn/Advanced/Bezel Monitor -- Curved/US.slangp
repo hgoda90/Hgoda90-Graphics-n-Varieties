@@ -1,5 +1,5 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/SEGA_Saturn/Saturn_Alt-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Bezel Monitor -- Curved.params"
+#reference "../../../__global/params/bezel-monitor_curved.params"
 
 HSM_FRM_NOISE = "20.000000"
 HSM_DEVICE_BRIGHTNESS = "32.000000"

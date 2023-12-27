@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Nintendo_Gamecube_DREZ/Gamecube-[DREZ]-[480p]-[STD]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/no-bezel.params"
+
+HSM_NON_INTEGER_SCALE = "89.969894"

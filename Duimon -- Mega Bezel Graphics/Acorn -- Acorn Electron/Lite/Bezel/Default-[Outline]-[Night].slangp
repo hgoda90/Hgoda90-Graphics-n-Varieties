@@ -1,7 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Acorn_Electron/Electron-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
-#reference "../../../res/params/Outline -- Bezel.params"
-#reference "../../../res/params/Night.params"
-
-HSM_FRM_COLOR_HUE = "45.000000"
-HSM_FRM_COLOR_SATURATION = "5.000000"
-HSM_FRM_COLOR_VALUE = "62.000000"

@@ -1,0 +1,9 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/tv-bezel.params"
+
+HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
+HSM_ASPECT_RATIO_EXPLICIT = "1.386000"
+HSM_BZL_COLOR_VALUE = "8.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../__global/images/CRT-PS2-lfan.png"

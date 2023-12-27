@@ -1,5 +1,5 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Philips_CD-i/CD-i-[STD]-[Guest-Mini]-[Bezel].slangp"
-#reference "../../../res/params/No Bezel.params"
+#reference "../../../__global/params/no-bezel.params"
 
 HSM_NON_INTEGER_SCALE = "84.769974"
 HSM_SCREEN_POSITION_Y = "20.000000"

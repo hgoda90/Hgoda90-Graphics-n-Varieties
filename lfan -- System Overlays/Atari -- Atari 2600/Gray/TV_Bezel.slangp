@@ -1,8 +1,0 @@
-#reference "../../res/params/mbz.params"
-#reference "../../res/params/TV Bezel.params"
-
-HSM_ASPECT_RATIO_EXPLICIT = "1.560000"
-HSM_BZL_COLOR_HUE = "0.000000"
-HSM_BZL_COLOR_SATURATION = "0.000000"
-HSM_BZL_COLOR_VALUE = "82.000000"
-BackgroundImage = "../../res/images/CRT-Atari-2600-lfan.png"

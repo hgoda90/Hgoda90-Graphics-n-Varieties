@@ -1,5 +1,5 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Sinclair_ZX81/ZX81-[STD]-[Guest-Mini]-[Bezel].slangp"
-#reference "../../../res/params/Bezel Monitor -- Flat.params"
+#reference "../../../__global/params/bezel-monitor_flat.params"
 
 HSM_BZL_COLOR_VALUE = "11.000000"
 HSM_BG_SCALE = "104.000000"

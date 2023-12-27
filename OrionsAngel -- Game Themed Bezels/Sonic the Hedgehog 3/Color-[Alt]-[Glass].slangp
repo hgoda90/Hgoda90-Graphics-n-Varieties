@@ -1,7 +1,0 @@
-#reference "../../../OrionsAngel-Overlays/Game Themed Bezels/Sonic the Hedgehog 3/Default-[Alt].slangp"
-#reference "../res/params/Glass 01.params"
-
-[BEZEL COLOR]:
-	HSM_BZL_COLOR_HUE = "51.000000"
-	HSM_BZL_COLOR_SATURATION = "99.000000"
-	HSM_BZL_COLOR_VALUE = "97.000000"

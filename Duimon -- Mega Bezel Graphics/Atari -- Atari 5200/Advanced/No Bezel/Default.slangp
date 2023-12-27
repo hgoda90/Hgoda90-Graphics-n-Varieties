@@ -1,5 +1,5 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Atari_5200/5200-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/No Bezel.params"
+#reference "../../../__global/params/no-bezel.params"
 
 HSM_NON_INTEGER_SCALE = "89.969894"
 HSM_SCREEN_POSITION_X = "16.000000"

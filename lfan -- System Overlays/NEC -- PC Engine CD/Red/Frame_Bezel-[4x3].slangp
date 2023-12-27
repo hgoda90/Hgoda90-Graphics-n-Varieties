@@ -1,8 +1,0 @@
-#reference "../../res/params/mbz.params"
-#reference "../../res/params/Frame Bezel -- 4x3.params"
-
-HSM_TUBE_EMPTY_THICKNESS_X_SCALE = "630.000000"
-HSM_BZL_COLOR_HUE = "350.000000"
-HSM_BZL_COLOR_SATURATION = "100.000000"
-HSM_BZL_COLOR_VALUE = "100.000000"
-BackgroundImage = "../../res/images/CRT-PCE-CD-lfan.png"

@@ -1,4 +1,4 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Atari_XEGS/Atari_XEGS-[STD]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Wide Frame.params"
+#reference "../../../__global/params/wide-frame.params"
 
 HSM_BG_SCALE_X = "103.000000"

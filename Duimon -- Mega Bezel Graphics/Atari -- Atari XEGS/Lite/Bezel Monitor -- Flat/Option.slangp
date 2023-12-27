@@ -1,5 +1,5 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Atari_XEGS/Atari_XEGS-[STD]-[Guest-Mini]-[Bezel].slangp"
-#reference "../../../res/params/Bezel Monitor -- Flat.params"
+#reference "../../../__global/params/bezel-monitor_flat.params"
 
 HSM_BZL_COLOR_HUE = "7.000000"
 HSM_BZL_COLOR_SATURATION = "27.000000"

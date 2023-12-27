@@ -1,0 +1,13 @@
+#reference "../../../__global/params/mbz/presets.params"
+#reference "../../../__global/params/mbz/stick/16x9.params"
+
+HSM_LED_HUE = "176.000000"
+HSM_LED_SATURATION = "14.000000"
+HSM_LED_BRIGHTNESS = "24.000000"
+HSM_LED_GAMMA = "0.450000"
+HSM_DEVICELED_HUE = "176.000000"
+HSM_DEVICELED_SATURATION = "14.000000"
+HSM_DEVICELED_BRIGHTNESS = "24.000000"
+HSM_DEVICELED_GAMMA = "0.450000"
+BackgroundImage = "../../../__global/images/mbz/stick/bgs/wiiu.png"
+DecalImage = "../../../__global/images/decals/wiiu.png"

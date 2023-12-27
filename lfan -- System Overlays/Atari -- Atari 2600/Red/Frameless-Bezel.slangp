@@ -1,0 +1,10 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/frameless-bezel.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.528000"
+HSM_BZL_COLOR_HUE = "355.000000"
+HSM_BZL_COLOR_SATURATION = "86.000000"
+HSM_BZL_COLOR_VALUE = "89.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../__global/images/CRT-Atari-2600-lfan.png"

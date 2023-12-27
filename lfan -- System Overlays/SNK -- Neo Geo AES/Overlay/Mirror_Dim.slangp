@@ -1,0 +1,10 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/mirror-bezel.params"
+#reference "../../__global/params/lights-02.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.508000"
+HSM_BZL_WIDTH = "490.000000"
+HSM_BZL_COLOR_VALUE = "8.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../__global/images/CRT-NEO-AES-lfan.png"

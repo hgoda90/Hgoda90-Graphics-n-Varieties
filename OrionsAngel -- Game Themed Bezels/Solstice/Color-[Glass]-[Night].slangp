@@ -1,7 +1,0 @@
-#reference "../../../OrionsAngel-Overlays/Game Themed Bezels/Solstice/Default-[Night].slangp"
-#reference "../res/params/Glass 01.params"
-
-[BEZEL COLOR]:
-	HSM_BZL_COLOR_HUE = "48.000000"
-	HSM_BZL_COLOR_SATURATION = "88.000000"
-	HSM_BZL_COLOR_VALUE = "91.000000"

@@ -1,5 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/SEGA_CD32X/SEGACD32X_Alt-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/No Bezel.params"
-
-HSM_NON_INTEGER_SCALE = "91.369873"
-HSM_REFLECT_GLOBAL_GAMMA_ADJUST = "1.300000"

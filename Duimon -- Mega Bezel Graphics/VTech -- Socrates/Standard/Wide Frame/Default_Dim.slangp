@@ -1,0 +1,6 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/VTech_Socrates/Socrates-[STD]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/wide-frame.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_FRM_NOISE = "10.000000"
+HSM_BG_SCALE_X = "101.500000"

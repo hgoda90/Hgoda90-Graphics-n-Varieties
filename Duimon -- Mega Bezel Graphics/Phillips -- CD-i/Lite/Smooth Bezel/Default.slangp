@@ -1,2 +1,2 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Philips_CD-i/CD-i-[STD]-[Guest-Mini]-[Bezel].slangp"
-#reference "../../../res/params/Smooth Bezel.params"
+#reference "../../../__global/params/smooth-bezel.params"

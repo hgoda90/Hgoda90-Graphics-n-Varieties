@@ -1,2 +1,2 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/SEGA_Dreamcast/Dreamcast-[STD]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Smooth Bezel.params"
+#reference "../../../__global/params/smooth-bezel.params"

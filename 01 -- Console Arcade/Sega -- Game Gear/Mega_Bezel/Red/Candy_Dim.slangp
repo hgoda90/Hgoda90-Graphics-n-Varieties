@@ -1,0 +1,12 @@
+#reference "../../../__global/params/mbz/presets.params"
+#reference "../../../__global/params/mbz/candy/gg.params"
+#reference "../../../__global/params/lights_01.params"
+
+HSM_DEVICE_HUE = "305.000000"
+HSM_DEVICE_SATURATION = "78.000000"
+HSM_DEVICE_BRIGHTNESS = "94.000000"
+HSM_DEVICE_GAMMA = "0.450000"
+HSM_DEVICELED_HUE = "158.000000"
+HSM_DEVICELED_SATURATION = "8.000000"
+HSM_DEVICELED_BRIGHTNESS = "10.000000"
+HSM_DEVICELED_GAMMA = "0.450000"

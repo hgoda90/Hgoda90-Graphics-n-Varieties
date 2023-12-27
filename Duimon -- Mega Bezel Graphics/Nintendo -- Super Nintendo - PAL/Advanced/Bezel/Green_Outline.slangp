@@ -1,0 +1,6 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Nintendo_Super_Famicom/Super_Famicom_Alt-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../__global/params/outline_bezel.params"
+
+HSM_FRM_COLOR_HUE = "99.000000"
+HSM_FRM_COLOR_SATURATION = "67.000000"
+HSM_FRM_COLOR_VALUE = "81.200000"

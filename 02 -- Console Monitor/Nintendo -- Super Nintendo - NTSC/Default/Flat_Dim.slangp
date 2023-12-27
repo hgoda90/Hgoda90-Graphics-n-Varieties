@@ -1,0 +1,13 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/4x3.params"
+#reference "../../__global/params/lights.params"
+
+HSM_BZL_COLOR_VALUE = "75.800000"
+HSM_DEVICE_SATURATION = "0.000000"
+HSM_DEVICE_BRIGHTNESS = "75.800000"
+HSM_DEVICE_GAMMA = "0.450000"
+HSM_DEVICELED_HUE = "205.000000"
+HSM_DEVICELED_SATURATION = "62.000000"
+HSM_DEVICELED_BRIGHTNESS = "60.000000"
+HSM_DEVICELED_GAMMA = "0.450000"
+DecalImage = "../../__global/images/decals/snes.png"

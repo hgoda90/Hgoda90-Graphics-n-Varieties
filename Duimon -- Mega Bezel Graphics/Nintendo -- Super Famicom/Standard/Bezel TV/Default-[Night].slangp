@@ -1,5 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Nintendo_Super_Famicom/Super_Famicom-[STD]-[Guest]-[Bezel]-[Night].slangp"
-#reference "../../../res/params/Bezel TV.params"
-#reference "../../../res/params/Night.params"
-
-HSM_FRM_NOISE = "20.000000"

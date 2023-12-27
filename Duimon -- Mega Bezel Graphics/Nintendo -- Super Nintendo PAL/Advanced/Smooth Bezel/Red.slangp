@@ -1,8 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Nintendo_Super_Famicom/Super_Famicom_Alt-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Smooth Bezel.params"
-
-HSM_BZL_COLOR_SATURATION = "100.000000"
-HSM_BZL_COLOR_VALUE = "100.000000"
-HSM_DECAL_SATURATION = "0.000000"
-HSM_DECAL_BRIGHTNESS = "200.000000"
-HSM_DECAL_GAMMA = "5.000000"

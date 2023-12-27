@@ -1,0 +1,27 @@
+#reference "../../../__global/params/mbz/presets.params"
+#reference "../../../__global/params/mbz/stick/3ds_big.params"
+#reference "../../../__global/params/lights_02.params"
+
+[LED LAYER]:
+	HSM_LED_HUE = "188.000000"
+	HSM_LED_SATURATION = "1.000000"
+	HSM_LED_BRIGHTNESS = "91.000000"
+	HSM_LED_GAMMA = "0.450000"
+
+[DEVICE LED IMAGE LAYER]:
+	HSM_DEVICELED_HUE = "188.000000"
+	HSM_DEVICELED_SATURATION = "1.000000"
+	HSM_DEVICELED_BRIGHTNESS = "91.000000"
+	HSM_DEVICELED_GAMMA = "0.450000"
+
+[DECAL LAYER]:
+	HSM_DECAL_SOURCE_MATTE_TYPE = "1.000000"
+
+[DECAL SCALE & FOLLOW]:
+	HSM_DECAL_SCALE = "80.000000"
+	HSM_DECAL_POS_X = "26.000000"
+	HSM_DECAL_POS_Y = "-7.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../../__global/images/mbz/stick/bgs/3ds-b_04.png"
+	DecalImage = "../../../__global/images/decals/3ds.png"

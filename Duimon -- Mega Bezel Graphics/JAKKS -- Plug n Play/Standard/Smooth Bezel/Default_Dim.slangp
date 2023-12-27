@@ -1,0 +1,3 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/JAKKS_Plug-n-Play/Jakks-[STD]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/smooth-bezel.params"
+#reference "../../../__global/params/lights.params"

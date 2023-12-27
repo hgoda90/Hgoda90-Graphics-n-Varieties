@@ -1,4 +1,4 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/NEC_PC-9801/PC-9801-[STD]-[Guest-Mini]-[Bezel].slangp"
-#reference "../../../res/params/Bezel Monitor -- Flat.params"
+#reference "../../../__global/params/bezel-monitor_flat.params"
 
 HSM_FRM_NOISE = "10.000000"

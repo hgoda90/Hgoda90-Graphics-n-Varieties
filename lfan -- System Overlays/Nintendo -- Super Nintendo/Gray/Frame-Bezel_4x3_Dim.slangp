@@ -1,0 +1,11 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/lights-02.params"
+#reference "../../__global/params/frame-bezel_4x3.params"
+
+HSM_TUBE_EMPTY_THICKNESS_X_SCALE = "670.000000"
+HSM_BZL_COLOR_HUE = "120.000000"
+HSM_BZL_COLOR_SATURATION = "1.000000"
+HSM_BZL_COLOR_VALUE = "71.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../__global/images/CRT-SNES-lfan.png"

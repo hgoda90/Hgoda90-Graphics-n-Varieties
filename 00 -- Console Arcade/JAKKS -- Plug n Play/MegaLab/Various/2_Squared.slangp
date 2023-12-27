@@ -1,5 +1,0 @@
-#reference "../../../res/params/megalab/presets.params"
-#reference "../../../res/params/megalab/2_squared/4x3.params"
-#reference "../../../res/params/megalab/2_squared/jakks/$GAME$.params"
-
-LEDImage = "../../../res/images/megalab/2_squared/stripes/jakks/$GAME$.png"

@@ -1,4 +1,4 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Panasonic_3DO/3DO-[STD]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/No Bezel.params"
+#reference "../../../__global/params/no-bezel.params"
 
 HSM_NON_INTEGER_SCALE = "91.969864"

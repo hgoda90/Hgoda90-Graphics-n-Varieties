@@ -1,4 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/VTech_Socrates/Socrates-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Outline -- Bezel.params"
-
-HSM_FRM_COLOR_VALUE = "70.000000"

@@ -1,0 +1,7 @@
+#reference "../../../OrionsAngel-Overlays/Game Themed Bezels/Wonder Boy in Monster Land/Default-[Night].slangp"
+#reference "../res/params/glass.params"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "208.000000"
+	HSM_BZL_COLOR_SATURATION = "62.000000"
+	HSM_BZL_COLOR_VALUE = "73.000000"

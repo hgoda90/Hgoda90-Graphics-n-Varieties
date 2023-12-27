@@ -1,7 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/uzebox/uzebox-[STD]-[Guest-Mini]-[Bezel].slangp"
-#reference "../../../res/params/Outline -- Bezel.params"
-
-HSM_FRM_COLOR_VALUE = "60.000000"
-HSM_BG_HUE = "235.000000"
-HSM_BG_BRIGHTNESS = "100.000000"
-HSM_BG_GAMMA = "1.000000"

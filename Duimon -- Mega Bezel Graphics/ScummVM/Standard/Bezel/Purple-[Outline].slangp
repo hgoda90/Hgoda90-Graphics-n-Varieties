@@ -1,6 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/ScummVM/ScummVM-[STD]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Outline -- Bezel.params"
-
-HSM_FRM_COLOR_HUE = "264.000000"
-HSM_FRM_COLOR_SATURATION = "37.000000"
-HSM_FRM_COLOR_VALUE = "57.000000"

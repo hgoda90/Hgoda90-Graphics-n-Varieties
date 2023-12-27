@@ -1,7 +1,0 @@
-#reference "../../../OrionsAngel-Overlays/Game Themed Bezels/Jumping Flash/Default-[Night].slangp"
-#reference "../res/params/Glass 01.params"
-
-[BEZEL COLOR]:
-	HSM_BZL_COLOR_HUE = "207.000000"
-	HSM_BZL_COLOR_SATURATION = "63.000000"
-	HSM_BZL_COLOR_VALUE = "89.000000"

@@ -1,5 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/NEC_PC-8801/PC-8801-[STD]-[Guest]-[Bezel]-[Night].slangp"
-#reference "../../../res/params/Thin Frame.params"
-#reference "../../../res/params/Night.params"
-
-HSM_FRM_NOISE = "10.000000"

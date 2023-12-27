@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Sinclair_ZX_Spectrum/ZX_Spectrum-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/wide-frame.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_DECAL_SCALE = "102.500000"

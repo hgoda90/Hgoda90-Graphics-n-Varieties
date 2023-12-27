@@ -1,0 +1,11 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/tv-bezel.params"
+#reference "../../__global/params/lights-02.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.523000"
+HSM_BZL_COLOR_HUE = "40.000000"
+HSM_BZL_COLOR_SATURATION = "18.000000"
+HSM_BZL_COLOR_VALUE = "78.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../__global/images/CRT-Intellivision-lfan.png"

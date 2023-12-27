@@ -1,4 +1,4 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/NEC_SuperGrafx/SuperGrafx-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Thin Frame.params"
+#reference "../../../__global/params/thin-frame.params"
 
 HSM_FRM_NOISE = "20.000000"

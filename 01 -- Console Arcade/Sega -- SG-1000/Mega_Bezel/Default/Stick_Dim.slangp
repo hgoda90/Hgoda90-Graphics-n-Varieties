@@ -1,0 +1,10 @@
+#reference "../../../__global/params/mbz/presets.params"
+#reference "../../../__global/params/mbz/stick/4x3.params"
+#reference "../../../__global/params/lights_02.params"
+
+HSM_LED_GAMMA = "0.800000"
+HSM_DEVICELED_GAMMA = "0.800000"
+LEDImage = "../../../__global/images/mbz/stick/ball_alt.png"
+DeviceLEDImage = "../../../__global/images/mbz/stick/ball_alt.png"
+BackgroundImage = "../../../__global/images/mbz/stick/bgs/sg1000.png"
+DecalImage = "../../../__global/images/decals/sg1000.png"

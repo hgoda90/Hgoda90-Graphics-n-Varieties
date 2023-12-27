@@ -1,7 +1,0 @@
-#reference "../../../OrionsAngel-Overlays/Game Themed Bezels/SSX Tricky/Default-[Alt]-[Night].slangp"
-#reference "../res/params/Glass 01.params"
-
-[BEZEL COLOR]:
-	HSM_BZL_COLOR_HUE = "0.000000"
-	HSM_BZL_COLOR_SATURATION = "0.000000"
-	HSM_BZL_COLOR_VALUE = "100.000000"

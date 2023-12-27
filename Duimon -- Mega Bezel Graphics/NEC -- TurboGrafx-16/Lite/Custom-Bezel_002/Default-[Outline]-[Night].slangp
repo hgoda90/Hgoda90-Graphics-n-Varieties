@@ -1,5 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/NEC_TurboGrafx_16/TurboGrafx16-[STD]-[Guest-Mini]-[Custom-Bezel_002]-[Night].slangp"
-#reference "../../../res/params/Outline -- Custom-Bezel_002.params"
-HSM_BZL_COLOR_HUE = "0.000000"
-HSM_BZL_COLOR_SATURATION = "0.000000"
-HSM_BZL_COLOR_VALUE = "10.00000"

@@ -1,9 +1,0 @@
-#reference "../../res/params/mbz.params"
-#reference "../../res/params/Frameless Bezel.params"
-
-HSM_ASPECT_RATIO_MODE = "1.000000"
-HSM_ASPECT_RATIO_EXPLICIT = "1.372000"
-HSM_BZL_COLOR_HUE = "222.000000"
-HSM_BZL_COLOR_SATURATION = "55.000000"
-HSM_BZL_COLOR_VALUE = "56.000000"
-BackgroundImage = "../../res/images/CRT-GC-lfan.png"

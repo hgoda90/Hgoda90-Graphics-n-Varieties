@@ -1,7 +1,0 @@
-#reference "../../../OrionsAngel-Overlays/Game Themed Bezels/Phantasy Star/Default-[Night].slangp"
-#reference "../res/params/Glass 01.params"
-
-[BEZEL COLOR]:
-	HSM_BZL_COLOR_HUE = "301.000000"
-	HSM_BZL_COLOR_SATURATION = "51.000000"
-	HSM_BZL_COLOR_VALUE = "58.000000"

@@ -1,5 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/SEGA_Dreamcast_DREZ/Dreamcast_Alt-[DREZ]-[1080p]-[STD]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Bezel Monitor -- Flat.params"
-
-HSM_FRM_NOISE = "15.000000"
-HSM_DECAL_POS_Y = "-2.100000"

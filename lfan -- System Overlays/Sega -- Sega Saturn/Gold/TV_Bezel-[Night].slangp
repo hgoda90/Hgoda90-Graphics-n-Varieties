@@ -1,9 +1,0 @@
-#reference "../../res/params/mbz.params"
-#reference "../../res/params/Night 02.params"
-#reference "../../res/params/TV Bezel.params"
-
-HSM_ASPECT_RATIO_EXPLICIT = "1.522000"
-HSM_BZL_COLOR_HUE = "36.000000"
-HSM_BZL_COLOR_SATURATION = "59.000000"
-HSM_BZL_COLOR_VALUE = "73.000000"
-BackgroundImage = "../../res/images/CRT-Saturn-JP-lfan.png"

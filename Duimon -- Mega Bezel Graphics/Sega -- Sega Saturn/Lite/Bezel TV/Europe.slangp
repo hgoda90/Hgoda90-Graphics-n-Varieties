@@ -1,5 +1,5 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/SEGA_Saturn/Saturn_Alt-[STD]-[Guest-Mini]-[Bezel].slangp"
-#reference "../../../res/params/Bezel TV.params"
+#reference "../../../__global/params/bezel-tv.params"
 
 HSM_BZL_COLOR_HUE = "208.000000"
 HSM_BZL_COLOR_SATURATION = "6.000000"

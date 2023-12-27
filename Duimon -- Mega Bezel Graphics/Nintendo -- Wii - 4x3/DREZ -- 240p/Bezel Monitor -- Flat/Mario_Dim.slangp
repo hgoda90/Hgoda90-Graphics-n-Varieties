@@ -1,0 +1,13 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Nintendo_Wii_DREZ/Wii_4x3-[DREZ]-[240p]-[STD]-[Guest]-[Night].slangp"
+#reference "../../../__global/params/bezel-monitor_wii.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_BZL_COLOR_HUE = "351.000000"
+HSM_BZL_COLOR_SATURATION = "100.000000"
+HSM_BZL_COLOR_VALUE = "85.000000"
+HSM_FRM_NOISE = "10.000000"
+HSM_CAB_GLASS_HUE = "0.000000"
+HSM_CAB_GLASS_SATURATION = "0.000000"
+HSM_CAB_GLASS_BRIGHTNESS = "200.000000"
+HSM_CAB_GLASS_GAMMA = "5.000000"
+HSM_CAB_GLASS_AMBIENT_LIGHTING_MULTIPLIER = "50.000000"

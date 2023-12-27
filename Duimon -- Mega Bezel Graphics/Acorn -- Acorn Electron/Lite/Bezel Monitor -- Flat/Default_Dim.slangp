@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Acorn_Electron/Electron-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/bezel-monitor_flat.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_FRM_NOISE = "15.000000"

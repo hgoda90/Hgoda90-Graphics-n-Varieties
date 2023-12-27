@@ -1,6 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Mattel_Intellivision/Intellivision-[STD]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Outline -- Bezel.params"
-
-HSM_FRM_COLOR_HUE = "47.000000"
-HSM_FRM_COLOR_SATURATION = "27.000000"
-HSM_FRM_COLOR_VALUE = "73.000000"

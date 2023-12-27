@@ -1,0 +1,6 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Atari_7800/7800-[STD]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/wide-frame.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_BG_SCALE_X = "103.300000"
+HSM_DECAL_POS_Y = "-0.200000"

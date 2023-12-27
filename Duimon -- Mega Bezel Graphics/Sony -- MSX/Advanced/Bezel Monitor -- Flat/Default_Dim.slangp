@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/MSX/MSX-[ADV]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/bezel-monitor_flat.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_DECAL_POS_Y = "-2.100000"

@@ -1,0 +1,7 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Panasonic_3DO/3DO-[STD]-[Guest-Mini]-[PVM20]-[Night].slangp"
+#reference "../../../__global/params/zoom_pvm20.params"
+
+HSM_DEVICE_HUE = "312.000000"
+HSM_DEVICE_SATURATION = "98.000000"
+HSM_DEVICE_BRIGHTNESS = "90.000000"
+DeviceImage = "../../../../../Duimon-Mega-Bezel/Graphics/PVM/PVM20_Bezel2.png"

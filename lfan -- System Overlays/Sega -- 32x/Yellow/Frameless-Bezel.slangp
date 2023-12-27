@@ -1,0 +1,10 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/frameless-bezel.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.526000"
+HSM_BZL_COLOR_HUE = "50.000000"
+HSM_BZL_COLOR_SATURATION = "93.000000"
+HSM_BZL_COLOR_VALUE = "98.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../__global/images/CRT-32X-lfan.png"

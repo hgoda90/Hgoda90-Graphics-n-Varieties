@@ -1,0 +1,12 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/SONY_Playstation_2_DREZ/Playstation2-[DREZ]-[480p]-[STD]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/wide-frame.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
+HSM_FRM_NOISE = "20.000000"
+HSM_BZL_COLOR_HUE = "0.000000"
+HSM_BZL_COLOR_SATURATION = "0.000000"
+HSM_BZL_COLOR_VALUE = "15.600000"
+HSM_FRM_NOISE = "20.000000"
+HSM_BG_SCALE_X = "110.000000"
+HSM_LED_POS_X = "0.500000"

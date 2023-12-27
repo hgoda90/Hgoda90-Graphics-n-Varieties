@@ -1,5 +1,5 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Neo_Geo_AES/NeoGeo_AES-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Wide Frame.params"
+#reference "../../../__global/params/wide-frame.params"
 
 HSM_FRM_NOISE = "20.000000"
 HSM_BG_SCALE_X = "100.700000"

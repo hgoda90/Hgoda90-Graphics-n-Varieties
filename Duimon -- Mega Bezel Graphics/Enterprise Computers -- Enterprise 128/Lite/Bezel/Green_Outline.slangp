@@ -1,0 +1,6 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Enterprise_128k/Enterprise-[STD]-[Guest-Mini]-[Bezel].slangp"
+#reference "../../../__global/params/outline_bezel.params"
+
+HSM_FRM_COLOR_HUE = "160.000000"
+HSM_FRM_COLOR_SATURATION = "70.000000"
+HSM_FRM_COLOR_VALUE = "60.000000"

@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Emerson_Arcadia_2001/Arcadia-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/wide-frame.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_BG_SCALE_X = "104.000000"

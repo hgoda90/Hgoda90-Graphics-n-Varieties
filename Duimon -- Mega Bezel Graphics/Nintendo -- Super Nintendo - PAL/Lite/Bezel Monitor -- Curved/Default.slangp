@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Nintendo_Super_Famicom/Super_Famicom_Alt-[STD]-[Guest-Mini]-[Bezel].slangp"
+#reference "../../../__global/params/bezel-monitor_curved.params"
+
+HSM_FRM_NOISE = "20.000000"

@@ -1,0 +1,4 @@
+#reference "../res/params/presets.params"
+#reference "../res/params/fullscreen.params"
+
+HSM_SCREEN_REFLECTION_SCALE = "132.000000"

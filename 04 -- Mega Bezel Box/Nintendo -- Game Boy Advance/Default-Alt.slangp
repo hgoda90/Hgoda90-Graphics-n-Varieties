@@ -1,0 +1,7 @@
+#reference "../res/params/presets.params"
+HSM_ASPECT_RATIO_MODE = "3.000000"
+HSM_SCREEN_POSITION_X = "100.000000"
+no_scanliNES = "1.000000"
+HSM_CURVATURE_MODE = "0.000000"
+HSM_BZL_COLOR_VALUE = "4.000000"
+BackgroundImage = "../res/images/bg/gba-alt.png"

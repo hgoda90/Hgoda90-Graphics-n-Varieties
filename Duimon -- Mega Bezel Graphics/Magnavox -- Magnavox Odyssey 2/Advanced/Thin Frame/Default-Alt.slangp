@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Magnavox_Odyssey_2/Odyssey2_Alt-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../__global/params/thin-frame.params"
+
+HSM_BG_SCALE_X = "101.600000"

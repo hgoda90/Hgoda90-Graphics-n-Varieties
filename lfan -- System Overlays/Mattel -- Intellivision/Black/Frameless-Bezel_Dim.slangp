@@ -1,0 +1,8 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/frameless-bezel.params"
+#reference "../../__global/params/lights-02.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.526000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../__global/images/CRT-Intellivision-lfan.png"

@@ -1,8 +1,0 @@
-#reference "../../../res/params/mbz.params"
-#reference "../../../../../Params/lfan-System-Overlays/TV Bezel.params"
-
-HSM_ASPECT_RATIO_EXPLICIT = "1.499000"
-HSM_BZL_COLOR_HUE = "257.000000"
-HSM_BZL_COLOR_SATURATION = "62.000000"
-HSM_BZL_COLOR_VALUE = "60.000000"
-BackgroundImage = "../../../../../../Duimon-Mega-Bezel\Graphics\Nintendo_SNES/SNES.png"

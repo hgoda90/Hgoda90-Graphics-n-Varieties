@@ -1,5 +1,5 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/SEGA_Saturn/Saturn_Alt-[STD]-[Guest-Mini]-[Bezel].slangp"
-#reference "../../../res/params/Wide Frame.params"
+#reference "../../../__global/params/wide-frame.params"
 
 HSM_FRM_NOISE = "20.000000"
 HSM_DEVICE_BRIGHTNESS = "32.000000"

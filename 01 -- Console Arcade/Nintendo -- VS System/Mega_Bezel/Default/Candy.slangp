@@ -1,0 +1,12 @@
+#reference "../../../__global/params/mbz/presets.params"
+#reference "../../../__global/params/mbz/candy/4x3.params"
+
+HSM_DEVICE_HUE = "152.000000"
+HSM_DEVICE_SATURATION = "56.000000"
+HSM_DEVICE_BRIGHTNESS = "84.000000"
+HSM_DEVICE_GAMMA = "0.450000"
+HSM_DEVICELED_SATURATION = "0.000000"
+HSM_DEVICELED_BRIGHTNESS = "96.000000"
+HSM_DEVICELED_GAMMA = "0.450000"
+HSM_DECAL_SOURCE_MATTE_TYPE = "1.000000"
+DecalImage = "../../../__global/images/decals/nvs.png"

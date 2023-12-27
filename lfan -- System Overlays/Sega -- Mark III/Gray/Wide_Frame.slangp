@@ -1,8 +1,0 @@
-#reference "../../res/params/mbz.params"
-#reference "../../res/params/Wide Frame.params"
-
-HSM_ASPECT_RATIO_EXPLICIT = "1.438000"
-HSM_BZL_COLOR_HUE = "216.000000"
-HSM_BZL_COLOR_SATURATION = "4.000000"
-HSM_BZL_COLOR_VALUE = "88.000000"
-BackgroundImage = "../../res/images/CRT-MarkIII-lfan.png"

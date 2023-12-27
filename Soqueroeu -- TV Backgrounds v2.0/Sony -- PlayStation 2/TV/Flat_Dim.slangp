@@ -1,0 +1,12 @@
+#reference "../../../../Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console-Night/Sony_Playstation(PS2)-[FLAT].slangp"
+#reference "../../__global/params/panel.params"
+#reference "../../__global/params/intro.params"
+
+HSM_NON_INTEGER_SCALE = "71.570000"
+HSM_SCREEN_POSITION_Y = "33.000000"
+HSM_SCANLINE_DIRECTION = "2.000000"
+HSM_BG_FOLLOW_LAYER = "1.000000"
+HSM_BG_SCALE = "129.400000"
+HSM_BG_POS_Y = "-6.300000"
+HSM_INTRO_LOGO_POS_X = "5.000000"
+HSM_INTRO_LOGO_POS_Y = "95.000000"

@@ -1,4 +1,0 @@
-#reference "../res/params/mbz.params"
-#reference "../res/params/Windows.params"
-
-BackgroundImage = "../res/images/CRT-DOSBox-Win3.x-lfan.png"

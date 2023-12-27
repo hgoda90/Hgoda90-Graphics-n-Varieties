@@ -1,5 +1,5 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Panasonic_3DO/3DO-[STD]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Wide Frame.params"
+#reference "../../../__global/params/wide-frame.params"
 
 HSM_BG_SCALE_X = "104.500000"
 HSM_DECAL_POS_Y = "-0.200000"

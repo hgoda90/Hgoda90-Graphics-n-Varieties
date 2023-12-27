@@ -1,4 +1,4 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/JAKKS_Plug-n-Play/Jakks-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Bezel TV.params"
+#reference "../../../__global/params/bezel-tv.params"
 
 HSM_FRM_NOISE = "15.000000"

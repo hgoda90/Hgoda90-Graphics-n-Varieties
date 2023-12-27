@@ -1,5 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/SEGA_CD/SEGACD-[ADV]-[Guest]-[Bezel]-[Night].slangp"
-#reference "../../../res/params/No Bezel.params"
-
-HSM_NON_INTEGER_SCALE = "91.369873"
-HSM_REFLECT_GLOBAL_GAMMA_ADJUST = "1.300000"

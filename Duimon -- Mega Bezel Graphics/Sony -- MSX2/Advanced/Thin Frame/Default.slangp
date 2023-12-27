@@ -1,4 +1,4 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/MSX2/MSX2-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Thin Frame.params"
+#reference "../../../__global/params/thin-frame.params"
 
 HSM_DECAL_SCALE = "102.500000"

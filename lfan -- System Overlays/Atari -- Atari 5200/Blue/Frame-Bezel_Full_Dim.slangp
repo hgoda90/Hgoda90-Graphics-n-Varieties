@@ -1,0 +1,11 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/lights-02.params"
+#reference "../../__global/params/frame-bezel_full.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.642000"
+HSM_BZL_COLOR_HUE = "223.000000"
+HSM_BZL_COLOR_SATURATION = "58.000000"
+HSM_BZL_COLOR_VALUE = "90.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../__global/images/CRT-Atari-5200-lfan.png"

@@ -1,5 +1,5 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/VTech_Socrates/Socrates-[STD]-[Guest-Mini]-[Bezel].slangp"
-#reference "../../../res/params/Smooth Bezel.params"
+#reference "../../../__global/params/smooth-bezel.params"
 
 HSM_BZL_COLOR_HUE = "214.000000"
 HSM_BZL_COLOR_SATURATION = "57.000000"

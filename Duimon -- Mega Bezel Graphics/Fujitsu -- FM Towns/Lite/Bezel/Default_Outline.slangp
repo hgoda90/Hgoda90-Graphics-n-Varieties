@@ -1,0 +1,6 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/FM-Towns/FM-Towns-[STD]-[Guest-Mini]-[Bezel].slangp"
+#reference "../../../__global/params/outline_bezel.params"
+
+HSM_FRM_COLOR_HUE = "222.000000"
+HSM_FRM_COLOR_SATURATION = "13.000000"
+HSM_FRM_COLOR_VALUE = "31.000000"

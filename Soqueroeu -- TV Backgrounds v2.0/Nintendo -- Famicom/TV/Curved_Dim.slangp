@@ -1,0 +1,10 @@
+#reference "../../../../Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console-Night/Nintendo_Famicom.slangp"
+#reference "../../__global/params/panel.params"
+#reference "../../__global/params/intro_channel-jp.params"
+
+HSM_NON_INTEGER_SCALE = "66.770000"
+HSM_SCREEN_POSITION_Y = "60.000000"
+HSM_BG_FOLLOW_LAYER = "1.000000"
+HSM_BG_SCALE = "139.000000"
+HSM_BG_POS_Y = "-13.150000"
+LEDImage = "../../__global/images/LED.png"

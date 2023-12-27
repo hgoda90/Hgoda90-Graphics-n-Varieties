@@ -1,0 +1,8 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/SONY_Playstation_2/Playstation2-[ADV]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/outline_bezel.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
+HSM_FRM_COLOR_HUE = "0.000000"
+HSM_FRM_COLOR_SATURATION = "0.000000"
+HSM_FRM_COLOR_VALUE = "15.600000"

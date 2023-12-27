@@ -1,7 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Apple_IIgs/Apple_IIgs-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Outline -- Bezel.params"
-
-HSM_FRM_COLOR_HUE = "41.000000"
-HSM_FRM_COLOR_SATURATION = "19.000000"
-HSM_FRM_COLOR_VALUE = "60.000000"
-HSM_DECAL_OPACITY = "0.000000"

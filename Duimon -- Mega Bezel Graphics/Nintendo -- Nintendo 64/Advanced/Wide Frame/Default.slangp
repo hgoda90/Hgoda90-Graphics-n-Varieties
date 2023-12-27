@@ -1,5 +1,5 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Nintendo_N64/N64-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Wide Frame.params"
+#reference "../../../__global/params/wide-frame.params"
 
 HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
 HSM_FRM_NOISE = "20.000000"

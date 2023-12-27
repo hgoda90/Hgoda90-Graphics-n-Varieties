@@ -1,0 +1,9 @@
+#reference "../../../../Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console-Night/Nintendo_Wii_4x3-[FLAT].slangp"
+#reference "../../__global/params/panel.params"
+#reference "../../__global/params/intro.params"
+
+HSM_NON_INTEGER_SCALE = "80.570000"
+HSM_SCREEN_POSITION_Y = "-13.000000"
+HSM_BG_FOLLOW_LAYER = "1.000000"
+HSM_BG_SCALE = "129.000000"
+HSM_BG_POS_Y = "-8.800000"

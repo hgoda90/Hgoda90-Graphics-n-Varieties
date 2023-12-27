@@ -1,2 +1,2 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Nintendo_NES/NES-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Bezel TV.params"
+#reference "../../../__global/params/bezel-tv.params"

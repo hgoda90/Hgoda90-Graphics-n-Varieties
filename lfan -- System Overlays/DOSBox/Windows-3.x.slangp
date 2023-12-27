@@ -1,0 +1,6 @@
+#reference "../res/params/presets.params"
+#reference "../res/params/Windows.params"
+
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../res/images/CRT-DOSBox-Win3.x-lfan.png"

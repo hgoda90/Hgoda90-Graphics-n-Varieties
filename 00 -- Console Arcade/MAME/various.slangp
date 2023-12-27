@@ -1,2 +1,0 @@
-#reference "params/base.params"
-#reference "params/$GAME$.params"

@@ -1,0 +1,10 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/tv-bezel-2.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.334000"
+HSM_BZL_COLOR_HUE = "216.000000"
+HSM_BZL_COLOR_SATURATION = "4.000000"
+HSM_BZL_COLOR_VALUE = "88.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../__global/images/CRT-MarkIII-lfan.png"

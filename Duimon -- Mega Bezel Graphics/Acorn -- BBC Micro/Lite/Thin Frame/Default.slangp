@@ -1,4 +1,4 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/BBC_Micro/Micro-[STD]-[Guest-Mini]-[Bezel].slangp"
-#reference "../../../res/params/Thin Frame.params"
+#reference "../../../__global/params/thin-frame.params"
 
 HSM_FRM_NOISE = "10.000000"

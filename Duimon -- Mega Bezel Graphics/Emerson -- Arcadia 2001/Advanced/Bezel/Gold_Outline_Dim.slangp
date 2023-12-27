@@ -1,0 +1,7 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Emerson_Arcadia_2001/Arcadia-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../__global/params/outline_bezel.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_FRM_COLOR_HUE = "46.000000"
+HSM_FRM_COLOR_SATURATION = "23.000000"
+HSM_FRM_COLOR_VALUE = "65.000000"

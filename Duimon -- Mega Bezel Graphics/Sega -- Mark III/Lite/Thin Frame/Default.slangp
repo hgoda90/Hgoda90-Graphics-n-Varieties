@@ -1,5 +1,5 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/SEGA_Mark_III/MarkIII-[STD]-[Guest-Mini]-[Bezel].slangp"
-#reference "../../../res/params/Thin Frame.params"
+#reference "../../../__global/params/thin-frame.params"
 
 HSM_FRM_NOISE = "10.000000"
 HSM_BG_SCALE_X = "102.600000"

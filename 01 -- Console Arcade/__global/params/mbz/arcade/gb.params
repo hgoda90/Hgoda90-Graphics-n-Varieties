@@ -1,0 +1,25 @@
+#reference "4x3.params"
+
+---------------------------------------------------------------------
+
+HSM_ASPECT_RATIO_MODE = "1.000000"
+HSM_ASPECT_RATIO_EXPLICIT = "1.109000"
+HSM_SCREEN_POSITION_Y = "86.000000"
+HSM_MONOCHROME_MODE = "3.000000"
+HSM_MONOCHROME_BRIGHTNESS = "68.000000"
+HSM_MONOCHROME_HUE_OFFSET = "-40.000000"
+HSM_MONOCHROME_SATURATION = "97.000000"
+HSM_DEVICE_FOLLOW_LAYER = "1.000000"
+HSM_DEVICE_SCALE = "122.600000"
+HSM_DEVICE_SCALE_X = "64.600000"
+HSM_DEVICE_POS_Y = "-12.800000"
+HSM_DEVICELED_SCALE_X = "138.000000"
+HSM_TOP_SCALE_X = "99.200000"
+
+---------------------------------------------------------------------
+
+shadowMask = "7.000000"
+
+---------------------------------------------------------------------
+
+DecalImage = "../../../images/decals/gb.png"

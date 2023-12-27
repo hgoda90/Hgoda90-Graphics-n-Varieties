@@ -1,0 +1,6 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Nintendo_NES/NES_Alt-[STD]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/smooth-bezel.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_BZL_COLOR_SATURATION = "0.000000"
+HSM_BZL_COLOR_VALUE = "75.800000"

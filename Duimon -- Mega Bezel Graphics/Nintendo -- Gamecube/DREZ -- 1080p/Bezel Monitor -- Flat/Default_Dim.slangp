@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Nintendo_Gamecube_DREZ/Gamecube-[DREZ]-[1080p]-[STD]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/bezel-monitor_flat.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_DECAL_POS_Y = "-2.100000"

@@ -1,0 +1,11 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/wide-frame.params"
+#reference "../../__global/params/lights-02.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.348000"
+HSM_BZL_COLOR_HUE = "210.000000"
+HSM_BZL_COLOR_SATURATION = "100.000000"
+HSM_BZL_COLOR_VALUE = "60.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../__global/images/CRT-NEO-MVS-Blue-lfan.png"

@@ -1,0 +1,3 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/SEGA_Dreamcast_DREZ/Dreamcast-[DREZ]-[480p]-[STD]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/smooth-bezel.params"
+#reference "../../../__global/params/lights.params"

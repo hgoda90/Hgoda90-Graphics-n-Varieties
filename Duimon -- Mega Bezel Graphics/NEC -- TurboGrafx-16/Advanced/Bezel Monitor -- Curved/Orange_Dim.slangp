@@ -1,0 +1,11 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/NEC_TurboGrafx_16/TurboGrafx16-[ADV]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/bezel-monitor_curved.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_BZL_COLOR_HUE = "31.000000"
+HSM_BZL_COLOR_SATURATION = "100.000000"
+HSM_BZL_COLOR_VALUE = "97.000000"
+HSM_FRM_NOISE = "15.000000"
+HSM_DECAL_SATURATION = "0.000000"
+HSM_DECAL_BRIGHTNESS = "200.000000"
+HSM_DECAL_GAMMA = "5.000000"

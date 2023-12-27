@@ -1,7 +1,10 @@
-#reference "../../res/params/mbz.params"
-#reference "../../res/params/Overlay Bezel.params"
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/overlay-bezel.params"
 
-HSM_ASPECT_RATIO_MODE = "1.000000"
-HSM_ASPECT_RATIO_EXPLICIT = "1.502000"
+[ASPECT RATIO]:
+	HSM_ASPECT_RATIO_MODE = "1.000000"
+	HSM_ASPECT_RATIO_EXPLICIT = "1.502000"
 HSM_BZL_WIDTH = "300.000000"
-BackgroundImage = "../../res/images/CRT-PCE-lfan.png"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../__global/images/CRT-PCE-lfan.png"

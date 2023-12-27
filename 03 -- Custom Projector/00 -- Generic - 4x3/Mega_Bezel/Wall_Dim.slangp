@@ -1,0 +1,3 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/lights.params"
+#reference "../../__global/params/full_wall.params"

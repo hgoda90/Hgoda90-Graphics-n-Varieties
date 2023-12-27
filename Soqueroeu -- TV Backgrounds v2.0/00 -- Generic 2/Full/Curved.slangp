@@ -1,5 +1,0 @@
-#reference "../../../../Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console/00_Generic_02.slangp"
-#reference "../../res/params/Panel.params"
-#reference "../../res/params/Intro_Channel.params"
-
-LEDImage = "../../res/images/LED.png"

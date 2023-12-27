@@ -1,0 +1,11 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/lfan-bezel.params"
+#reference "../../__global/params/lights-01.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.467300"
+HSM_BZL_COLOR_HUE = "0.000000"
+HSM_BZL_COLOR_SATURATION = "0.000000"
+HSM_BZL_COLOR_VALUE = "82.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../__global/images/CRT-Atari-7800-lfan.png"

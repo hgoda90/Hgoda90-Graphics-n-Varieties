@@ -1,0 +1,10 @@
+#reference "../../../../Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console-Night/NEC_PCEngine-CD_V2-[FLAT].slangp"
+#reference "../../__global/params/panel.params"
+#reference "../../__global/params/intro.params"
+
+HSM_NON_INTEGER_SCALE = "69.170000"
+HSM_SCREEN_POSITION_Y = "55.000000"
+HSM_BG_FOLLOW_LAYER = "1.000000"
+HSM_BG_SCALE = "132.800000"
+HSM_BG_POS_Y = "-11.600000"
+

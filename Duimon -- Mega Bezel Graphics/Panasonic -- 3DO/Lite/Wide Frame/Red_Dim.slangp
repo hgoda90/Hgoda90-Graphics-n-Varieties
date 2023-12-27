@@ -1,0 +1,9 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Panasonic_3DO/3DO-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/wide-frame.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_BZL_COLOR_HUE = "358.000000"
+HSM_BZL_COLOR_SATURATION = "89.000000"
+HSM_BZL_COLOR_VALUE = "92.600000"
+HSM_FRM_NOISE = "20.000000"
+HSM_BG_SCALE_X = "104.500000"

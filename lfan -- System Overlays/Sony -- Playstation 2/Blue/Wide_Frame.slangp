@@ -1,9 +1,0 @@
-#reference "../../res/params/mbz.params"
-#reference "../../res/params/Wide Frame.params"
-
-HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
-HSM_ASPECT_RATIO_EXPLICIT = "1.348000"
-HSM_BZL_COLOR_HUE = "201.000000"
-HSM_BZL_COLOR_SATURATION = "74.000000"
-HSM_BZL_COLOR_VALUE = "65.000000"
-BackgroundImage = "../../res/images/CRT-PS2-lfan.png"

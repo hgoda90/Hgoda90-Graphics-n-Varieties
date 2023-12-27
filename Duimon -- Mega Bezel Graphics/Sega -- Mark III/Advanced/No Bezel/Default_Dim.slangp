@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/SEGA_Mark_III/MarkIII-[ADV]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/no-bezel.params"
+
+HSM_NON_INTEGER_SCALE = "91.369873"

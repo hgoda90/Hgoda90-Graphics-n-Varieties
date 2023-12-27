@@ -1,5 +1,0 @@
-#reference "../../res/params/mbz.params"
-#reference "../../res/params/TV Bezel.params"
-
-HSM_ASPECT_RATIO_EXPLICIT = "1.523000"
-BackgroundImage = "../../res/images/CRT-Intellivision-lfan.png"

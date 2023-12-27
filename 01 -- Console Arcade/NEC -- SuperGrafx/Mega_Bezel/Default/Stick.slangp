@@ -1,0 +1,28 @@
+#reference "../../../__global/params/mbz/presets.params"
+#reference "../../../__global/params/mbz/stick/4x3.params"
+
+[LED LAYER]:
+	HSM_LED_SOURCE_MATTE_TYPE = "1.000000"
+	HSM_LED_HUE = "172.000000"
+	HSM_LED_SATURATION = "100.000000"
+	HSM_LED_BRIGHTNESS = "100.000000"
+
+[DEVICE LED IMAGE LAYER]:
+	HSM_DEVICELED_SOURCE_MATTE_TYPE = "1.000000"
+	HSM_DEVICELED_HUE = "172.000000"
+	HSM_DEVICELED_SATURATION = "100.000000"
+	HSM_DEVICELED_BRIGHTNESS = "100.000000"
+
+[DECAL LAYER]:
+	HSM_DECAL_SOURCE_MATTE_TYPE = "2.000000"
+
+[DECAL SCALE & FOLLOW]:
+	HSM_DECAL_SCALE = "100.000000"
+	HSM_DECAL_POS_X = "0.000000"
+	HSM_DECAL_POS_Y = "0.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../../__global/images/mbz/stick/bgs/sg.png"
+	LEDImage = "../../../__global/images/mbz/stick/ball_01.png"
+	DeviceLEDImage = "../../../__global/images/mbz/stick/ball_01.png"
+	DecalImage = "../../../__global/images/decals/sg.png"

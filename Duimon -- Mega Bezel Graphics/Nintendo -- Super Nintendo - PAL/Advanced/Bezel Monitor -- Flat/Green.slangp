@@ -1,0 +1,11 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Nintendo_Super_Famicom/Super_Famicom_Alt-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../__global/params/bezel-monitor_flat.params"
+
+HSM_BZL_COLOR_HUE = "99.000000"
+HSM_BZL_COLOR_SATURATION = "67.000000"
+HSM_BZL_COLOR_VALUE = "81.200000"
+HSM_FRM_NOISE = "15.000000"
+HSM_DECAL_SATURATION = "0.000000"
+HSM_DECAL_BRIGHTNESS = "200.000000"
+HSM_DECAL_GAMMA = "5.000000"
+HSM_DECAL_POS_Y = "-2.100000"

@@ -1,9 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Emerson_Arcadia_2001/Arcadia-[STD]-[Guest-Mini]-[PVM20]-[Night].slangp"
-#reference "../../../res/params/Zoom -- PVM20.params"
-
-HSM_DEVICE_COLORIZE_ON = "0.000000"
-HSM_DEVICE_HUE = "357.000000"
-HSM_DEVICE_SATURATION = "23.000000"
-HSM_DEVICE_BRIGHTNESS = "65.000000"
-HSM_DEVICE_GAMMA = "0.500000"
-DeviceImage = "../../../../../Duimon-Mega-Bezel/Graphics/PVM/PVM20_Bezel2.png"

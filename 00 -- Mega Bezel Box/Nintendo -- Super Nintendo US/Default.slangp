@@ -1,6 +1,0 @@
-#reference "../res/params/mbz.params"
-HSM_NON_INTEGER_SCALE = "87.170000"
-HSM_SCREEN_POSITION_X = "-34.000000"
-HSM_FRM_OPACITY = "0.000000"
-BackgroundImage = "../res/images/Background/SNES.png"
-TopLayerImage = "../res/images/Tops/SNES.png"

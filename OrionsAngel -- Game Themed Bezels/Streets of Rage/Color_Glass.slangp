@@ -1,0 +1,7 @@
+#reference "../../../OrionsAngel-Overlays/Game Themed Bezels/Streets of Rage/Default.slangp"
+#reference "../res/params/glass.params"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "50.000000"
+	HSM_BZL_COLOR_SATURATION = "50.000000"
+	HSM_BZL_COLOR_VALUE = "100.000000"

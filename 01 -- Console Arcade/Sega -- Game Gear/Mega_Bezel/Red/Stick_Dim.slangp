@@ -1,0 +1,10 @@
+#reference "../../../__global/params/mbz/presets.params"
+#reference "../../../__global/params/mbz/stick/gg.params"
+#reference "../../../__global/params/lights_02.params"
+
+HSM_BZL_COLOR_HUE = "357.000000"
+HSM_BZL_COLOR_SATURATION = "78.000000"
+HSM_BZL_COLOR_VALUE = "94.000000"
+BackgroundImage = "../../../__global/images/mbz/stick/bgs/gg_02.png"
+LEDImage = "../../../__global/images/mbz/stick/ball_alt.png"
+DeviceLEDImage = "../../../__global/images/mbz/stick/ball_alt.png"

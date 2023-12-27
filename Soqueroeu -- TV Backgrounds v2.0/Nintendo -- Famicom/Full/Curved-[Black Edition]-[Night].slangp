@@ -1,5 +1,0 @@
-#reference "../../../../Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console-Night/Nintendo_Famicom_Black_Edition.slangp"
-#reference "../../res/params/Panel.params"
-#reference "../../res/params/Intro_Channel_JP.params"
-
-LEDImage = "../../res/images/LED.png"

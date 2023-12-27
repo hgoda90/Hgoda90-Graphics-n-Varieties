@@ -1,0 +1,5 @@
+#reference "../../../__global/params/mbz/presets.params"
+#reference "../../../__global/params/mbz/square/4x3.params"
+#reference "../../../__global/params/mbz/square/jakks/$GAME$.params"
+#reference "../../../__global/params/lights_02.params"
+

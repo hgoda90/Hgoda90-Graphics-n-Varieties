@@ -1,5 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/SONY_Playstation/Playstation_Alt-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Bezel Monitor -- Flat.params"
-
-HSM_FRM_NOISE = "20.000000"
-HSM_DECAL_POS_Y = "-2.100000"

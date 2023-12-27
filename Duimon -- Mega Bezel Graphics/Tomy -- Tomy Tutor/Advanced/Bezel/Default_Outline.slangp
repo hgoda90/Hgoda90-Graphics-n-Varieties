@@ -1,0 +1,6 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Tomy_Tutor/Tutor-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../__global/params/outline_bezel.params"
+
+HSM_FRM_COLOR_HUE = "48.000000"
+HSM_FRM_COLOR_SATURATION = "14.000000"
+HSM_FRM_COLOR_VALUE = "80.000000"

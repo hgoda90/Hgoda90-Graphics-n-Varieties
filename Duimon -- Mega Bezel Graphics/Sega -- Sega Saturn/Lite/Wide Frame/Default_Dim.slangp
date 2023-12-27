@@ -1,0 +1,7 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/SEGA_Saturn/Saturn-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/wide-frame.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_FRM_NOISE = "20.000000"
+HSM_BG_SCALE_X = "103.000000"
+HSM_DECAL_POS_Y = "-0.200000"

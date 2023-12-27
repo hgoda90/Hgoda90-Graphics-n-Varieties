@@ -1,0 +1,6 @@
+#reference "../../../__global/params/megalab/presets.params"
+#reference "../../../__global/params/megalab/2_squared/4x3.params"
+#reference "../../../__global/params/megalab/2_squared/jakks/$GAME$.params"
+#reference "../../../__global/params/lights_02.params"
+
+LEDImage = "../../../__global/images/megalab/2_squared/stripes/jakks/$GAME$.png"

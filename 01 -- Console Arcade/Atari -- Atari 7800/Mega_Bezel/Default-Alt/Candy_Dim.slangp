@@ -1,0 +1,26 @@
+#reference "../../../__global/params/mbz/presets.params"
+#reference "../../../__global/params/mbz/candy/4x3.params"
+#reference "../../../__global/params/lights_01.params"
+
+[DEVICE IMAGE LAYER]:
+	HSM_DEVICE_HUE = "228.000000"
+	HSM_DEVICE_SATURATION = "2.000000"
+	HSM_DEVICE_BRIGHTNESS = "58.000000"
+	HSM_DEVICE_GAMMA = "0.450000"
+
+[DEVICE LED IMAGE LAYER]:
+	HSM_DEVICELED_HUE = "305.000000"
+	HSM_DEVICELED_SATURATION = "79.000000"
+	HSM_DEVICELED_BRIGHTNESS = "60.000000"
+	HSM_DEVICELED_GAMMA = "0.450000"
+
+[DECAL LAYER]:
+	HSM_DECAL_SOURCE_MATTE_TYPE = "2.000000"
+
+[DECAL SCALE & FOLLOW]:
+	HSM_DECAL_SCALE = "86.000000"
+	HSM_DECAL_POS_X = "0.000000"
+	HSM_DECAL_POS_Y = "82.000000"
+
+[MEGA BEZEL IMAGES]:
+	DecalImage = "../../../__global/images/decals/a78-alt.png"

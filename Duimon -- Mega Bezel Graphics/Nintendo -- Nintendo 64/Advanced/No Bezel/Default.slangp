@@ -1,4 +1,4 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Nintendo_N64/N64-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/No Bezel.params"
+#reference "../../../__global/params/no-bezel.params"
 
 HSM_NON_INTEGER_SCALE = "92.169861"

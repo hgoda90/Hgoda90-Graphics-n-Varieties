@@ -1,8 +1,0 @@
-#reference "../../res/params/mbz.params"
-#reference "../../res/params/TV Bezel.params"
-
-HSM_ASPECT_RATIO_EXPLICIT = "1.386000"
-HSM_BZL_COLOR_HUE = "210.000000"
-HSM_BZL_COLOR_SATURATION = "1.000000"
-HSM_BZL_COLOR_VALUE = "77.000000"
-BackgroundImage = "../../res/images/CRT-GC-lfan.png"

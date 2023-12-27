@@ -1,8 +1,0 @@
-#reference "../../res/params/mbz.params"
-#reference "../../res/params/lfan Bezel.params"
-
-HSM_ASPECT_RATIO_EXPLICIT = "1.465300"
-HSM_BZL_COLOR_HUE = "40.000000"
-HSM_BZL_COLOR_SATURATION = "18.000000"
-HSM_BZL_COLOR_VALUE = "78.000000"
-BackgroundImage = "../../res/images/CRT-Intellivision-lfan.png"

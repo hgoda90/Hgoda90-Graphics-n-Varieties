@@ -1,0 +1,12 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/overlay-bezel.params"
+#reference "../../__global/params/overlay-bezel_lights.params"
+
+HSM_ASPECT_RATIO_ORIENTATION = "1.000000"
+[ASPECT RATIO]:
+	HSM_ASPECT_RATIO_MODE = "1.000000"
+	HSM_ASPECT_RATIO_EXPLICIT = "1.560000"
+HSM_BZL_WIDTH = "225.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../__global/images/CRT-PS1-lfan.png"

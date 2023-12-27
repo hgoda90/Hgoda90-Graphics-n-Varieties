@@ -1,0 +1,7 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/SEGA_CD/SEGACD_Alt-[STD]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/outline_bezel.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_FRM_COLOR_HUE = "357.000000"
+HSM_FRM_COLOR_SATURATION = "80.000000"
+HSM_FRM_COLOR_VALUE = "30.000000"

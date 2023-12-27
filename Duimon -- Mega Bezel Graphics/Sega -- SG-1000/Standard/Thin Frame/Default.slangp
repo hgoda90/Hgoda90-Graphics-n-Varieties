@@ -1,5 +1,5 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/SEGA_SG-1000/SG-1000-[STD]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Thin Frame.params"
+#reference "../../../__global/params/thin-frame.params"
 
 HSM_BG_SCALE_X = "103.000000"
 HSM_DECAL_SCALE = "102.500000"

@@ -1,0 +1,15 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/mirror-bezel.params"
+#reference "../../__global/params/lights-02.params"
+
+[ASPECT RATIO]:
+	HSM_ASPECT_RATIO_MODE = "1.000000"
+	HSM_ASPECT_RATIO_EXPLICIT = "1.526000"
+HSM_BZL_WIDTH = "545.000000"
+HSM_BZL_COLOR_HUE = "120.000000"
+HSM_BZL_COLOR_SATURATION = "1.000000"
+HSM_BZL_COLOR_VALUE = "71.000000"
+HSM_REFLECT_CORNER_ROTATION_OFFSET_BOTTOM = "-2.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../__global/images/CRT-Intellivision-lfan.png"

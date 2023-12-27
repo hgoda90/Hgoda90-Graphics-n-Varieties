@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/SONY_Playstation_2/Playstation2-[STD]-[Guest]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/no-bezel.params"
+
+HSM_NON_INTEGER_SCALE = "88.769913"
+HSM_SCREEN_POSITION_X = "-12.000000"

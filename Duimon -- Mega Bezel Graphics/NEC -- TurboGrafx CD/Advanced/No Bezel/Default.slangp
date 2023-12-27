@@ -1,4 +1,4 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/NEC_TurboGrafx_CD/TurboGrafx_CD-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/No Bezel.params"
+#reference "../../../__global/params/no-bezel.params"
 
 HSM_NON_INTEGER_SCALE = "87.569931"

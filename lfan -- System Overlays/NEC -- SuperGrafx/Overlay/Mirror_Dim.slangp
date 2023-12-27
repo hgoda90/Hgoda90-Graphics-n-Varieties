@@ -1,0 +1,11 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/mirror-bezel.params"
+#reference "../../__global/params/lights-02.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.448000"
+HSM_BZL_WIDTH = "555.000000"
+HSM_BZL_COLOR_VALUE = "36.000000"
+HSM_REFLECT_CORNER_ROTATION_OFFSET_BOTTOM = "-6.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../__global/images/CRT-SGFX-lfan.png"

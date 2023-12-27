@@ -1,8 +1,0 @@
-#reference "../../res/params/mbz.params"
-#reference "../../res/params/lfan Bezel.params"
-
-HSM_ASPECT_RATIO_MODE = "2.000000"
-HSM_BZL_COLOR_HUE = "20.000000"
-HSM_BZL_COLOR_SATURATION = "100.000000"
-HSM_BZL_COLOR_VALUE = "94.000000"
-BackgroundImage = "../../res/images/CRT-Naomi-H-lfan.png"

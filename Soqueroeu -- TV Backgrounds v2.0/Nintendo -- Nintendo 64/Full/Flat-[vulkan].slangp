@@ -1,4 +1,0 @@
-#reference "../../../../Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console/Nintendo_N64-[FLAT].slangp"
-#reference "../../res/params/Panel.params"
-
-HSM_FLIP_VIEWPORT_VERTICAL = "0.000000"

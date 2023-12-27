@@ -1,0 +1,10 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/frame-bezel_4x3.params"
+
+HSM_TUBE_EMPTY_THICKNESS_X_SCALE = "860.000000"
+HSM_BZL_COLOR_HUE = "355.000000"
+HSM_BZL_COLOR_SATURATION = "86.000000"
+HSM_BZL_COLOR_VALUE = "89.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../__global/images/CRT-Atari-2600-lfan.png"

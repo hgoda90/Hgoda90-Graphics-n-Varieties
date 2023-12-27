@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/SEGA_Dreamcast/Dreamcast_Alt-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/bezel-tv.params"
+#reference "../../../__global/params/lights.params"
+
+HSM_FRM_NOISE = "15.000000"

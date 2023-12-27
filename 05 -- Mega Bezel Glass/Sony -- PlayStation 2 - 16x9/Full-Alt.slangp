@@ -1,0 +1,4 @@
+#reference "../res/params/presets.params"
+#reference "../res/params/widescreen-alt.params"
+
+HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"

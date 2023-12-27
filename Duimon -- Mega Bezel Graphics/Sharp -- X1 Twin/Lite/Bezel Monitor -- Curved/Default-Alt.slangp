@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Sharp_X1/X1_Alt-[STD]-[Guest-Mini]-[Bezel].slangp"
+#reference "../../../__global/params/bezel-monitor_curved.params"
+
+HSM_FRM_NOISE = "15.000000"

@@ -1,0 +1,6 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/SEGA_32X/SEGA32X_Alt-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../__global/params/outline_bezel.params"
+
+HSM_FRM_COLOR_HUE = "357.000000"
+HSM_FRM_COLOR_SATURATION = "80.000000"
+HSM_FRM_COLOR_VALUE = "30.000000"

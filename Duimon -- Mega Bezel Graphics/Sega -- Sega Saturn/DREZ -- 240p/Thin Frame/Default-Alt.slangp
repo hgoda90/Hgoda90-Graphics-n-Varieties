@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/SEGA_Saturn/Saturn_Alt-[DREZ]-[240p]-[STD]-[Guest]-[Bezel].slangp"
+#reference "../../../__global/params/thin-frame.params"
+
+HSM_FRM_NOISE = "10.000000"

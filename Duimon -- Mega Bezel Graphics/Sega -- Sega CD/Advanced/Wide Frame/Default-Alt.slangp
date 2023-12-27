@@ -1,0 +1,5 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/SEGA_CD/SEGACD_Alt-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../__global/params/wide-frame.params"
+
+HSM_BG_SCALE_X = "104.000000"
+HSM_DECAL_POS_Y = "-0.200000"

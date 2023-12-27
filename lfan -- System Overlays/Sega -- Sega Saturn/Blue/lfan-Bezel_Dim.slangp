@@ -1,0 +1,11 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/lfan-bezel.params"
+#reference "../../__global/params/lights-01.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.465300"
+HSM_BZL_COLOR_HUE = "220.000000"
+HSM_BZL_COLOR_SATURATION = "61.000000"
+HSM_BZL_COLOR_VALUE = "70.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../__global/images/CRT-Saturn-lfan.png"

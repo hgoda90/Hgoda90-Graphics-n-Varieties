@@ -1,5 +1,5 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Panasonic_3DO/3DO-[STD]-[Guest-Mini]-[Bezel].slangp"
-#reference "../../../res/params/Bezel TV.params"
+#reference "../../../__global/params/bezel-tv.params"
 
 HSM_BZL_COLOR_HUE = "138.000000"
 HSM_BZL_COLOR_SATURATION = "80.000000"

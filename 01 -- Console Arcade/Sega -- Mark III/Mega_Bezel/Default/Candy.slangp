@@ -1,0 +1,11 @@
+#reference "../../../__global/params/mbz/presets.params"
+#reference "../../../__global/params/mbz/candy/4x3.params"
+
+HSM_DEVICE_SATURATION = "6.000000"
+HSM_DEVICE_BRIGHTNESS = "95.000000"
+HSM_DEVICE_GAMMA = "0.450000"
+HSM_DEVICELED_HUE = "140.000000"
+HSM_DEVICELED_SATURATION = "16.000000"
+HSM_DEVICELED_BRIGHTNESS = "13.000000"
+HSM_DEVICELED_GAMMA = "0.450000"
+DecalImage = "../../../__global/images/decals/sm3.png"

@@ -1,5 +1,0 @@
-#reference "../../../../Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console/Nintendo_NES.slangp"
-#reference "../../res/params/Panel.params"
-#reference "../../res/params/Intro_Channel.params"
-
-LEDImage = "../../res/images/LED.png"

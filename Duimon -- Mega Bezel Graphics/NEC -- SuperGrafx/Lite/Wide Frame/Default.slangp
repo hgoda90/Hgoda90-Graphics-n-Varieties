@@ -1,5 +1,5 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/NEC_SuperGrafx/SuperGrafx-[STD]-[Guest-Mini]-[Bezel].slangp"
-#reference "../../../res/params/Wide Frame.params"
+#reference "../../../__global/params/wide-frame.params"
 
 HSM_FRM_NOISE = "20.000000"
 HSM_DECAL_POS_Y = "-0.200000"

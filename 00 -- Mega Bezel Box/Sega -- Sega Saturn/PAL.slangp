@@ -1,4 +1,0 @@
-#reference "../res/params/mbz.params"
-HSM_SCREEN_POSITION_X = "40.000000"
-HSM_BZL_COLOR_VALUE = "4.000000"
-BackgroundImage = "../res/images/Background/SS_PAL.png"

@@ -1,5 +1,5 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Nintendo_N64/N64-[STD]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/No Bezel.params"
+#reference "../../../__global/params/no-bezel.params"
 
 HSM_NON_INTEGER_SCALE = "92.169861"
 HSM_CROP_PERCENT_ZOOM = "2.200000"

@@ -1,5 +1,5 @@
 #reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/VTech_Socrates/Socrates-[ADV]-[Guest]-[Bezel].slangp"
-#reference "../../../res/params/Wide Frame.params"
+#reference "../../../__global/params/wide-frame.params"
 
 HSM_BZL_COLOR_HUE = "214.000000"
 HSM_BZL_COLOR_SATURATION = "57.000000"

@@ -1,8 +1,0 @@
-#reference "../../res/params/mbz.params"
-#reference "../../res/params/Standard Bezel.params"
-
-HSM_ASPECT_RATIO_EXPLICIT = "1.500000"
-HSM_BZL_COLOR_VALUE = "13.000000"
-HSM_FRM_USE_INDEPENDENT_COLOR = "1.000000"
-HSM_FRM_COLOR_VALUE = "8.000000"
-BackgroundImage = "../../res/images/CRT-TG-CD-lfan.png"

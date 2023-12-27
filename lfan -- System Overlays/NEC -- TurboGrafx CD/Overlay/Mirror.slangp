@@ -1,5 +1,5 @@
-#reference "../../res/params/mbz.params"
-#reference "../../res/params/Mirror Bezel.params"
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/mirror-bezel.params"
 
 HSM_ASPECT_RATIO_EXPLICIT = "1.444000"
 HSM_BZL_WIDTH = "560.000000"
@@ -7,4 +7,6 @@ HSM_BZL_COLOR_VALUE = "13.000000"
 HSM_FRM_USE_INDEPENDENT_COLOR = "1.000000"
 HSM_FRM_COLOR_VALUE = "8.000000"
 HSM_REFLECT_CORNER_ROTATION_OFFSET_BOTTOM = "-6.000000"
-BackgroundImage = "../../res/images/CRT-TG-CD-lfan.png"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../__global/images/CRT-TG-CD-lfan.png"

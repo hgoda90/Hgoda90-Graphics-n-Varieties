@@ -1,0 +1,6 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/lights.params"
+#reference "../../__global/params/full_screen.params"
+
+HSM_ASPECT_RATIO_ORIENTATION = "2.000000"
+HSM_DEVICELED_SCALE_X = "75.000000"

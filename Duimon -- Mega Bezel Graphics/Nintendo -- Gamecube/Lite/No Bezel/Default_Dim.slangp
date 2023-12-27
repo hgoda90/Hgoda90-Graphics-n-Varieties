@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Nintendo_Gamecube/Gamecube-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
+#reference "../../../__global/params/no-bezel.params"
+
+HSM_NON_INTEGER_SCALE = "89.969894"

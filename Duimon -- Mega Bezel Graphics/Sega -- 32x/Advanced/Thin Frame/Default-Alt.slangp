@@ -1,0 +1,4 @@
+#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/SEGA_32X/SEGA32X_Alt-[ADV]-[Guest]-[Bezel].slangp"
+#reference "../../../__global/params/thin-frame.params"
+
+HSM_BG_SCALE_X = "103.000000"
