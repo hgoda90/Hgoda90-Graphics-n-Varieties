@@ -1,0 +1,9 @@
+#reference "../../../../OrionsAngel-Overlays/Consoles/Atari -- Atari 2600/Outline-Alt.slangp"
+
+[BEZEL GENERAL]:
+	HSM_BZL_NOISE = "10.000000"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "5.000000"
+	HSM_BZL_COLOR_SATURATION = "93.000000"
+	HSM_BZL_COLOR_VALUE = "100.000000"

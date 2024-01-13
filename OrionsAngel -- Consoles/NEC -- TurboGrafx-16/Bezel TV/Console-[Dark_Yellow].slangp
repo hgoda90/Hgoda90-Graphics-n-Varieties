@@ -1,8 +1,0 @@
-#reference "../../res/params/mbz.params"
-#reference "../../res/params/Bezel TV.params"
-
-HSM_BZL_COLOR_HUE = "65.000000"
-HSM_BZL_COLOR_SATURATION = "76.000000"
-HSM_BZL_COLOR_VALUE = "90.000000"
-HSM_BG_FOLLOW_MODE = "1.000000"
-BackgroundImage = "../../res/images/Tgrafxreflectionsplainlogo.png"

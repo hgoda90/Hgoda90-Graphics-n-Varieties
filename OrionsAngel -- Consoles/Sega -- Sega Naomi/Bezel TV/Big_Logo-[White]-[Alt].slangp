@@ -1,6 +1,0 @@
-#reference "../../res/params/mbz.params"
-#reference "../../res/params/Bezel TV.params"
-
-HSM_BZL_COLOR_VALUE = "95.000000"
-HSM_BG_FOLLOW_MODE = "1.000000"
-BackgroundImage = "../../res/images/SegaNaomiAlt.png"
