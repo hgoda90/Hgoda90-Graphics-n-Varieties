@@ -1,0 +1,9 @@
+#reference "../../../../OrionsAngel-Overlays/Consoles/Atari -- Atari Jaguar/Outline_Logo_Red.slangp"
+
+[BEZEL GENERAL]:
+	HSM_BZL_NOISE = "10.000000"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "359.000000"
+	HSM_BZL_COLOR_SATURATION = "95.000000"
+	HSM_BZL_COLOR_VALUE = "90.000000"
