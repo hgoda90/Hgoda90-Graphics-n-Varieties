@@ -1,0 +1,9 @@
+#reference "../../../../OrionsAngel-Overlays/Consoles/Coleco -- ColecoVision/Plain_Dim.slangp"
+
+[BEZEL GENERAL]:
+	HSM_BZL_NOISE = "10.000000"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "212.000000"
+	HSM_BZL_COLOR_SATURATION = "25.000000"
+	HSM_BZL_COLOR_VALUE = "23.000000"

@@ -1,0 +1,9 @@
+#reference "../../../../OrionsAngel-Overlays/Consoles/Mattel -- Intellivision/Outline_Dim.slangp"
+
+[BEZEL GENERAL]:
+	HSM_BZL_NOISE = "10.000000"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "37.000000"
+	HSM_BZL_COLOR_SATURATION = "21.000000"
+	HSM_BZL_COLOR_VALUE = "85.000000"

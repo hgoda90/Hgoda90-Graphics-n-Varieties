@@ -1,0 +1,9 @@
+#reference "../../../../OrionsAngel-Overlays/Consoles/Commodore 64/Outline_Logo-Alt_Dim.slangp"
+
+[BEZEL GENERAL]:
+	HSM_BZL_NOISE = "10.000000"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "230.000000"
+	HSM_BZL_COLOR_SATURATION = "100.000000"
+	HSM_BZL_COLOR_VALUE = "64.000000"

@@ -1,0 +1,16 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/lights.params"
+
+[BEZEL GENERAL]:
+	HSM_BZL_NOISE = "10.000000"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "204.000000"
+	HSM_BZL_COLOR_SATURATION = "3.000000"
+	HSM_BZL_COLOR_VALUE = "71.000000"
+
+[FRAME GENERAL]:
+	HSM_FRM_NOISE = "10.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../../../OrionsAngel-Overlays/Consoles/Coleco -- ColecoVision/outline_logo.png

@@ -1,0 +1,16 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/lights.params"
+
+[BEZEL GENERAL]:
+	HSM_BZL_NOISE = "10.000000"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "38.000000"
+	HSM_BZL_COLOR_SATURATION = "22.000000"
+	HSM_BZL_COLOR_VALUE = "68.000000"
+
+[FRAME GENERAL]:
+	HSM_FRM_NOISE = "10.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../../../OrionsAngel-Overlays/Consoles/Commodore 64/plain.png"

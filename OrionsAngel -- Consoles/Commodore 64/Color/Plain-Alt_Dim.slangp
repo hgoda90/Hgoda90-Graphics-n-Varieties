@@ -1,0 +1,9 @@
+#reference "../../../../OrionsAngel-Overlays/Consoles/Commodore 64/Plain-Alt_Dim.slangp"
+
+[BEZEL GENERAL]:
+	HSM_BZL_NOISE = "10.000000"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "0.000000"
+	HSM_BZL_COLOR_SATURATION = "0.000000"
+	HSM_BZL_COLOR_VALUE = "68.000000"

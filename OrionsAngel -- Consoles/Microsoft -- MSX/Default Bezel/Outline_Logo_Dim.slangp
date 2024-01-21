@@ -1,0 +1,16 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/lights.params"
+
+[BEZEL GENERAL]:
+	HSM_BZL_NOISE = "10.000000"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "0.000000"
+	HSM_BZL_COLOR_SATURATION = "0.000000"
+	HSM_BZL_COLOR_VALUE = "100.000000"
+
+[FRAME GENERAL]:
+	HSM_FRM_NOISE = "10.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../../../OrionsAngel-Overlays/Consoles/Microsoft -- MSX/outline_logo.png

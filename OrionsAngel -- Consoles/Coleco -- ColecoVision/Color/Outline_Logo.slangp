@@ -1,0 +1,9 @@
+#reference "../../../../OrionsAngel-Overlays/Consoles/Coleco -- ColecoVision/Outline_Logo.slangp"
+
+[BEZEL GENERAL]:
+	HSM_BZL_NOISE = "10.000000"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "204.000000"
+	HSM_BZL_COLOR_SATURATION = "3.000000"
+	HSM_BZL_COLOR_VALUE = "71.000000"

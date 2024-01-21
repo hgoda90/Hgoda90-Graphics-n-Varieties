@@ -1,11 +1,11 @@
-#reference "../../../../OrionsAngel-Overlays/Consoles/Atari -- Atari 2600/Plain_Dim.slangp"
+#reference "../../../../OrionsAngel-Overlays/Consoles/Coleco -- ColecoVision/Plain.slangp"
 
 [NON-INTEGER SCALE OFFSET]:
-	HSM_NON_INTEGER_SCALE_OFFSET = "80.600000"
+	HSM_NON_INTEGER_SCALE_OFFSET = "79.800000"
 
 [POSITION OFFSET]:
-	HSM_SCREEN_POSITION_X = "-3.000000"
-	HSM_SCREEN_POSITION_Y = "-5.000000"
+	HSM_SCREEN_POSITION_X = "-2.000000"
+	HSM_SCREEN_POSITION_Y = "-4.000000"
 
 [CURVATURE]:
 	HSM_CURVATURE_2D_SCALE_LONG_AXIS = "25.000000"
