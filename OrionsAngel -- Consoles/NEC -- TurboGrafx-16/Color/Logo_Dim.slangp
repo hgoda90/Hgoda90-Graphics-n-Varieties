@@ -1,0 +1,9 @@
+#reference "../../../../OrionsAngel-Overlays/Consoles/NEC -- TurboGrafx-16/Logo_Dim.slangp"
+
+[BEZEL GENERAL]:
+	HSM_BZL_NOISE = "10.000000"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "180.000000"
+	HSM_BZL_COLOR_SATURATION = "2.000000"
+	HSM_BZL_COLOR_VALUE = "20.000000"

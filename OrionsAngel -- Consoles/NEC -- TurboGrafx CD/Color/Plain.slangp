@@ -1,0 +1,9 @@
+#reference "../../../../OrionsAngel-Overlays/Consoles/NEC -- TurboGrafx CD/Plain.slangp"
+
+[BEZEL GENERAL]:
+	HSM_BZL_NOISE = "10.000000"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "210.000000"
+	HSM_BZL_COLOR_SATURATION = "22.000000"
+	HSM_BZL_COLOR_VALUE = "11.000000"

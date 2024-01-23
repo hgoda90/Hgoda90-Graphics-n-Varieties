@@ -1,0 +1,9 @@
+#reference "../../../../OrionsAngel-Overlays/Consoles/NEC -- TurboGrafx-16/Outline_Logo.slangp"
+
+[BEZEL GENERAL]:
+	HSM_BZL_NOISE = "10.000000"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "35.000000"
+	HSM_BZL_COLOR_SATURATION = "100.000000"
+	HSM_BZL_COLOR_VALUE = "100.000000"

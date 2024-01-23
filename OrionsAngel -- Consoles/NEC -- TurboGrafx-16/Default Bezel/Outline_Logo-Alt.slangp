@@ -1,0 +1,15 @@
+#reference "../../__global/params/presets.params"
+
+[BEZEL GENERAL]:
+	HSM_BZL_NOISE = "10.000000"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "65.000000"
+	HSM_BZL_COLOR_SATURATION = "76.000000"
+	HSM_BZL_COLOR_VALUE = "90.000000"
+
+[FRAME GENERAL]:
+	HSM_FRM_NOISE = "10.000000"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../../../OrionsAngel-Overlays/Consoles/NEC -- TurboGrafx-16/outline_logo_yellow.png
