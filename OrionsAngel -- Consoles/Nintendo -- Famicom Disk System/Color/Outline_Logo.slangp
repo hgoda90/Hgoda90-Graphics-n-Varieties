@@ -1,0 +1,9 @@
+#reference "../../../../OrionsAngel-Overlays/Consoles/Nintendo -- Famicom Disk System/Outline_Logo.slangp"
+
+[BEZEL GENERAL]:
+	HSM_BZL_NOISE = "10.000000"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "46.000000"
+	HSM_BZL_COLOR_SATURATION = "100.000000"
+	HSM_BZL_COLOR_VALUE = "96.000000"

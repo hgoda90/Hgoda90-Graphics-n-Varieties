@@ -1,0 +1,12 @@
+#reference "../../../../OrionsAngel-Overlays/Consoles/Nintendo -- Famicom Disk System/Outline_Logo.slangp"
+
+[LAYER ORDER]:
+	HSM_BG_LAYER_ORDER = "1.000000"
+	HSM_CAB_GLASS_LAYER_ORDER = "0.000000"
+
+[CABINET GLASS LAYER]:
+	HSM_CAB_GLASS_OPACITY = "40.000000"
+	HSM_CAB_GLASS_MASK_MODE = "3.000000"
+
+[MEGA BEZEL IMAGES]:
+	CabinetGlassImage = "../../__global/images/screen.png"
