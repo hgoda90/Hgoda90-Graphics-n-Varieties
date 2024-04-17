@@ -1,0 +1,7 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/overlay-bezel.params"
+#reference "../../__global/params/overlay-bezel_lights.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.129300"
+HSM_BZL_WIDTH = "225.000000"
+BackgroundVertImage = "../../__global/images/CRT-Naomi-GD-ROM-V-lfan.png"

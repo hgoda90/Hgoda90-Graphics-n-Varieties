@@ -1,0 +1,8 @@
+#reference "../../__global/params/presets.params"
+#reference "../../__global/params/wide-frame.params"
+
+HSM_ASPECT_RATIO_EXPLICIT = "1.169300"
+HSM_BZL_COLOR_HUE = "20.000000"
+HSM_BZL_COLOR_SATURATION = "100.000000"
+HSM_BZL_COLOR_VALUE = "94.000000"
+BackgroundVertImage = "../../__global/images/CRT-Naomi-GD-ROM-V-lfan.png"
