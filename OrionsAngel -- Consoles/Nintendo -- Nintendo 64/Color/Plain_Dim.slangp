@@ -1,0 +1,10 @@
+#reference "../../../../OrionsAngel-Overlays/Consoles/Nintendo -- Nintendo 64/Plain.slangp"
+#reference "../../__global/params/lights.params"
+
+[BEZEL GENERAL]:
+	HSM_BZL_NOISE = "10.000000"
+
+[BEZEL COLOR]:
+	HSM_BZL_COLOR_HUE = "214.000000"
+	HSM_BZL_COLOR_SATURATION = "8.000000"
+	HSM_BZL_COLOR_VALUE = "34.000000"
