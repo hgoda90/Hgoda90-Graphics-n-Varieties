@@ -1,4 +1,4 @@
-#reference "../../../__global/params/mbz/presets.params"
+#reference "../../../__global/presets/mbz/001.pre"
 #reference "../../../__global/params/mbz/stick/4x3.params"
 #reference "../../../__global/params/mbz/stick/jakks/$GAME$.params"
 #reference "../../../__global/params/lights_02.params"

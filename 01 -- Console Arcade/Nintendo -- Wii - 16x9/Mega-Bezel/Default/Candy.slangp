@@ -1,4 +1,4 @@
-#reference "../../../__global/params/mbz/presets.params"
+#reference "../../../__global/presets/mbz/001.pre"
 #reference "../../../__global/params/mbz/candy/16x9.params"
 
 HSM_DEVICE_HUE = "188.000000"

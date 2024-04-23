@@ -1,4 +1,4 @@
-#reference "../../../__global/params/megalab/presets.params"
+#reference "../../../__global/presets/megalab/001.pre"
 #reference "../../../__global/params/megalab/arcade/ds_book.params"
 
 [BEZEL COLOR]:

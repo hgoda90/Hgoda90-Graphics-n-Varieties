@@ -1,4 +1,4 @@
-#reference "../../../__global/params/megalab/presets.params"
+#reference "../../../__global/presets/megalab/001.pre"
 #reference "../../../__global/params/megalab/2_squared/4x3.params"
 
 HSM_BZL_COLOR_HUE = "180.000000"

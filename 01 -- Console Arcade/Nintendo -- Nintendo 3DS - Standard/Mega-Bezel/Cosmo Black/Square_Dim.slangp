@@ -1,4 +1,4 @@
-#reference "../../../__global/params/mbz/presets.params"
+#reference "../../../__global/presets/mbz/001.pre"
 #reference "../../../__global/params/mbz/square/3ds.params"
 #reference "../../../__global/params/lights_02.params"
 

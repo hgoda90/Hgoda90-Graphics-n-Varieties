@@ -1,4 +1,4 @@
-#reference "../../../__global/params/mbz/presets.params"
+#reference "../../../__global/presets/mbz/001.pre"
 #reference "../../../__global/params/mbz/stick/16x9.params"
 
 HSM_LED_HUE = "176.000000"

@@ -1,4 +1,4 @@
-#reference "../../../__global/params/megalab/presets.params"
+#reference "../../../__global/presets/megalab/001.pre"
 #reference "../../../__global/params/megalab/2_squared/gbc.params"
 #reference "../../../__global/params/lights_02.params"
 
