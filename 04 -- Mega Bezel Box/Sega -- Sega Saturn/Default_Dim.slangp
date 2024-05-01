@@ -1,6 +1,0 @@
-#reference "../res/params/presets.params"
-#reference "../res/params/lights.params"
-
-HSM_SCREEN_POSITION_X = "10.000000"
-HSM_BZL_COLOR_VALUE = "4.000000"
-BackgroundImage = "../res/images/bg/ss.png"

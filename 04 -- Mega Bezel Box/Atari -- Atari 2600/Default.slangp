@@ -1,7 +1,0 @@
-#reference "../res/params/presets.params"
-HSM_USE_IMAGE_FOR_PLACEMENT = "1.000000"
-HSM_NON_INTEGER_SCALE_OFFSET = "76.000000"
-HSM_SCREEN_POSITION_Y = "-82.000000"
-HSM_FRM_OPACITY = "0.000000"
-HSM_FRM_INNER_EDGE_THICKNESS = "0.000000"
-BackgroundImage = "../res/images/bg/a2600.png"

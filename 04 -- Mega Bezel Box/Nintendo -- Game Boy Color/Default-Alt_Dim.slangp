@@ -1,8 +1,0 @@
-#reference "../res/params/presets.params"
-#reference "../res/params/lights.params"
-
-HSM_SCREEN_POSITION_X = "30.000000"
-no_scanliNES = "1.000000"
-HSM_CURVATURE_MODE = "0.000000"
-HSM_BZL_COLOR_VALUE = "4.000000"
-BackgroundImage = "../res/images/bg/gbc-alt.png"

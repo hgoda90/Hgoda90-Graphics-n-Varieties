@@ -1,9 +1,0 @@
-#reference "../../__global/params/presets.params"
-#reference "../../__global/params/full_wall.params"
-
-HSM_ASPECT_RATIO_ORIENTATION = "2.000000"
-HSM_BZL_WIDTH = "125.000000"
-HSM_BZL_HEIGHT = "100.000000"
-HSM_REFLECT_RADIAL_FADE_WIDTH = "60.000000"
-HSM_REFLECT_RADIAL_FADE_HEIGHT = "30.000000"
-HSM_DEVICELED_SCALE_X = "75.000000"

@@ -1,7 +1,0 @@
-#reference "../res/params/presets.params"
-#reference "../res/params/lights.params"
-
-HSM_NON_INTEGER_SCALE = "76.170000"
-HSM_FRM_OPACITY = "0.000000"
-HSM_FRM_INNER_EDGE_THICKNESS = "0.000000"
-BackgroundImage = "../res/images/bg/chf.png"

@@ -1,6 +1,0 @@
-#reference "../res/params/presets.params"
-#reference "../res/params/lights.params"
-
-HSM_SCREEN_POSITION_Y = "-32.000000"
-HSM_FRM_OPACITY = "0.000000"
-BackgroundImage = "../res/images/bg/nes-alt.png"
