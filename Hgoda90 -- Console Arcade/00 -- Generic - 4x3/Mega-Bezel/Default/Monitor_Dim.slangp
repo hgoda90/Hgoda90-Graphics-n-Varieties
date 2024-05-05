@@ -2,5 +2,8 @@
 #reference "../../../__global/params/mbz/monitor/4x3.params"
 #reference "../../../__global/params/lights_01.params"
 
+[REFLECTION]:
+	HSM_REFLECT_BEZEL_INNER_EDGE_AMOUNT = "20.000000"
+
 [MEGA BEZEL IMAGES]:
 	BackgroundImage = "../../../__global/images/mbz/monitor/mb.png"
