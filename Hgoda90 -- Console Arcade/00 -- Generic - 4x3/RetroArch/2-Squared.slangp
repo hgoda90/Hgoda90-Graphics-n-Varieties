@@ -1,0 +1,10 @@
+#reference "../../__global/presets/001.pre"
+#reference "../../__global/params/2_squared/4x3.params"
+
+[BEZEL COLOR]
+	HSM_BZL_COLOR_HUE = "205.000000"
+	HSM_BZL_COLOR_SATURATION = "72.000000"
+	HSM_BZL_COLOR_VALUE = "81.000000"
+
+[MEGA BEZEL IMAGES]
+	BackgroundImage = "../../__global/images/mb/retroarch/2squared.png"

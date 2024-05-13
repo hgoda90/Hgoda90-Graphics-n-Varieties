@@ -1,0 +1,5 @@
+#reference "../../__global/presets/001.pre"
+#reference "../../__global/params/candy/16x9.params"
+
+[MEGA BEZEL IMAGES]:
+	BackgroundImage = "../../__global/images/mb/retroarch/candy.png"
