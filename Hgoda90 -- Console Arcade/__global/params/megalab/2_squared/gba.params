@@ -1,8 +1,0 @@
-#reference "16x9.params"
-HSM_ASPECT_RATIO_MODE = "3.000000"
-HSM_DEVICE_POS_X = "2.000000"
-HSM_DECAL_SOURCE_MATTE_TYPE = "1.000000"
-HSM_DECAL_POS_X = "-41.300000"
-HSM_DECAL_POS_Y = "-19.900000"
-DecalImage = "../../../images/decals/gba.png"
-LEDImage = "../../../images/megalab/2_squared/stripes/gba.png"
