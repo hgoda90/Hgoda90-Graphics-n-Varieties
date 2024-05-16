@@ -2,4 +2,4 @@
 #reference "../../__global/params/arcade/16x9.params"
 
 [MEGA BEZEL IMAGES]
-	BackgroundImage = "../../__global/images/mb-w/default/arcade.png"
+	BackgroundImage = "../../__global/images/mb-w/retroarch/arcade_clean.png"
