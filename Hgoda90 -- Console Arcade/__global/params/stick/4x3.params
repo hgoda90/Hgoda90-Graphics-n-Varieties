@@ -93,6 +93,6 @@
 
 [---MEGA BEZEL IMAGES---]
 	TubeStaticReflectionImage = "../../images/reflection.png"
-	IntroImage = "../../images/intro.png"
 	DeviceImage = "../../images/rubber.png"
 	CabinetGlassImage = "../../images/glass.png"
+	IntroImage = "../../images/intro.png"

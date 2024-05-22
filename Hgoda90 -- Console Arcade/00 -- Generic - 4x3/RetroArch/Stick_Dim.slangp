@@ -2,6 +2,6 @@
 #reference "../../__global/params/stick/4x3.params"
 #reference "../../__global/params/lights_02.params"
 
-[MEGA BEZEL IMAGES]:
+[MEGA BEZEL IMAGES]
 	BackgroundImage = "../../__global/images/mb/retroarch/stick.png"
 	TopLayerImage = "../../__global/images/mb/retroarch/balltop.png"

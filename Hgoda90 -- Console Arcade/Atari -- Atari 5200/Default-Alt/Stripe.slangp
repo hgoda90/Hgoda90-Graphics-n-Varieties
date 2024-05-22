@@ -1,0 +1,10 @@
+#reference "../../__global/presets/001.pre"
+#reference "../../__global/params/stripe/4x3.params"
+
+[BEZEL COLOR]
+	HSM_BZL_COLOR_HUE = "280.0000000"
+	HSM_BZL_COLOR_SATURATION = "2.000000"
+	HSM_BZL_COLOR_VALUE = "58.000000"
+
+[MEGA BEZEL IMAGES]
+	BackgroundImage = "../../__global/images/a52/default-alt/stripe.png"

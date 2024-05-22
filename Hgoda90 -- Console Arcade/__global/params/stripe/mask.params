@@ -1,0 +1,32 @@
+[CRT BRIGHTNESS & GAMMA]
+	GAMMA_INPUT = "4.000000"
+	post_br = "0.500000"
+
+[SCANLINES & INTERLACING]
+	no_scanlines = "0.000000"
+
+[--- GUEST ADVANCED ---]
+	HSM_FXAA_ON = "1.000000"
+	CS = "4.000000"
+	CP = "5.000000"
+	g_crtgamut = "0.000000"
+	g_CRT_b = "100.000000"
+	g_lum = "0.400000"
+	g_cntrst = "-0.300000"
+	g_sat = "0.550000"
+	glow = "0.400000"
+	bloom = "0.300000"
+	mask_bloom = "0.400000"
+	bloom_dist = "0.200000"
+	halation = "0.300000"
+	gamma_c = "0.600000"
+	barspeed = "3.000000"
+	barintensity = "0.040000"
+	shadowMask = "5.000000"
+	maskstr = "1.000000"
+	mcut = "0.000000"
+	maskboost = "2.000000"
+	mask_gamma = "3.000000"
+	GDV_NOISE_ON = "1.000000"
+	addnoised = "0.400000"
+	noisetype = "1.000000"

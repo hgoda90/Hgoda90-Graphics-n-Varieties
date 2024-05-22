@@ -70,3 +70,4 @@
 [---MEGA BEZEL IMAGES---]
 	TubeStaticReflectionImage = "../../images/reflection.png"
 	BackgroundImage = "../../images/mb/default/arcade.png"
+	IntroImage = "../../images/intro.png"

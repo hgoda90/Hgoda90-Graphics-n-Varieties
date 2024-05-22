@@ -1,0 +1,10 @@
+#reference "../../__global/presets/001.pre"
+#reference "../../__global/params/monitor/4x3.params"
+
+[BEZEL COLOR]
+	HSM_BZL_COLOR_HUE = "240.0000000"
+	HSM_BZL_COLOR_SATURATION = "5.000000"
+	HSM_BZL_COLOR_VALUE = "15.000000"
+
+[MEGA BEZEL IMAGES]
+	BackgroundImage = "../../__global/images/jag/default/monitor.png"

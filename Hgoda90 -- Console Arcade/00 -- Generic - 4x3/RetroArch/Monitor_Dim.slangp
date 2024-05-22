@@ -8,4 +8,4 @@
 	HSM_BZL_COLOR_VALUE = "81.000000"
 
 [MEGA BEZEL IMAGES]
-	BackgroundImage = "../../__global/images/mbz/monitor/mb.png"
+	BackgroundImage = "../../__global/images/mb/retroarch/monitor.png"

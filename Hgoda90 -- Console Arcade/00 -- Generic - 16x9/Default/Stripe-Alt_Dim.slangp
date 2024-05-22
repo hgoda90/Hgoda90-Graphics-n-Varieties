@@ -1,0 +1,12 @@
+#reference "../../__global/presets/001.pre"
+#reference "../../__global/params/stripe/16x9.params"
+#reference "../../__global/params/stripe/mask.params"
+#reference "../../__global/params/lights_01.params"
+
+[--- GUEST ADVANCED ---]
+	barspeed = "50.000000"
+	barintensity = "0.000000"
+
+[MEGA BEZEL IMAGES]
+	BackgroundImage = "../../__global/images/mb-w/default/stripe.png"
+	DecalImage = "../../__global/images/mb-w/default/decal.png"

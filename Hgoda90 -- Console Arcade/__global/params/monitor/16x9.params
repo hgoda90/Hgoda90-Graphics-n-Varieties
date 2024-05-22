@@ -55,5 +55,15 @@
 [CABINET GLASS LAYER]
 	HSM_CAB_GLASS_MASK_MODE = "1.000000"
 
+[INTRO LOGO]
+	HSM_INTRO_LOGO_HEIGHT = "80.000000"
+
+[INTRO SOLID COLOR]
+	HSM_INTRO_SOLID_COLOR_VALUE = "0.000000"
+
+[INTRO STATIC NOISE]
+	HSM_INTRO_NOISE_BLEND_MODE = "3.000000"
+
 [---MEGA BEZEL IMAGES---]
 	CabinetGlassImage = "../../images/mbz/monitor/glass.png"
+	IntroImage = "../../images/intro.png"
