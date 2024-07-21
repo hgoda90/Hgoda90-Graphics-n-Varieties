@@ -1,7 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/Nintendo_Playstation_Prototype/Nintendo_PS-[STD]-[Guest]-[PVM20]-[Night].slangp"
-HSM_DEVICE_COLORIZE_ON = "0.000000"
-HSM_DEVICE_HUE = "343.000000"
-HSM_DEVICE_SATURATION = "8.000000"
-HSM_DEVICE_BRIGHTNESS = "78.000000"
-HSM_DEVICE_GAMMA = "0.650000"
-DeviceImage = "../../../../../Duimon-Mega-Bezel/Graphics/PVM/PVM20_Bezel2.png"

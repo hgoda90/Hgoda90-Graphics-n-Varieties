@@ -1,8 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Nintendo_Playstation_Prototype/Nintendo_PS-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
-HSM_BZL_COLOR_HUE = "35.000000"
-HSM_BZL_COLOR_SATURATION = "6.000000"
-HSM_BZL_COLOR_VALUE = "78.000000"
-HSM_DECAL_COLORIZE_ON = "1.000000"
-HSM_DECAL_HUE = "33.000000"
-HSM_DECAL_SATURATION = "118.000000"
-HSM_DECAL_BRIGHTNESS = "64.000000"

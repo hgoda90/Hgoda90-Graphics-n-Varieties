@@ -1,8 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/Nintendo_Super_Famicom/Super_Famicom-[STD]-[Guest-Mini]-[TM20].slangp"
-HSM_BZL_COLOR_HUE = "62.000000"
-HSM_BZL_COLOR_SATURATION = "100.000000"
-HSM_BZL_COLOR_VALUE = "100.000000"
-HSM_DEVICE_HUE = "10.000000"
-HSM_DEVICE_SATURATION = "100.000000"
-HSM_DEVICE_BRIGHTNESS = "110.000000"
-DeviceImage = "../../../../../Duimon-Mega-Bezel/Graphics/PVM/TM20_Bezel2.png"

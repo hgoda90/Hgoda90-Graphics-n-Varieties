@@ -1,5 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Pocket_Dream_Console/PDC-[ADV]-[LCD-GRID].slangp"
-HSM_DEVICE_HUE = "98.000000"
-HSM_DEVICE_SATURATION = "99.000000"
-HSM_DEVICE_BRIGHTNESS = "50.000000"
-HSM_DEVICE_GAMMA = "0.600000"

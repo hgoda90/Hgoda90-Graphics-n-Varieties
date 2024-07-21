@@ -1,6 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Standard/ScummVM/ScummVM-[STD]-[Guest]-[PVM20]-[Night].slangp"
-HSM_DEVICE_HUE = "210.000000"
-HSM_DEVICE_SATURATION = "67.000000"
-HSM_DEVICE_BRIGHTNESS = "32.000000"
-HSM_DEVICE_GAMMA = "1.000000"
-DeviceImage = "../../../../../Duimon-Mega-Bezel/Graphics/PVM/PVM20_Bezel2.png"

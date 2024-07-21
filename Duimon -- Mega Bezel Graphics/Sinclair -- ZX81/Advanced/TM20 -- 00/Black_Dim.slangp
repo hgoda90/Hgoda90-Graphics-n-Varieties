@@ -1,7 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Advanced/Sinclair_ZX81/ZX81-[ADV]-[Guest]-[TM20]-[Night].slangp"
-HSM_BZL_COLOR_VALUE = "11.000000"
-HSM_DEVICE_HUE = "0.000000"
-HSM_DEVICE_SATURATION = "0.000000"
-HSM_DEVICE_BRIGHTNESS = "2.000000"
-HSM_DEVICE_GAMMA = "0.800000"
-DeviceImage = "../../../../../Duimon-Mega-Bezel/Graphics/PVM/TM20_Bezel2.png"

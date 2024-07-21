@@ -1,4 +1,0 @@
-#reference "../../../../../Duimon-Mega-Bezel/Presets/Lite/LowRes_NX/LowResNX-[STD]-[LCD-GRID]-[Night].slangp"
-HSM_DEVICE_HUE = "109.000000"
-HSM_DEVICE_SATURATION = "122.000000"
-HSM_DEVICE_BRIGHTNESS = "100.000000"
