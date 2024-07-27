@@ -9,3 +9,4 @@
 
 [MEGA BEZEL IMAGES]
 	BackgroundImage = "../../__global/images/mb/retroarch/stripe.png"
+	DecalImage = "../../__global/images/mb/retroarch/decal.png"

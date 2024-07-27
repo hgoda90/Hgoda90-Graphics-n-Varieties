@@ -8,3 +8,4 @@
 
 [MEGA BEZEL IMAGES]
 	BackgroundImage = "../../__global/images/mb/default/stripe.png"
+	DecalImage = "../../__global/images/mb/default/decal.png"

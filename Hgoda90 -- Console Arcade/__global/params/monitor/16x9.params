@@ -20,7 +20,6 @@
 	HSM_BZL_WIDTH = "35.000000"
 	HSM_BZL_HEIGHT = "35.000000"
 	HSM_BZL_INNER_EDGE_THICKNESS = "0.000000"
-	HSM_BZL_NOISE = "50.000000"
 
 [FRAME GENERAL]
 	HSM_FRM_OPACITY = "0.000000"
@@ -65,5 +64,5 @@
 	HSM_INTRO_NOISE_BLEND_MODE = "3.000000"
 
 [---MEGA BEZEL IMAGES---]
-	CabinetGlassImage = "../../images/mbz/monitor/glass.png"
+	CabinetGlassImage = "../../images/glass.png"
 	IntroImage = "../../images/intro.png"
