@@ -9,3 +9,4 @@
 
 [MEGA BEZEL IMAGES]
 	BackgroundImage = "../../__global/images/a52/default-alt/stripe.png"
+	DecalImage = "../../__global/images/a52/default-alt/decal.png"

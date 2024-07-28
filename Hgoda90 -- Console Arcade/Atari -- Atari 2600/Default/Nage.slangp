@@ -1,0 +1,5 @@
+#reference "../../__global/presets/001.pre"
+#reference "../../__global/params/nage/4x3.params"
+
+[---MEGA BEZEL IMAGES---]
+	BackgroundImage = "../../__global/images/a26/default/nage.png"
