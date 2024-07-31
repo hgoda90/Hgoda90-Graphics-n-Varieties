@@ -14,4 +14,4 @@
 	HSM_BZL_COLOR_VALUE = "10.000000"
 
 [MEGA BEZEL IMAGES]
-	BackgroundImage = "../../__global/images/cps3/default_$CORE-ASPECT-ORIENT$/arcade.png"
+	BackgroundImage = "../../__global/images/cps3/default/$CORE-ASPECT-ORIENT$/arcade.png"

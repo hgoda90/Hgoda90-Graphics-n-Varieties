@@ -11,4 +11,4 @@
 	HSM_BZL_COLOR_VALUE = "99.000000"
 
 [MEGA BEZEL IMAGES]
-	BackgroundImage = "../../__global/images/cps2/default_$CORE-ASPECT-ORIENT$/monitor.png"
+	BackgroundImage = "../../__global/images/cps2/default/$CORE-ASPECT-ORIENT$/monitor.png"

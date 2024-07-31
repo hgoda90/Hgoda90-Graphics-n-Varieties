@@ -6,5 +6,5 @@
 	HSM_ASPECT_RATIO_ORIENTATION = "0.000000"
 
 [MEGA BEZEL IMAGES]
-	BackgroundImage = "../../__global/images/cps1/default_$CORE-ASPECT-ORIENT$/stick.png"
-	TopLayerImage = "../../__global/images/cps1/balltop.png"
+	BackgroundImage = "../../__global/images/cps1/default/$CORE-ASPECT-ORIENT$/stick.png"
+	TopLayerImage = "../../__global/images/cps1/default/balltop.png"

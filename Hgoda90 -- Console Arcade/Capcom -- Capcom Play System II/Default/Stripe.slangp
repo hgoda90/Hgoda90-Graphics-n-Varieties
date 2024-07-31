@@ -10,5 +10,5 @@
 	HSM_BZL_COLOR_VALUE = "99.000000"
 
 [MEGA BEZEL IMAGES]
-	BackgroundImage = "../../__global/images/cps2/stripe.png"
-	DecalImage = "../../__global/images/cps2/default_$CORE-ASPECT-ORIENT$/decal.png"
+	BackgroundImage = "../../__global/images/cps2/default/stripe.png"
+	DecalImage = "../../__global/images/cps2/default/$CORE-ASPECT-ORIENT$/decal.png"

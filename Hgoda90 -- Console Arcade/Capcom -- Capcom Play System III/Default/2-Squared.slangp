@@ -10,4 +10,4 @@
 	HSM_BZL_COLOR_VALUE = "99.000000"
 
 [MEGA BEZEL IMAGES]
-	BackgroundImage = "../../__global/images/cps3/2squared.png"
+	BackgroundImage = "../../__global/images/cps3/default/2squared.png"
