@@ -9,3 +9,4 @@
 
 [MEGA BEZEL IMAGES]
 	BackgroundImage = "../../__global/images/jag/default/stripe.png"
+	DecalImage = "../../__global/images/jag/default/decal.png"
