@@ -1,0 +1,10 @@
+#reference "../../__global/presets/001.pre"
+#reference "../../__global/params/arcade/4x3.params"
+
+[BEZEL COLOR]
+	HSM_BZL_COLOR_HUE = "0.000000"
+	HSM_BZL_COLOR_SATURATION = "0.000000"
+	HSM_BZL_COLOR_VALUE = "10.000000"
+
+[MEGA BEZEL IMAGES]
+	BackgroundImage = "../../__global/images/cv/default/arcade_clean.png"

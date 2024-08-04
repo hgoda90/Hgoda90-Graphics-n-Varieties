@@ -1,0 +1,11 @@
+#reference "../../__global/presets/001.pre"
+#reference "../../__global/params/2_squared/4x3.params"
+#reference "../../__global/params/lights_02.params"
+
+[BEZEL COLOR]
+	HSM_BZL_COLOR_HUE = "213.000000"
+	HSM_BZL_COLOR_SATURATION = "20.000000"
+	HSM_BZL_COLOR_VALUE = "22.000000"
+
+[MEGA BEZEL IMAGES]
+	BackgroundImage = "../../__global/images/dosbox/black/2squared.png"

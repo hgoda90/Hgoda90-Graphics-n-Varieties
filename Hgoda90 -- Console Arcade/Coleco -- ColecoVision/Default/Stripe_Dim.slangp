@@ -1,0 +1,12 @@
+#reference "../../__global/presets/001.pre"
+#reference "../../__global/params/stripe/4x3.params"
+#reference "../../__global/params/lights_02.params"
+
+[BEZEL COLOR]
+	HSM_BZL_COLOR_HUE = "330.000000"
+	HSM_BZL_COLOR_SATURATION = "10.000000"
+	HSM_BZL_COLOR_VALUE = "8.000000"
+
+[MEGA BEZEL IMAGES]
+	BackgroundImage = "../../__global/images/cv/default/stripe.png"
+	DecalImage = "../../__global/images/cv/default/decal.png"
