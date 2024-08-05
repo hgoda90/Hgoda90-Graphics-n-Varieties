@@ -1,0 +1,7 @@
+#reference "../../__global/presets/001.pre"
+#reference "../../__global/params/monitor/4x3.params"
+#reference "../../__global/params/jakks/$GAME$.params"
+#reference "../../__global/params/lights_01.params"
+
+[MEGA BEZEL IMAGES]
+	BackgroundImage = "../../__global/images/jakks/$GAME$/monitor.png"
