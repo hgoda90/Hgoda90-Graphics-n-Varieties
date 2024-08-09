@@ -1,0 +1,15 @@
+#reference "../../__global/presets/001.pre"
+#reference "../../__global/params/stripe/4x3.params"
+#reference "../../__global/params/stripe/mask.params"
+
+[ASPECT RATIO]
+	HSM_ASPECT_RATIO_ORIENTATION = "0.000000"
+
+[BEZEL COLOR]
+	HSM_BZL_COLOR_HUE = "38.000000"
+	HSM_BZL_COLOR_SATURATION = "22.000000"
+	HSM_BZL_COLOR_VALUE = "14.000000"
+
+[MEGA BEZEL IMAGES]
+	BackgroundImage = "../../__global/images/mame/default/stripe.png"
+	DecalImage = "../../__global/images/mame/default/$CORE-ASPECT-ORIENT$/decal.png"

@@ -1,0 +1,8 @@
+#reference "../../__global/presets/001.pre"
+#reference "../../__global/params/nage/4x3.params"
+
+[ASPECT RATIO]
+	HSM_ASPECT_RATIO_ORIENTATION = "0.000000"
+
+[---MEGA BEZEL IMAGES---]
+	BackgroundImage = "../../__global/images/mame/taito/$CORE-ASPECT-ORIENT$/nage.png"
