@@ -1,0 +1,6 @@
+#reference "../../__global/presets/001.pre"
+#reference "../../__global/params/stripe/16x9.params"
+
+[MEGA BEZEL IMAGES]
+	BackgroundImage = "../../__global/images/mb/sixteen_by_nine/stripe.png"
+	DecalImage = "../../__global/images/mb/sixteen_by_nine/decal.png"

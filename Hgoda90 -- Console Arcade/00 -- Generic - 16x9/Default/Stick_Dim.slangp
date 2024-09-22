@@ -1,7 +1,0 @@
-#reference "../../__global/presets/001.pre"
-#reference "../../__global/params/stick/16x9.params"
-#reference "../../__global/params/lights_02.params"
-
-[MEGA BEZEL IMAGES]
-	BackgroundImage = "../../__global/images/mb-w/default/stick.png"
-	TopLayerImage = "../../__global/images/mb-w/default/balltop.png"
